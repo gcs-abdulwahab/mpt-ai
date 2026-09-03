@@ -1,0 +1,365 @@
+.lesson {
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+}
+
+.lesson--loading {
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.lesson__bar {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  width: min(46rem, 100%);
+  margin: 0 auto;
+  padding: 1rem 1.25rem;
+}
+
+.lesson__close {
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+  flex: none;
+}
+
+.lesson__progress {
+  flex: 1;
+  height: 0.9rem;
+  border-radius: 999px;
+  background: var(--border);
+  overflow: hidden;
+}
+
+.lesson__progress span {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: hsl(var(--hue) 62% 45%);
+  transition: width 0.35s ease;
+}
+
+.lesson__count {
+  flex: none;
+  font-weight: 800;
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.lesson__body {
+  flex: 1;
+  width: min(46rem, 100%);
+  margin: 0 auto;
+  padding: 1rem 1.25rem 2rem;
+}
+
+.lesson__unit {
+  margin: 0 0 0.4rem;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: hsl(var(--hue) 62% 45%);
+}
+
+.lesson__prompt {
+  margin: 0 0 1.5rem;
+  font-size: clamp(1.25rem, 4.5vw, 1.6rem);
+  font-weight: 800;
+}
+
+.lesson__prompt:focus {
+  outline: none;
+}
+
+.choices {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.7rem;
+}
+
+.choice {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  width: 100%;
+  padding: 0.9rem 1rem;
+  font: inherit;
+  font-weight: 600;
+  text-align: start;
+  color: var(--text);
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-bottom-width: 4px;
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.choice:disabled {
+  cursor: default;
+}
+
+.choice__key {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 1.9rem;
+  height: 1.9rem;
+  font-size: 0.8rem;
+  font-weight: 800;
+  color: var(--muted);
+  border: 2px solid var(--border);
+  border-radius: 8px;
+}
+
+.choice--selected {
+  border-color: var(--blue);
+  background: color-mix(in srgb, var(--blue) 10%, var(--surface));
+}
+
+.choice--selected .choice__key {
+  color: var(--blue);
+  border-color: var(--blue);
+}
+
+.choice--correct {
+  border-color: var(--green);
+  background: color-mix(in srgb, var(--green) 14%, var(--surface));
+}
+
+.choice--wrong {
+  border-color: var(--red);
+  background: color-mix(in srgb, var(--red) 12%, var(--surface));
+}
+
+.lesson__footer {
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 1rem 1.25rem 1.5rem;
+  border-top: 2px solid var(--border);
+  background: var(--surface);
+}
+
+.lesson__footer.is-correct {
+  background: color-mix(in srgb, var(--green) 12%, var(--surface));
+  border-top-color: color-mix(in srgb, var(--green) 40%, var(--border));
+}
+
+.lesson__footer.is-wrong {
+  background: color-mix(in srgb, var(--red) 10%, var(--surface));
+  border-top-color: color-mix(in srgb, var(--red) 40%, var(--border));
+}
+
+.feedback {
+  width: min(46rem, 100%);
+}
+
+.feedback__title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0 0 0.3rem;
+  font-weight: 900;
+}
+
+.is-correct .feedback__title {
+  color: var(--green-dark);
+}
+
+.is-wrong .feedback__title {
+  color: var(--red-dark);
+}
+
+@media (prefers-color-scheme: dark) {
+  .is-correct .feedback__title {
+    color: var(--green);
+  }
+
+  .is-wrong .feedback__title {
+    color: var(--red);
+  }
+}
+
+.feedback__why {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* Results */
+
+.results {
+  width: min(40rem, 100%);
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+  text-align: center;
+}
+
+.results h1 {
+  margin: 1rem 0 0.25rem;
+  font-size: clamp(1.4rem, 5vw, 1.9rem);
+  font-weight: 900;
+}
+
+.results__score {
+  margin: 0 0 1.75rem;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+.results__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+.ring {
+  transform: rotate(-90deg);
+}
+
+.ring__track {
+  fill: none;
+  stroke: var(--border);
+  stroke-width: 12;
+}
+
+.ring__value {
+  fill: none;
+  stroke: hsl(var(--hue) 62% 45%);
+  stroke-width: 12;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.6s ease;
+}
+
+.ring__label {
+  transform: rotate(90deg);
+  transform-origin: 60px 60px;
+  fill: var(--text);
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.review {
+  margin: 0 0 2rem;
+  text-align: start;
+}
+
+.review h2 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.review ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.9rem;
+}
+
+.review li {
+  padding: 0.9rem 1rem;
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface-2);
+}
+
+.review__prompt {
+  margin: 0 0 0.5rem;
+  font-weight: 800;
+}
+
+.review__wrong,
+.review__right {
+  margin: 0.15rem 0;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.review__wrong {
+  color: var(--red-dark);
+}
+
+.review__right {
+  color: var(--green-dark);
+}
+
+@media (prefers-color-scheme: dark) {
+  .review__wrong {
+    color: var(--red);
+  }
+
+  .review__right {
+    color: var(--green);
+  }
+}
+
+.review__why {
+  margin: 0.5rem 0 0;
+  font-size: 0.87rem;
+  color: var(--muted);
+}
+
+/* Instruction that governs a group of past-paper items ("Identify the SYNONYM…") */
+.lesson__directive {
+  margin: 0 0 0.75rem;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--muted);
+  background: var(--surface-2);
+  border-left: 3px solid hsl(var(--hue) 62% 45%);
+  border-radius: 0 8px 8px 0;
+}
+
+/* Who stands behind the answer, when it is not the examiner's own printed key */
+.feedback__provenance {
+  margin: 0.35rem 0 0;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--muted);
+  opacity: 0.85;
+}
+
+/* Statement lists (UPSC-style "Consider the following statements") */
+.statements {
+  list-style: none;
+  margin: 0 0 1.25rem;
+  padding: 0 0 0 0.25rem;
+  display: grid;
+  gap: 0.6rem;
+}
+
+.statements li {
+  display: flex;
+  gap: 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.statements__mark {
+  flex: none;
+  min-width: 1.6rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  color: hsl(var(--hue) 62% 45%);
+}
+
+.lesson__closing {
+  margin: 0 0 1.25rem;
+  font-weight: 700;
+}

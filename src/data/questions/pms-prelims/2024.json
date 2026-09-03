@@ -1,0 +1,1639 @@
+{
+  "unit": "pms-2024",
+  "kind": "past-paper",
+  "source": "PPSC PMS General 2024, as published by testpointpk.com (answers and explanations are theirs).",
+  "lessons": [
+    {
+      "id": "pms-2024-1",
+      "title": "PPSC PMS General 2024 · Set 1",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-1",
+          "prompt": "Which of the following computer language is written in binary codes only?",
+          "choices": [
+            "FORTRAN",
+            "PASCAL",
+            "C Language",
+            "Machine Language"
+          ],
+          "answer": 3,
+          "explanation": "Machine Language is the lowest-level computer language, written entirely in binary code (0s and 1s). It is directly understood by the computer’s CPU without any translation. All higher-level languages (like C, Pascal, Basic) are converted into machine language before execution. Last verified on 12-03-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-2",
+          "prompt": "The largest Island of the world is _____?",
+          "choices": [
+            "Iceland",
+            "Cyprus",
+            "Greenland",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Greenland is the world’s largest island. It is located between the Arctic and Atlantic Oceans. It belongs to the Kingdom of Denmark. Population is about 56,000 people only. Area: 2.131 million km²Maximum width: 1,050 kmLocation: North America region (Arctic area)Capital: NuukLast verified on 06-06-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-3",
+          "prompt": "What is the use of a firewall in a computer?",
+          "choices": [
+            "For data transmission",
+            "For monitoring",
+            "For security",
+            "For authentication"
+          ],
+          "answer": 2,
+          "explanation": "A firewall is used for security by protecting a computer or network from unauthorized access and cyber threats. It monitors and filters incoming and outgoing network traffic. Firewalls block malicious connections while allowing trusted communication. They help prevent hacking, malware, and unauthorized access. Firewall",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-4",
+          "prompt": "Where is the headquarters of Association of Southeast Asian Nations (ASEAN) located?",
+          "choices": [
+            "Jakarta, Indonesia",
+            "Kuala Lumpur, Malaysia",
+            "Bangkok, Thailand",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Headquarters: Jakarta, IndonesiaASEAN was founded on 8 August 1967 in Bangkok through the Bangkok Declaration. Type: Economic & Political OrganizationEstablished at: Bangkok, ThailandOfficial Language: EnglishMembers: 11Last verified on 08-07-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-5",
+          "prompt": "Light year is a unit of _____?",
+          "choices": [
+            "Light",
+            "Distance",
+            "Time",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Light Year is the distance that light can travel in one year. The distance light travels in one year is known as light year.1 light year is equal to 9.5 x 10¹²km. Last verified on 30-03-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-6",
+          "prompt": "What does a trade surplus mean?",
+          "choices": [
+            "Imports are greater than exports",
+            "Exports are greater than imports",
+            "Both exports and imports are equal",
+            "There is no international trade"
+          ],
+          "answer": 1,
+          "explanation": "A trade surplus occurs when a country's exports are greater than its imports. It means the country sells more goods and services to other countries than it buys from them. Trade surplus increases foreign exchange earnings and can strengthen the economy. Last verified on 01-07-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-7",
+          "prompt": "IMF funds are primarily provided for which of the following?",
+          "choices": [
+            "Reduction in inflation",
+            "Infrastructure development",
+            "Economic stabilization and reform",
+            "Military assistance"
+          ],
+          "answer": 2,
+          "explanation": "IMF funds are primarily provided for economic stabilization and reform of countries facing financial crises. IMF provides financial assistance to improve balance of payments and stabilize economies. It supports reforms related to monetary, fiscal, and economic policies. Additional information: Founded: 27 December 1945",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-8",
+          "prompt": "Which Muslim scientist wrote the first book on Algebra and is known as the Father of Algebra?",
+          "choices": [
+            "Ibn Sina",
+            "Ibn Khaldun",
+            "Al-Khwarizmi",
+            "Euclid"
+          ],
+          "answer": 2,
+          "explanation": "Al-Khwarizmi is known as the Father of Algebra for writing the first systematic book on algebra. He wrote Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala in the 9th century. The word “Algebra” comes from “Al-Jabr” in his book title. Last verified on 24-06-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-9",
+          "prompt": "World Environment Day is observed every year on _____?",
+          "choices": [
+            "1 June",
+            "3 June",
+            "5 June",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "World Environment Day is on 5 June. First observed in the city of Spokane in the USA in 1974. Established by the UN General Assembly in 1972. It is also called Eco Day. Additional information: Theme:2020: Time for Nature in Colombia2021: Ecosystem restoration in Pakistan2022: Only One Earth in Sweden2023: Solutions to ",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-10",
+          "prompt": "Who is the author of the book/novel 'Nineteen Eighty Four'?",
+          "choices": [
+            "George Orwell",
+            "Emile Zola",
+            "Thomas Hardy",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "The novel “Nineteen Eighty-Four” (1984) is written by George Orwell. It was published in 1949. It presents a dystopian future under a totalitarian government. The story warns about surveillance, loss of freedom, and state control over truth and society. Last verified on 06-06-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2024-2",
+      "title": "PPSC PMS General 2024 · Set 2",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-11",
+          "prompt": "The book 'A Brief History of Time' is written by ____?",
+          "choices": [
+            "Stephen Hawking",
+            "Aristotle",
+            "Oswald Spengler",
+            "Karl Marx"
+          ],
+          "answer": 0,
+          "explanation": "Author: Stephen HawkingBook Title: A Brief History of TimeMain Topic: Universe (origin, structure, evolution, and fate)First Published: 1988Publisher: Bantam Dell Publishing GroupCopies Sold: ~10 millionLanguages: 40 languagesLast verified on 01-06-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-12",
+          "prompt": "What is the name of the ocean that lies between Europe and the United States?",
+          "choices": [
+            "Atlantic ocean",
+            "Pacific ocean",
+            "Arctic ocean",
+            "Mediterranean Sea"
+          ],
+          "answer": 0,
+          "explanation": "Ocean: Atlantic OceanRank: 2nd largest oceanArea: ~106 million km²Borders: Europe, Africa, North & South AmericaImportance: Trade and transportation routeLast verified on 27-04-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-13",
+          "prompt": "Battle of Plassey was fought in ______?",
+          "choices": [
+            "1674",
+            "1666",
+            "1757",
+            "1707"
+          ],
+          "answer": 2,
+          "explanation": "Fought between: British East India Company (led by Robert Clive) vs. Nawab of Bengal (Siraj-ud-Daulah) and his French allies. The Battle of Plassey was fought on 23 June 1757. It established British dominance in India. Location: Palashi (Plassey), Bengal. Captured CalcuttaLast updated by NA on 25-April-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-14",
+          "prompt": "Kitab-ul-Hind was written by _____?",
+          "choices": [
+            "Al Biruni",
+            "Al Farabi",
+            "Sir Syed Ahamd",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "The author of Kitab-ul-Hind is Al-Biruni. Publisher: Anjuman Taraqqi Urdu (Hind), Delhi. Year of Publication: 1941. The language of Al-Biruni's 'Kitab-ul-Hind' is Arabic. Last verified on 02-04-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-15",
+          "prompt": "Animals that eat only animals are called _____?",
+          "choices": [
+            "Insectivores",
+            "Carnivores",
+            "Omnivores",
+            "Herbivores"
+          ],
+          "answer": 1,
+          "explanation": "Carnivores are animals that eat only meat, primarily from other animals. Examples of carnivores include lions, tigers, bears, wolves, and sharks. Additional information: Animals that eat plants exclusively are herbivores. Animals that eat both plants and meat are called omnivores. Last verified on 07-03-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-16",
+          "prompt": "The biggest/largest district of Pakistan by area?",
+          "choices": [
+            "Mastung",
+            "Chaghi",
+            "Kalat",
+            "Noski"
+          ],
+          "answer": 1,
+          "explanation": "Chaghi District in Balochistan is the largest district of Pakistan by area. It covers over 38,000 km². Additional information: Lahore District in Punjab is the largest district of Pakistan by population. According to the 2017 Census, it had a population of 11,126,285. Last verified on 07-03-2026",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-17",
+          "prompt": "A set of rules required for data communication effectively:",
+          "choices": [
+            "Protocol",
+            "Standard",
+            "Topology",
+            "Networking"
+          ],
+          "answer": 0,
+          "explanation": "A set of rules that govern data communication is called a protocol. Protocols are agreements between devices That allows them to communicate with each other, regardless of their internal differences",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-18",
+          "prompt": "Who is the creator of the character named Sherlock Holmes?",
+          "choices": [
+            "Edgar Allen Poe",
+            "Agatha Christie",
+            "Arthur Conan Doyle",
+            "John Lehmann"
+          ],
+          "answer": 2,
+          "explanation": "Sir Arthur Conan Doyle created the character Sherlock Holmes He was first introduced the iconic detective in his novel A Study in Scarlet in 1887He was a British writer and medical doctor. The Sherlock Holmes stories are milestones in the field of crime fiction.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-19",
+          "prompt": "Who is called the Father of History?",
+          "choices": [
+            "Aristotle",
+            "Socrates",
+            "Herodotus",
+            "Plato"
+          ],
+          "answer": 2,
+          "explanation": "Herodotus is called the Father of History. Additional information: Born: 484 BC, Halicarnassus (modern-day Bodrum, Turkey)Died: 425 BC, Thurii, ItalyFamous Work: Histories – detailed accounts of Greco-Persian WarsContribution: First to collect, verify, and narrate historical events systematicallyLast verified on 18-01-",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-20",
+          "prompt": "Silicon valley is in ______?",
+          "choices": [
+            "New York",
+            "Los Angeles",
+            "Chicago",
+            "California"
+          ],
+          "answer": 3,
+          "explanation": "Silicon Valley, in the southern Area of California. Silicon Valley is a nickname for San Francisco. It is home to many start-ups and global technology companies. Apple, Facebook, and Google are among the most prominent.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2024-3",
+      "title": "PPSC PMS General 2024 · Set 3",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-21",
+          "prompt": "The largest Coal Producing Country in the World is ______?",
+          "choices": [
+            "China",
+            "Australia",
+            "Canda",
+            "America"
+          ],
+          "answer": 0,
+          "explanation": "The largest Coal coal-producing country in the World is China**China: Remains the dominant global producer, with its output in 2024 being around 4.78 billion tonnes. India: Ranks as the second-largest producer, with its output in 2024 around 1.085 billion tonnes. Indonesia: Is the third-largest producer, with about 836",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-22",
+          "prompt": "The First Muslim ruler to introduce the System of Price Control in the sub-continent was ______?",
+          "choices": [
+            "Jalal uddin Akbar",
+            "Allau ud din Khilji",
+            "Muhammad bin Tughluk",
+            "Shah Jehan"
+          ],
+          "answer": 1,
+          "explanation": "The system of market control or price control was introduced by Alauddin Khalji during the Sultanate period. He was the second ruler of the Khilji Dynasty in IndiaAGM 24-12-2022",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-23",
+          "prompt": "The Founder of Wikileaks Julian Paul Assange belongs to which country?",
+          "choices": [
+            "Spain",
+            "Russia",
+            "Australia",
+            "Germany"
+          ],
+          "answer": 2,
+          "explanation": "Julian Paul Assange is an Australian editor, publisher, and activist. He founded WikiLeaks in 2006Years active 1987–2019. Born: 3 July 1971 Australia",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-24",
+          "prompt": "Reuters is the news agency of _______?",
+          "choices": [
+            "United States",
+            "United Kingdom",
+            "France",
+            "Germany"
+          ],
+          "answer": 1,
+          "explanation": "News Agencies of Important CountriesPakistan: Associated Press of Pakistan (APP)China: XinhuaRussia: TASS (Telegrafnoye agentstvo Sovetskogo Soyuza) India: Press Trust of India (PTI)France: AFP (Agence France-Presse) (also oldest news agency)Italy: ANSA (Agenzia Nazionale Stampa Associata)USA: Associated Press (AP)Brit",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-25",
+          "prompt": "Animals that eat both plants and animals are known as?",
+          "choices": [
+            "Omnivores",
+            "Herbivores",
+            "Carnivores",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Omnivores are animals that eat both plants and animals. They have adaptations that allow them to digest and extract nutrients from a wide variety of food sources, including fruits, leaves, insects, small animals, and even carrion. Examples of omnivores include humans, bears, pigs, chimpanzees, and raccoons.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-26",
+          "prompt": "A Long Walk to Freedom is an autobiography of whom?",
+          "choices": [
+            "Shakespeare",
+            "Martin Luther King",
+            "Nelson Mandela",
+            "Desond Titu"
+          ],
+          "answer": 2,
+          "explanation": "Long Walk to Freedom is the autobiography of Nelson MandelaPublished in 1994,Additional informationNelson Mandela was the first black president of South Africa. Nelson Mandela died on 5 December 2013.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-27",
+          "prompt": "Which country did Hitler first attack during World War II?",
+          "choices": [
+            "France",
+            "Poland",
+            "Austria",
+            "Czechoslovakia"
+          ],
+          "answer": 1,
+          "explanation": "World War II began on September 1, 1939, when Germany invaded Poland. The invasion was executed using the \"Blitzkrieg\" (lightning war) strategy. Additional information World War II or the Second World War, was a global war that started from 1939 The Little Boy type of bomb, was dropped on the Japanese city of Hiroshima",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-28",
+          "prompt": "A train covers a distance in 5 hours at 45 km/h. What speed is required to cover the same distance in 3 hours?",
+          "choices": [
+            "60 km/h",
+            "70 km/h",
+            "75 km/h",
+            "90 km/h"
+          ],
+          "answer": 2,
+          "explanation": "To find the required speed, we first calculate the distance covered by the train: Distance=Speed×Time=45 km/h×5 hours=225 kmtext{Distance} = text{Speed} times text{Time} = 45 , text{km/h} times 5 , text{hours} = 225 , text{km}Now, to cover this 225 km in 3 hours, the required speed is: Speed=Distance/Time=225 km/3 hour",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-29",
+          "prompt": "The syntheses of an RNA molecule from DNA is called _______?",
+          "choices": [
+            "Transition",
+            "Andora",
+            "Transcription",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Transcription is the process where an RNA molecule is synthesized using DNA as a template. This is the first step in gene expression before translation into proteins.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-30",
+          "prompt": "What type of energy do solar cells convert?",
+          "choices": [
+            "Kinetic energy to electrical energy",
+            "Thermal energy to electrical energy",
+            "Solar (Sun's) energy to electrical energy",
+            "Chemical energy to electrical energy"
+          ],
+          "answer": 2,
+          "explanation": "Solar cells, also known as photovoltaic cells, convert solar energy (sunlight) directly into electrical energy. They work by using semiconductor materials to absorb photons from sunlight and release electrons, generating electricity.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2024-4",
+      "title": "PPSC PMS General 2024 · Set 4",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-31",
+          "prompt": "Which among the following is a Noble Gas? Helium, Argon, Both A and B, Hydrogen",
+          "choices": [
+            "Helium",
+            "Argon",
+            "Both A and B",
+            "Hydrogen"
+          ],
+          "answer": 2,
+          "explanation": "Helium and Argon is a noble gas, part of Group 18 in the periodic table. Helium (He)The lightest noble gas, helium is used in hot air balloons and airships. It's also used in air containers for deep-sea divers. Argon (Ar)Argon makes up 0.93% of the Earth's atmosphere. It can be prepared by fractional distillation of li",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-32",
+          "prompt": "The layers of atmosphere are divided into ____ layers.",
+          "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": 2,
+          "explanation": "Atmosphere is divided into Five layers/parts: TroposphereStratosphereMesosphereThermosphereExosphere",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-33",
+          "prompt": "What was the amount of the IMF loan provided to Pakistan in June 2023?",
+          "choices": [
+            "$1 billion",
+            "$2 billion",
+            "$3 billion",
+            "$4 billion"
+          ],
+          "answer": 2,
+          "explanation": "In June 2023, the IMF approved a $3 billion loan to Pakistan under a 9-month Stand-By Arrangement (SBA). This loan aimed to stabilize Pakistan's economy, support its financial reforms, and help manage external debt obligations.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-34",
+          "prompt": "Thalassemia is due to abnormality in _____?",
+          "choices": [
+            "Lymphatic fluid",
+            "Hemoglobin",
+            "Platelets",
+            "White blood cells"
+          ],
+          "answer": 1,
+          "explanation": "Thalassemia is a genetic blood disorder caused by an abnormality in hemoglobin production. It leads to reduced oxygen-carrying capacity of red blood cells.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-35",
+          "prompt": "The percentage of Muslims in Jammu and Kashmir is _____?",
+          "choices": [
+            "90",
+            "40",
+            "60",
+            "80"
+          ],
+          "answer": 3,
+          "explanation": "Jammu and Kashmir is a region administered by India as a union territory. Which has been the subject of a dispute between India and Pakistan since 1947, and between India and China since 1962.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-36",
+          "prompt": "Who is the President of the Oxford Union from Pakistan for the term 2025?",
+          "choices": [
+            "Moosa Harraj",
+            "Israr Kakar",
+            "Malala Yousafzai",
+            "Arshad Nadeem"
+          ],
+          "answer": 0,
+          "explanation": "Pakistani master's student Moosa Harraj has been elected Oxford Union president for Term 2025. He is the fourth Pakistani to be elected to the prestigious position. Harraj family are considered quite influential in Punjab’s Khanewal area. Additional Information: Former PM Benazir Bhutto was the first, former presidents",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-37",
+          "prompt": "Wall street is, located in ____?",
+          "choices": [
+            "London",
+            "China",
+            "Canada",
+            "New York"
+          ],
+          "answer": 3,
+          "explanation": "The Wall Street Journal, is an international daily newspaper based in New York City. The Journal is published six days a week by Dow Jones & Company, a division of News Corp. The newspaper is published in broadsheet format and online. also referred to simply as the Journal,Owner: Dow Jones & CompanyPublisher: Dow Jones",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-38",
+          "prompt": "Which of the following countries does not yield veto power?",
+          "choices": [
+            "United State",
+            "United Kingdom",
+            "Canada",
+            "France"
+          ],
+          "answer": 2,
+          "explanation": "Veto power / Permanent members of 'The United Nation Security Council1. France has used its veto power sparingly, vetoing 18 resolutions 2. Russia has been the most frequent user of the veto. Russia/USSR has used its veto 121 times3. China has used the veto 16 times, with the first one4. United States has used the veto",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-39",
+          "prompt": "Who was Ibn-e-Insha?",
+          "choices": [
+            "Poet",
+            "Columnist",
+            "Travelogue writer",
+            "All of these"
+          ],
+          "answer": 3,
+          "explanation": "Sher Muhammad Khan, better known by his pen name Ibn-e-Insha. He was a Pakistani Urdu poet, humorist, travelogue writer, and newspaper columnist. Born: June 15, 1927, Phillaur, IndiaDied: January 11, 1978, London, United KingdomGenre: GhazalNotable awards: Pride of Performance Award in 1978 by the President of Pakistan",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-40",
+          "prompt": "Which of the following is the main reason of Tsunami?",
+          "choices": [
+            "Wind Storm",
+            "Earthquake",
+            "Storm in the sea",
+            "Hall Storm"
+          ],
+          "answer": 1,
+          "explanation": "A tsunami is a series of powerful sea waves. It typically caused by underwater earthquakes or volcanic eruptions. It leading to coastal flooding.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2024-5",
+      "title": "PPSC PMS General 2024 · Set 5",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-41",
+          "prompt": "Where is the New York Stock Exchange (NYSE) located?",
+          "choices": [
+            "Times Square",
+            "Wall Street",
+            "Fifth Avenue",
+            "Central Park"
+          ],
+          "answer": 1,
+          "explanation": "The New York Stock Exchange is located on Wall Street in Lower Manhattan, New York City. It is the largest stock exchange in the world by market capitalization exceeding $25 trillion in July 2024Founded: May 17, 1792",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-42",
+          "prompt": "Boundary agreement was signed between Pakistan and China in?",
+          "choices": [
+            "2 March 1963",
+            "2 March 1962",
+            "2 March 1969",
+            "2 March 1947"
+          ],
+          "answer": 0,
+          "explanation": "A boundary agreement was signed between Pakistan and China in 2 March 1963. Negotiations between the nations officially began on October 13, 1962. It was signed by: Foreign Minister Chen Yi for the Chinese Zulfikar Ali Bhutto for the Pakistani The eastern tip of the Wakhan Corridor starts the Sino-Pak border between th",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-43",
+          "prompt": "What does opportunity cost refer to?",
+          "choices": [
+            "The cost of purchasing an item",
+            "Giving up the opportunity to choose the next best alternative",
+            "The amount of money spent on a product",
+            "The cost of producing a good or service"
+          ],
+          "answer": 1,
+          "explanation": "Opportunity cost is the value of the next best alternative that is forgone when a decision is made. It reflects the trade-off between choices and helps in evaluating the benefits of alternatives.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-44",
+          "prompt": "The ongoing Israel-Palestine crisis resulted from which 1947 decision?",
+          "choices": [
+            "Oslo Accords",
+            "Camp David Accords",
+            "UN Partition Plan",
+            "Balfour Declaration"
+          ],
+          "answer": 2,
+          "explanation": "On November 29, 1947, the United Nations General Assembly adopted Resolution 181 It is also known as the Partition ResolutionThe UN Partition Plan of 1947 proposed dividing Palestine into separate Jewish and Arab statesLeading to the creation of Israel",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-45",
+          "prompt": "What are moraines?",
+          "choices": [
+            "Sand dunes formed by wind",
+            "Deposits by glaciers",
+            "Rocks formed by volcanic eruptions",
+            "Sediments carried by rivers"
+          ],
+          "answer": 1,
+          "explanation": "Moraines are accumulations of dirt, rocks, and debris left behind by glaciers. They form as glaciers move and carry material, depositing it at the edges or terminus.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-46",
+          "prompt": "What is the meaning of the term Apartheid?",
+          "choices": [
+            "Unity",
+            "Segregation",
+            "Freedom",
+            "Independence"
+          ],
+          "answer": 1,
+          "explanation": "Apartheid was a system of institutionalized racial segregation in South Africa. It was enforced from 1948 to 1994, separating people based on race in all aspects of life. The term originates from Afrikaans, meaning \"apartness\" or \"separation.\"",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-47",
+          "prompt": "Libya, Algeria, and Tunisia belong to which continent?",
+          "choices": [
+            "Asia",
+            "Europe",
+            "Africa",
+            "South America"
+          ],
+          "answer": 2,
+          "explanation": "The UN subregion of North Africa consists of 7 countries at the northernmost part of the continent AlgeriaEgypt Libya MoroccoSudanTunisiaWestern SaharaNorth Africa is an economically prosperous area, generating one-third of Africa's total GDP.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-48",
+          "prompt": "Where is the Kala Pani Jail located on which island?",
+          "choices": [
+            "Lakshadweep Islands",
+            "Andaman and Nicobar Islands",
+            "Goa",
+            "Kerala"
+          ],
+          "answer": 1,
+          "explanation": "Kala Pani Jail, also known as Cellular Jail,It is located in the Andaman and Nicobar IslandsKalan Kot Fort was built probably in 14th century along with Thatta. It is located 5km south of Makli.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-49",
+          "prompt": "For what achievement did James Chadwick receive the Nobel Prize in 1935?",
+          "choices": [
+            "Discovery of the proton",
+            "Discovery of the neutron",
+            "Development of the atomic bomb",
+            "Discovery of radioactivity"
+          ],
+          "answer": 1,
+          "explanation": "James Chadwick discovered the neutron in 1932, an uncharged particle in the nucleus of an atom. This discovery was pivotal for understanding atomic structure and nuclear reactions. He was awarded the Nobel Prize in Physics in 1935 for this groundbreaking contribution.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-50",
+          "prompt": "In the early 1970s, Pakistan played a role in rapprochement between which two countries?",
+          "choices": [
+            "US and USSR",
+            "US and China",
+            "China and India",
+            "USSR and India"
+          ],
+          "answer": 1,
+          "explanation": "Pakistan acted as a mediator to facilitate secret diplomatic communications between the US and China. This led to Henry Kissinger's secret visit to China in 1971.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2024-6",
+      "title": "PPSC PMS General 2024 · Set 6",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-51",
+          "prompt": "What is a peninsula?",
+          "choices": [
+            "A piece of land surrounded by water on three sides",
+            "A body of water surrounded by land",
+            "A large island surrounded by ocean",
+            "A piece of land completely surrounded by wate"
+          ],
+          "answer": 0,
+          "explanation": "A peninsula is a landform that is connected to a larger landmass but is surrounded by water on three sides. Famous examples include the Iberian Peninsula and the Italian Peninsula. Peninsulas often have unique ecosystems and are significant in geography and human settlement.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-52",
+          "prompt": "What is the approximate percentage of water in carbonated drinks?",
+          "choices": [
+            "70%",
+            "80%",
+            "92%",
+            "95%"
+          ],
+          "answer": 2,
+          "explanation": "Carbonated drinks, such as sodas, are primarily made up of water, usually around 92%. The remaining percentage consists of sugars, flavorings, carbon dioxide, and other additives.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-53",
+          "prompt": "What was the profession of the President of Ukraine before he became president?",
+          "choices": [
+            "Actor",
+            "Comedian",
+            "Lawyer",
+            "Teacher"
+          ],
+          "answer": 1,
+          "explanation": "Before becoming president, Volodymyr Zelenskyy was a well-known comedian and actor. He gained fame for starring in the TV series Servant of the PeopleHe is served as the sixth and current president of Ukraine since 2019Preceded by: Petro Poroshenko",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-54",
+          "prompt": "A questionnaire survey is a type of survey used to collect which type of data?",
+          "choices": [
+            "Secondary Data",
+            "Primary Data",
+            "Tertiary Data",
+            "Qualitative Data"
+          ],
+          "answer": 1,
+          "explanation": "A questionnaire survey is designed to collect primary data directly from respondents. Primary data refers to original information gathered for a specific research purpose. It is often used in fields like market research, social sciences, and health studies.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-55",
+          "prompt": "What is the recent goal of the International Monetary Fund (IMF)?",
+          "choices": [
+            "Economic contraction",
+            "Modest growth",
+            "Hyperinflation",
+            "Global recession"
+          ],
+          "answer": 1,
+          "explanation": "A recent goal of the International Monetary Fund (IMF) is to promote modest growth: Global growthThe IMF projects that the world economy will grow at 3.2% in 2024 and 2025, which is the same pace as in 2023. This is below the historical average of 3.8% from 2000–2019.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-56",
+          "prompt": "A stone is a unit of which measurement?",
+          "choices": [
+            "Length",
+            "Weight",
+            "Area",
+            "Volum"
+          ],
+          "answer": 1,
+          "explanation": "The use of \"stone\" as a weight unit is less common today but still used in certain contexts. A stone is a unit of mass measurement in the British and English imperial systems. It is equal to 14 avoirdupois pounds, or about 6.35 kilograms. The symbol for stone is st.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-57",
+          "prompt": "What is a subsidy?",
+          "choices": [
+            "A tax imposed by the government",
+            "A loan given by the government",
+            "A benefit given to individuals or businesses by the government",
+            "A fine charged by the government"
+          ],
+          "answer": 2,
+          "explanation": "A subsidy is a financial assistance provided by the government to individuals, businesses, or industries to promote economic activity or reduce the cost of goods and services. Subsidies are often used to support sectors like agriculture, renewable energy, and healthcare. They aim to encourage production, lower prices, ",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-58",
+          "prompt": "What is the technique by which passwords and usernames can be stolen?",
+          "choices": [
+            "Hacking",
+            "Phishing",
+            "Spamming",
+            "Spoofing"
+          ],
+          "answer": 1,
+          "explanation": "PhishingA social engineering technique where hackers trick people into revealing their passwords by sending fake emails or messages. The emails may appear to be from a reputable company or a friend May include links to malicious websites or attachments",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-59",
+          "prompt": "Thal Nova is a project of which sector?",
+          "choices": [
+            "Agriculture",
+            "Energy",
+            "Education",
+            "Healthcare"
+          ],
+          "answer": 1,
+          "explanation": "ThalNova will be the second coal-fired power plant to be set up in Tharparker district of SindhThis was followed by the signing of a shareholder agreement in 2018 between: Thal Limited (House of Habib)Novatex (a subsidiary of Gani & Tayub) Hub Power Holdings Limited (HUBCO)",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-60",
+          "prompt": "The Order of the Rising Sun is an award of which country?",
+          "choices": [
+            "China",
+            "South Korea",
+            "Japan",
+            "India"
+          ],
+          "answer": 2,
+          "explanation": "The Order of the Rising Sun is one of Japan's highest honorsIt was established in 1875 by Emperor Meiji",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2024-7",
+      "title": "PPSC PMS General 2024 · Set 7",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-61",
+          "prompt": "What is the process called when a cell engulfs another cell?",
+          "choices": [
+            "Phagocytosis",
+            "Mitosis",
+            "Diffusion",
+            "Osmosis"
+          ],
+          "answer": 0,
+          "explanation": "Phagocytosis is when a cell (usually a white blood cell) engulfs and digests foreign particles, pathogens, or debris. It is a key immune response component, helping the body defend against infections. Cells that carry out this process are called phagocytes, which include certain types of white blood cells, such as macr",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-62",
+          "prompt": "Who was awarded the UK Brain of the Year Award in 2025?",
+          "choices": [
+            "Dr. Amjad Saqib",
+            "Dr. Faisal Khan",
+            "Dr. Abdul Qadeer Khan",
+            "Dr. Shahid Malik"
+          ],
+          "answer": 0,
+          "explanation": "Dr. Amjad Saqib, a renowned Pakistani social entrepreneurHe was awarded the UK Brain of the Year Award in 2025. He is widely recognized for his work in microfinance, especially his role in founding the organization Akhuwat Foundation",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-63",
+          "prompt": "The UN Charter was finalized at which conference?",
+          "choices": [
+            "Paris Peace Conference",
+            "Yalta Conference",
+            "San Francisco Conference",
+            "Potsdam Conference"
+          ],
+          "answer": 2,
+          "explanation": "The UN Charter was finalized at the San Francisco Conference The Charter of the United Nations is the founding document of the United Nations. It was signed on 26 June 1945The Charter consists of 111 articles grouped into 19 chaptersIt establishes the purposes, governing structure, and framework of the UN system.****Ii",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-64",
+          "prompt": "Which country is located north of the Gulf of Aden?",
+          "choices": [
+            "Saudi Arabia",
+            "Oman",
+            "Yemen",
+            "United Arab Emirates"
+          ],
+          "answer": 2,
+          "explanation": "Yemen is located north of the Gulf of AdenThe Gulf of Aden is deepwater in the Indian Ocean. It's bordered by: North: YemenEast: The Arabian SeaWest: DjiboutiSouth: The Guardafui Channel, the Socotra Archipelago, Puntland in Somalia, and SomalilandThe Gulf of Aden is about 900 kilometers longIt's an important waterway ",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-65",
+          "prompt": "Which nation changed all criminal laws from colonial times in July 2024?",
+          "choices": [
+            "India",
+            "Pakistan",
+            "South Africa",
+            "Australia"
+          ],
+          "answer": 0,
+          "explanation": "Prime Minister Narendra Modi will dedicate three transformative new criminal laws to the nation on December 3, 2024, at ChandigarhBharatiya Nyaya SanhitaBharatiya Nagarik Suraksha SanhitaBharatiya Sakshya Adhiniyam",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-66",
+          "prompt": "Which country is referred to as the Boot of Europe?",
+          "choices": [
+            "Spain",
+            "Italy",
+            "Greece",
+            "Portugal"
+          ],
+          "answer": 1,
+          "explanation": "Italy is often called the \"Boot of Europe\" Because of its shape, which resembles a high-heeled boot",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-67",
+          "prompt": "Who is the Christian-turned-Muslim writer of the biography Muhammad: His Life Based on the Earliest Sources?",
+          "choices": [
+            "Karen Armstrong",
+            "Muhammad Asad",
+            "Martin Lings",
+            "Marmaduke Pickthall"
+          ],
+          "answer": 2,
+          "explanation": "Muhammad: His Life Based on the Earliest Sources is a 1983 biography of the Islamic prophet Muhammad by Martin Lings.language EnglishSeries 1st Edition (1983), 2nd Edition (1991)Genre Non-fictionPublisher: Islamic Texts Society (1991), Inner Traditions (2006)Publication place: United Kingdom",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-68",
+          "prompt": "Which ancient civilization developed between the Tigris and Euphrates rivers?",
+          "choices": [
+            "Indus Valley Civilization",
+            "Mesopotamia",
+            "Ancient Egypt",
+            "Minoan Civilization"
+          ],
+          "answer": 1,
+          "explanation": "Mesopotamia, often referred to as the \"cradle of civilization,\" It was one of the first places where humans developed advanced culture The region is located between the Tigris and Euphrates rivers in Iraq and parts of Syria and Turkey.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-69",
+          "prompt": "What is the climate fund required by 2030 as per the NCFS (National Climate Finance Strategy)?",
+          "choices": [
+            "$100 billion",
+            "$200 billion",
+            "$348 billion",
+            "$300 billion"
+          ],
+          "answer": 2,
+          "explanation": "The National Climate Finance Strategy (NCFS) of Pakistan estimates The country will need $348 billion in climate finance by 2030 to achieve its climate-resilient development goalsPakistan faces a significant climate finance gap due to its vulnerability to climate change. The 2022 floods alone caused an estimated $30 bi",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-70",
+          "prompt": "Cyril Ramaphosa is the president of which country?",
+          "choices": [
+            "Zimbabwe",
+            "South Africa",
+            "Kenya",
+            "Nigeria"
+          ],
+          "answer": 1,
+          "explanation": "Cyril Ramaphosa is the President of South Africa. 5th and current President of South AfricaAssumed office on 15 February 2018Preceded by: Jacob Zuma",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2024-8",
+      "title": "PPSC PMS General 2024 · Set 8",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-71",
+          "prompt": "What are detritivores also called?",
+          "choices": [
+            "Producers",
+            "Herbivores",
+            "Decomposers",
+            "Carnivores"
+          ],
+          "answer": 2,
+          "explanation": "Detritivores feed on dead organic material, such as decaying plant and animal matter. They are often called decomposers Because they break down this organic matter into simpler substances, playing a key role in nutrient cycling in ecosystems.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-72",
+          "prompt": "In which year was the first Pakistan and European Union summit held, and where?",
+          "choices": [
+            "2005, London",
+            "2007, Islamabad",
+            "2009, Brussels",
+            "2011, Paris"
+          ],
+          "answer": 2,
+          "explanation": "The first summit between Pakistan and the European Union (EU) was held in Brussels, Belgium on June 17, 2009DetailsTopics: Strengthened partnership, regional politics, global issues, and the world economyFollow-up: A second summit was held in Islamabad on June 4, 2010Result: The EU-Pakistan Five-year Engagement Plan ca",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-73",
+          "prompt": "The Houthi uprising is taking place in which country?",
+          "choices": [
+            "Syria",
+            "Yemen",
+            "Iraq",
+            "Libya"
+          ],
+          "answer": 1,
+          "explanation": "The Houthis in Yemen officially called Ansar Allah, or supporters of GodHouthi movementٱلْحُوثِيُّونAnsar Allahأَنْصَار ٱللَّٰهHouthi's slogan reads \"God is the Greatest, Death to America, Death to Israel, Cursed be the Jews, Victory to Islam\". LeadersHussein Badreddin al-Houthi Abdul-Malik al-HouthiSpokespersonMohamme",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-74",
+          "prompt": "Who is the author of the book In Search of Identity?",
+          "choices": [
+            "Anwar El Sadat",
+            "Naguib Mahfouz",
+            "Taha Hussein",
+            "Ahmed Zewail"
+          ],
+          "answer": 0,
+          "explanation": "In Search of Identity is an autobiographical book written by Anwar El SadatHe is the former President of EgyptPublisher, Harper & Row, 1978",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-75",
+          "prompt": "To which country did Benjamin Franklin (1706–1790) belong?",
+          "choices": [
+            "England",
+            "France",
+            "America",
+            "Canada"
+          ],
+          "answer": 2,
+          "explanation": "Benjamin Franklin was one of the Founding Fathers of the United States of America. He discovered electricity and invented the lightning rod and bifocals.6th President of Pennsylvania from October 18, 1785 – November 5, 1788Born: January 17, 1706 AmericaDied: April 17, 1790 (aged 84) Philadelphia,U. S. Resting place: Ch",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-76",
+          "prompt": "Cutting Edge is the autobiography of?",
+          "choices": [
+            "Imran Khan",
+            "Aysha Jalal",
+            "Zulfiqar Ali Bhutto",
+            "Javed Miandad."
+          ],
+          "answer": 3,
+          "explanation": "Title: Cutting Edge: My AutobiographyAuthors: Javed Miandad, Saad ShafqatPublisher: Oxford University Press, 2003",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-77",
+          "prompt": "USSR disintegrated in how many states in 1991?",
+          "choices": [
+            "11",
+            "13",
+            "15",
+            "17"
+          ],
+          "answer": 2,
+          "explanation": "The Soviet Union (USSR) disintegrated into 15 independent states in 1991: ArmeniaAzerbaijanBelarusEstoniaGeorgiaKazakhstanKyrgyzstanLatviaLithuaniaMoldovaRussiaTajikistan TurkmenistanUkraineUzbekistan. The dissolution of the USSR was a gradual process that began in 1990 and ended on December 31, 1991.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-78",
+          "prompt": "The nonrenewable source of energy is _____?",
+          "choices": [
+            "Wind energy",
+            "Solar energy",
+            "Hydropower",
+            "Nuclear energy"
+          ],
+          "answer": 3,
+          "explanation": "Petroleum, natural gas & coal are called non-renewable energy sources. The most popular renewable energy sources currently are:1. Solar energy2. Wind energy3. Hydro energy4. Tidal energy5. Geothermal energy6. Biomass energyRK12-12-2022",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-79",
+          "prompt": "Mussolini is from which country?",
+          "choices": [
+            "Italy",
+            "France",
+            "Russia",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Benito Mussolini was an Italian politician and leader of the National Fascist Party. He ruled Italy as Prime Minister from 1922 until his ousting in 1943. He is known for his authoritarian and fascist regime, which allied with Nazi Germany and Japan during World War II. Mussolini was born in Predappio, Italy in 1883. H",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-80",
+          "prompt": "Nippon is the stock exchange market of _____?",
+          "choices": [
+            "Tokyo",
+            "London",
+            "New York",
+            "None"
+          ],
+          "answer": 0,
+          "explanation": "Nippon is the Japanese term for Japan. The Nippon Stock Exchange, also known as the Tokyo Stock Exchange (TSE). It is the main stock exchange in Tokyo, Japan. It is one of the largest stock exchanges in the world.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2024-9",
+      "title": "PPSC PMS General 2024 · Set 9",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-81",
+          "prompt": "USSR was dissolved in?",
+          "choices": [
+            "1988",
+            "1989",
+            "1990",
+            "1991"
+          ],
+          "answer": 3,
+          "explanation": "History of the Soviet UnionBackground1917–1927: Establishment (founded)1927–1953: Stalinism1953–1964: Khrushchev Thaw1964–1982: Era of Stagnation1982–1991: Decline and collapse (dissolved)******The Soviet Union, officially the Union of Soviet Socialist RepublicsCapital and largest city: Moscow****",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-82",
+          "prompt": "Cathay Pacific is an airline of?",
+          "choices": [
+            "Hong Kong",
+            "Taiwan",
+            "Japan",
+            "China"
+          ],
+          "answer": 0,
+          "explanation": "Cathay Pacific Limited is an airline based in Hong KongThe Founders of Cathay Pacific are: Sydney de KantzowRoy FarrellIt was founded on September 24, 1946Its headquarters is located at Hong Kong International AirportIt was completed in the middle of 1999******ND30-12-2022ND31-12-2022",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-83",
+          "prompt": "Before Damascus which city was the capital of Muslim Empire?",
+          "choices": [
+            "Baghdad",
+            "Kufa",
+            "Makkah",
+            "Madina"
+          ],
+          "answer": 1,
+          "explanation": "Before Damascus, the city of Kufa served as the capital of the Muslim Empire. This was during the rule of Caliph Hazrat Ali (RA), the fourth caliph of Islam. Kufa was made capital in 36 A. H.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-84",
+          "prompt": "7-Habits of the Highly Effective People was written by ____?",
+          "choices": [
+            "Stephen Covey",
+            "Dale Carnegie",
+            "Anthony Robbins",
+            "Napoleon Hill"
+          ],
+          "answer": 0,
+          "explanation": "Stephen R. Covey, a renowned leadership expert and co-founder of FranklinCovey Co. He authored \"The 7 Habits of Highly Effective People\". His book is a bestselling guide on personal and professional effectiveness.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-85",
+          "prompt": "Samarkand is the capital of which country?",
+          "choices": [
+            "Uzbekistan",
+            "Kazakhstan",
+            "Turkmenistan",
+            "Tajikistan"
+          ],
+          "answer": 0,
+          "explanation": "Samarqand is a city located in UzbekistanIt is the second largest after Tashkent, the capital of Uzbekistan. Uzbekistan Capital is Tashkent. Uzbekistan Currency is Uzbekistan Som. Uzbekistan official language is Uzbek; Russian. Uzbekistan located is in Continent Asia. Uzbekistan Primary Religion is Islam. Uzbekistan He",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-86",
+          "prompt": "Northern Rhodesia is the new name of:",
+          "choices": [
+            "Nigeria",
+            "Taiwan",
+            "Zambia",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Northern Rhodesia is the old name of ZambiaNorthern Rhodesia was a British protectorate in Southern Africa, now the independent country of Zambia. It was formed in 1911Additional InformationZimbabwe was formerly known as: Southern Rhodesia (1898),Rhodesia (1965), Zimbabwe Rhodesia (1979) and get independent",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-87",
+          "prompt": "The gandhara civilization followed the religion:",
+          "choices": [
+            "Brahmanism",
+            "Fire worship",
+            "Budhism",
+            "All of these"
+          ],
+          "answer": 2,
+          "explanation": "Gandhara Civilization flourished in Pakistan during the rule of Buddhist Kings. Taxila was considered as Pearl of Gandhara Civilization. language of the Gandhara civilization was: Prakrit***Gandhara's language was a Prakrit or \"Middle Indo-Aryan\" dialect, usually called Gāndhārī. Hindko from Peshawar, which was the cap",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-88",
+          "prompt": "Anthophobia is the fear of what?",
+          "choices": [
+            "Fever",
+            "Water",
+            "Cat",
+            "None of the above"
+          ],
+          "answer": 3,
+          "explanation": "Anthophobia is the fear of flora. People who have anthophobia have an extreme fear of flowers. “Anthos” is the Greek word for flowers, while phobia means fearwhileAerophobia is an extreme fear of flying. Febriphobia is the fear of fever. Laliophobia is a fear of speakingNyctophobia is the fear of Darkness. ND 24-9-2023",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-89",
+          "prompt": "ECO was founded in?",
+          "choices": [
+            "1985",
+            "1986",
+            "1966",
+            "1988"
+          ],
+          "answer": 0,
+          "explanation": "ECO founders: Turkey, Iran & PakistanMember states: 10 members1 observer ( Northern Cyprus)**ECO 10 Member state :1Türkiye,2 Iran3 Pakistan 4 Afghanistan5 Azerbaijan6 Kazakhstan7 Kyrgyz Republic8 Uzbekistan9 Tajikistan10 Turkmenistan***ECO stands for Economic Cooperation Organization Date of Establishment: 1985. Headqu",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-90",
+          "prompt": "Population density means ?",
+          "choices": [
+            "Number of individual per square km",
+            "Number of persons per kilometer",
+            "Both",
+            "None"
+          ],
+          "answer": 0,
+          "explanation": "Population density is the number of people living in a unit area of the earth's surface. It is generally expressed as per square km. The average density of the population in the whole world is 51 persons per square km.",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2024-10",
+      "title": "PPSC PMS General 2024 · Set 10",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2024",
+      "questions": [
+        {
+          "id": "pms2024-91",
+          "prompt": "At the time of the partition of India, Kashmiris were derived into?",
+          "choices": [
+            "Allied Conference and Axis Conference",
+            "Muslim Conference and National Conference",
+            "Muslim League and Congress",
+            "Muslim Conference and Allied Conference"
+          ],
+          "answer": 2,
+          "explanation": "The basis for the partition of India was the contention put forward in I940 by the Muslim League that. India's Muslims and Hindus constituted two separate nationThe Kashmir conflict started after the partition of India in 1947 as both India and Pakistan claimed the entirety of the former princely state of Jammu and Kas",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-92",
+          "prompt": "Think and Grow Richwas written by:",
+          "choices": [
+            "Napoleon Hill",
+            "Anthony Robbins",
+            "Stephen Covey",
+            "Dale Carnegle"
+          ],
+          "answer": 0,
+          "explanation": "Think and Grow Rich is a book written by Napoleon Hill Pages: 238 pagesPublisher: The Ralston SocietyPublication date: 1937ND28-4-2023",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-93",
+          "prompt": "European Union (EU) founded in the year:",
+          "choices": [
+            "1948",
+            "1999",
+            "1993",
+            "1997"
+          ],
+          "answer": 2,
+          "explanation": "European Union (EU) Founded November, 1993 Type Political & Economic Forum Headquarters Brussels, Belgium Members 27 Main Official Languages English, French, German",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-94",
+          "prompt": "2024 Olympics will be held in which country?",
+          "choices": [
+            "London – UK",
+            "Beijing – China",
+            "Paris – France",
+            "Rio_ Brazil"
+          ],
+          "answer": 2,
+          "explanation": "Know about 2024 Summer OlympicsHost: France, ParisOpening: 26 July 2024Closing: 11 August 2024Mascot: Phrygian CapOfficial Song: Games Wide Open",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-95",
+          "prompt": "‘Mariupol’ is the city of which country_______?",
+          "choices": [
+            "Russia",
+            "Ukraine",
+            "England",
+            "China"
+          ],
+          "answer": 1,
+          "explanation": "Mariupol is a city in Donetsk Oblast, Ukraine. Founded: 1778It is situated at the mouth of the Kalmius River It was the tenth-largest city in the country Districts Kalmiuskyi RaionLivoberezhnyi RaionPrymorskyi RaionTsentralnyi Raion",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-96",
+          "prompt": "What is the annual number of live births per 1,000 people called?",
+          "choices": [
+            "Crude Birth rate",
+            "Total fertilely rate",
+            "gross reproduction rate",
+            "none of these"
+          ],
+          "answer": 0,
+          "explanation": "The annual number of live births per 1,000 people is called the Crude Birth rateہر ایک ہزار افراد کی سالانہ پیدائش کی شرح کو خام پیدائش کی شرح کہا جاتا ہے۔the annual number of deaths per 1,000 people is called the Crude death rateہر ایک ہزار افراد کی سالانہ اموات کو خام اموات کی شرح کہا جاتا ہے۔",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2024-97",
+          "prompt": "If the mean of 7 terms is 40, the sum of those terms will be?",
+          "choices": [
+            "280",
+            "480",
+            "200",
+            "346"
+          ],
+          "answer": 0,
+          "explanation": "The mean is calculated by dividing the sum of the terms by the number of terms. Mean=Sum of the terms/Number of terms​Given that the mean is 40 and there are 7 terms, we can find the sum as:40=The sum of the terms/7​Multiplying both sides by 7: Sum of the terms=40×7=280",
+          "source": {
+            "paper": "PPSC PMS General 2024",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    }
+  ]
+}

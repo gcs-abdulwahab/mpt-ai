@@ -1,0 +1,370 @@
+{
+  "unit": "english",
+  "kind": "coached",
+  "lessons": [
+    {
+      "id": "eng-1",
+      "title": "Tenses & Agreement",
+      "subtitle": "Subject-verb agreement, tense forms, conditionals",
+      "questions": [
+        {
+          "id": "eng-1-1",
+          "prompt": "Neither the manager nor his assistants ______ available at the moment.",
+          "choices": [
+            "is",
+            "are",
+            "was",
+            "has been"
+          ],
+          "answer": 1,
+          "explanation": "With 'neither ... nor', the verb agrees with the nearer subject. 'Assistants' is plural, so 'are' is correct."
+        },
+        {
+          "id": "eng-1-2",
+          "prompt": "By the time the police arrived, the thieves ______.",
+          "choices": [
+            "fled",
+            "have fled",
+            "had fled",
+            "were fleeing"
+          ],
+          "answer": 2,
+          "explanation": "The past perfect ('had fled') marks an action completed before another past action ('arrived')."
+        },
+        {
+          "id": "eng-1-3",
+          "prompt": "One of the students ______ lost his book.",
+          "choices": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "answer": 1,
+          "explanation": "'One of the + plural noun' takes a singular verb: the subject is 'one', not 'students'."
+        },
+        {
+          "id": "eng-1-4",
+          "prompt": "She ______ in this office since 2015.",
+          "choices": [
+            "works",
+            "is working",
+            "has been working",
+            "had been working"
+          ],
+          "answer": 2,
+          "explanation": "'Since + a point in time' with an action continuing into the present takes the present perfect continuous."
+        },
+        {
+          "id": "eng-1-5",
+          "prompt": "If he ______ harder, he would have passed the examination.",
+          "choices": [
+            "studied",
+            "had studied",
+            "has studied",
+            "would study"
+          ],
+          "answer": 1,
+          "explanation": "Third conditional: 'If + past perfect, ... would have + past participle' for an unreal past condition."
+        },
+        {
+          "id": "eng-1-6",
+          "prompt": "Choose the correct passive form of: 'The secretary typed the letter yesterday.'",
+          "choices": [
+            "The letter is typed by the secretary yesterday.",
+            "The letter was typed by the secretary yesterday.",
+            "The letter has been typed by the secretary yesterday.",
+            "The letter was being typed by the secretary yesterday."
+          ],
+          "answer": 1,
+          "explanation": "The simple past active becomes 'was/were + past participle' in the passive: 'was typed'."
+        },
+        {
+          "id": "eng-1-7",
+          "prompt": "The committee ______ divided in its opinion on the new policy.",
+          "choices": [
+            "is",
+            "are",
+            "have",
+            "were"
+          ],
+          "answer": 0,
+          "explanation": "The collective noun is treated as a single body here - signalled by 'its' - so the singular 'is' agrees."
+        }
+      ]
+    },
+    {
+      "id": "eng-2",
+      "title": "Prepositions & Correction",
+      "subtitle": "Prepositions, articles, spotting the error",
+      "questions": [
+        {
+          "id": "eng-2-1",
+          "prompt": "He was accused ______ theft.",
+          "choices": [
+            "with",
+            "for",
+            "of",
+            "on"
+          ],
+          "answer": 2,
+          "explanation": "The fixed collocation is 'accused of' (compare: 'charged with')."
+        },
+        {
+          "id": "eng-2-2",
+          "prompt": "______ honest man is respected everywhere.",
+          "choices": [
+            "A",
+            "An",
+            "The",
+            "No article"
+          ],
+          "answer": 1,
+          "explanation": "'Honest' begins with a silent 'h', so it opens with a vowel sound and takes 'an'."
+        },
+        {
+          "id": "eng-2-3",
+          "prompt": "He is superior ______ me in intelligence.",
+          "choices": [
+            "than",
+            "to",
+            "from",
+            "over"
+          ],
+          "answer": 1,
+          "explanation": "Latin comparatives - superior, inferior, senior, junior, prior - take 'to', never 'than'."
+        },
+        {
+          "id": "eng-2-4",
+          "prompt": "The teacher distributed the sweets ______ the five children.",
+          "choices": [
+            "between",
+            "among",
+            "in",
+            "within"
+          ],
+          "answer": 1,
+          "explanation": "'Between' is used for two parties; 'among' for more than two."
+        },
+        {
+          "id": "eng-2-5",
+          "prompt": "Which sentence is grammatically correct?",
+          "choices": [
+            "Each of the boys have submitted their assignment.",
+            "Each of the boys has submitted his assignment.",
+            "Each of the boy has submitted their assignment.",
+            "Each of the boys are submitting their assignment."
+          ],
+          "answer": 1,
+          "explanation": "'Each' is singular, so it takes 'has' and a singular pronoun, while the noun after 'of' stays plural."
+        },
+        {
+          "id": "eng-2-6",
+          "prompt": "She has been suffering ______ fever for three days.",
+          "choices": [
+            "from",
+            "with",
+            "of",
+            "by"
+          ],
+          "answer": 0,
+          "explanation": "One suffers 'from' an illness; 'die of' and 'suffer from' are the standard collocations."
+        },
+        {
+          "id": "eng-2-7",
+          "prompt": "I congratulated him ______ his brilliant success.",
+          "choices": [
+            "for",
+            "at",
+            "on",
+            "about"
+          ],
+          "answer": 2,
+          "explanation": "The verb 'congratulate' takes 'on' before the achievement."
+        }
+      ]
+    },
+    {
+      "id": "eng-3",
+      "title": "Synonyms & Antonyms",
+      "subtitle": "High-frequency CSS vocabulary",
+      "questions": [
+        {
+          "id": "eng-3-1",
+          "prompt": "Choose the word closest in meaning to UBIQUITOUS:",
+          "choices": [
+            "Rare",
+            "Omnipresent",
+            "Ancient",
+            "Unique"
+          ],
+          "answer": 1,
+          "explanation": "Ubiquitous = present everywhere at once, i.e. omnipresent."
+        },
+        {
+          "id": "eng-3-2",
+          "prompt": "Choose the word closest in meaning to CANDID:",
+          "choices": [
+            "Frank",
+            "Deceitful",
+            "Timid",
+            "Careless"
+          ],
+          "answer": 0,
+          "explanation": "Candid means open and straightforward in speech - frank."
+        },
+        {
+          "id": "eng-3-3",
+          "prompt": "Choose the OPPOSITE of FRUGAL:",
+          "choices": [
+            "Thrifty",
+            "Extravagant",
+            "Economical",
+            "Modest"
+          ],
+          "answer": 1,
+          "explanation": "Frugal means sparing with money; its opposite is extravagant. Thrifty and economical are synonyms of it."
+        },
+        {
+          "id": "eng-3-4",
+          "prompt": "Choose the OPPOSITE of BENEVOLENT:",
+          "choices": [
+            "Generous",
+            "Malevolent",
+            "Kind",
+            "Charitable"
+          ],
+          "answer": 1,
+          "explanation": "Benevolent (well-wishing) is the direct opposite of malevolent (ill-wishing)."
+        },
+        {
+          "id": "eng-3-5",
+          "prompt": "Choose the word closest in meaning to ALLEVIATE:",
+          "choices": [
+            "Aggravate",
+            "Relieve",
+            "Postpone",
+            "Accuse"
+          ],
+          "answer": 1,
+          "explanation": "To alleviate is to make pain or a burden less severe - to relieve. 'Aggravate' is its opposite."
+        },
+        {
+          "id": "eng-3-6",
+          "prompt": "Choose the OPPOSITE of TRANSPARENT:",
+          "choices": [
+            "Clear",
+            "Opaque",
+            "Visible",
+            "Fragile"
+          ],
+          "answer": 1,
+          "explanation": "Opaque - not allowing light to pass through - is the antonym of transparent."
+        },
+        {
+          "id": "eng-3-7",
+          "prompt": "Choose the word closest in meaning to METICULOUS:",
+          "choices": [
+            "Careless",
+            "Painstaking",
+            "Hasty",
+            "Doubtful"
+          ],
+          "answer": 1,
+          "explanation": "Meticulous means showing great attention to detail - painstaking, scrupulous."
+        }
+      ]
+    },
+    {
+      "id": "eng-4",
+      "title": "Idioms & Phrasal Verbs",
+      "subtitle": "Meanings tested year after year",
+      "questions": [
+        {
+          "id": "eng-4-1",
+          "prompt": "'To bury the hatchet' means:",
+          "choices": [
+            "To hide evidence",
+            "To make peace",
+            "To dig a grave",
+            "To take revenge"
+          ],
+          "answer": 1,
+          "explanation": "From the custom of burying weapons when hostilities ended - to settle a quarrel."
+        },
+        {
+          "id": "eng-4-2",
+          "prompt": "'A blessing in disguise' means:",
+          "choices": [
+            "A hidden threat",
+            "Something that seems bad but turns out to be good",
+            "An unexpected gift",
+            "A false promise"
+          ],
+          "answer": 1,
+          "explanation": "An apparent misfortune whose benefit only becomes clear later."
+        },
+        {
+          "id": "eng-4-3",
+          "prompt": "The match was called ______ because of rain.",
+          "choices": [
+            "off",
+            "on",
+            "in",
+            "up"
+          ],
+          "answer": 0,
+          "explanation": "'Call off' = cancel. 'Call on' = visit; 'call up' = telephone or summon."
+        },
+        {
+          "id": "eng-4-4",
+          "prompt": "'To beat about the bush' means:",
+          "choices": [
+            "To speak plainly",
+            "To avoid coming to the main point",
+            "To search thoroughly",
+            "To work very hard"
+          ],
+          "answer": 1,
+          "explanation": "To approach a subject indirectly instead of addressing it head-on."
+        },
+        {
+          "id": "eng-4-5",
+          "prompt": "I cannot put up ______ his rude behaviour any longer.",
+          "choices": [
+            "for",
+            "with",
+            "on",
+            "against"
+          ],
+          "answer": 1,
+          "explanation": "'Put up with' means to tolerate or endure."
+        },
+        {
+          "id": "eng-4-6",
+          "prompt": "'To turn a deaf ear' means:",
+          "choices": [
+            "To listen carefully",
+            "To refuse to listen",
+            "To speak loudly",
+            "To misunderstand"
+          ],
+          "answer": 1,
+          "explanation": "To deliberately ignore what someone says or asks for."
+        },
+        {
+          "id": "eng-4-7",
+          "prompt": "'Once in a blue moon' means:",
+          "choices": [
+            "Very frequently",
+            "Very rarely",
+            "Only at night",
+            "Without warning"
+          ],
+          "answer": 1,
+          "explanation": "A blue moon is an uncommon event, so the idiom means 'very seldom'."
+        }
+      ]
+    }
+  ]
+}

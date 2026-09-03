@@ -1,0 +1,130 @@
+.tracks-header {
+  width: min(46rem, 100%);
+  margin: 0 auto;
+  padding: 1.25rem 1.25rem 0;
+}
+
+.tracks-header__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.tracks-header h1 {
+  margin: 1.5rem 0 0.4rem;
+  font-size: clamp(1.6rem, 6vw, 2.3rem);
+  font-weight: 900;
+}
+
+.tracks-header__blurb {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.tracks {
+  width: min(46rem, 100%);
+  margin: 0 auto;
+  padding: 1.75rem 1.25rem 1rem;
+  flex: 1;
+}
+
+.exam {
+  margin-bottom: 2.25rem;
+}
+
+.exam__heading h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.exam__heading p {
+  margin: 0.15rem 0 1rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.exam__tracks {
+  display: grid;
+  gap: 0.9rem;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+}
+
+.track {
+  display: block;
+  padding: 1.1rem 1.2rem;
+  text-decoration: none;
+  border: 2px solid var(--border);
+  border-bottom-width: 5px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  transition: transform 0.08s ease, border-color 0.15s ease;
+}
+
+.track:hover {
+  transform: translateY(-2px);
+  border-color: var(--green);
+}
+
+.track:active {
+  transform: translateY(2px);
+}
+
+.track h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+  font-weight: 900;
+}
+
+.track__tagline {
+  margin: 0 0 0.9rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.track__bar {
+  height: 0.6rem;
+  border-radius: 999px;
+  background: var(--border);
+  overflow: hidden;
+}
+
+.track__bar span {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--green), var(--blue));
+  transition: width 0.4s ease;
+}
+
+.track__meta {
+  margin: 0.55rem 0 0;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.track__meta strong {
+  color: var(--text);
+}
+
+.tracks-footer {
+  width: min(46rem, 100%);
+  margin: 0 auto;
+  padding: 0 1.25rem 4rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.tracks-footer p {
+  margin: 0;
+}
+
+.tracks-footer__admin {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-weight: 800;
+  color: var(--blue);
+  text-decoration: none;
+}

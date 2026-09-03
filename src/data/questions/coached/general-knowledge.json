@@ -1,0 +1,840 @@
+{
+  "unit": "general-knowledge",
+  "kind": "coached",
+  "note": "Current affairs items were checked in August 2026 - refresh them each exam cycle.",
+  "lessons": [
+    {
+      "id": "gsa-3",
+      "title": "Physics & Chemistry",
+      "subtitle": "Everyday science fundamentals",
+      "questions": [
+        {
+          "id": "gsa-3-1",
+          "prompt": "Which gas is most abundant in the Earth's atmosphere?",
+          "choices": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+          ],
+          "answer": 1,
+          "explanation": "Nitrogen makes up about 78% of the atmosphere by volume; oxygen is roughly 21%."
+        },
+        {
+          "id": "gsa-3-2",
+          "prompt": "What is the chemical symbol for gold?",
+          "choices": [
+            "Go",
+            "Gd",
+            "Au",
+            "Ag"
+          ],
+          "answer": 2,
+          "explanation": "Au, from the Latin 'aurum'. Ag is silver and Gd is gadolinium."
+        },
+        {
+          "id": "gsa-3-3",
+          "prompt": "The speed of light in a vacuum is approximately:",
+          "choices": [
+            "3 x 10^6 m/s",
+            "3 x 10^8 m/s",
+            "3 x 10^10 m/s",
+            "3 x 10^5 m/s"
+          ],
+          "answer": 1,
+          "explanation": "About 299,792,458 m/s, conventionally rounded to 3 x 10^8 m/s."
+        },
+        {
+          "id": "gsa-3-4",
+          "prompt": "The SI unit of electric current is the:",
+          "choices": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Watt"
+          ],
+          "answer": 2,
+          "explanation": "The ampere measures current; the volt measures potential difference and the watt measures power."
+        },
+        {
+          "id": "gsa-3-5",
+          "prompt": "At standard atmospheric pressure, water boils at:",
+          "choices": [
+            "90 degrees C",
+            "100 degrees C",
+            "110 degrees C",
+            "120 degrees C"
+          ],
+          "answer": 1,
+          "explanation": "100 degrees Celsius at sea level; the boiling point falls as altitude rises and pressure drops."
+        },
+        {
+          "id": "gsa-3-6",
+          "prompt": "Which is the hardest naturally occurring substance?",
+          "choices": [
+            "Quartz",
+            "Iron",
+            "Diamond",
+            "Granite"
+          ],
+          "answer": 2,
+          "explanation": "Diamond sits at 10 on the Mohs scale of hardness."
+        },
+        {
+          "id": "gsa-3-7",
+          "prompt": "The pH of a neutral solution at 25 degrees C is:",
+          "choices": [
+            "0",
+            "5",
+            "7",
+            "14"
+          ],
+          "answer": 2,
+          "explanation": "Below 7 is acidic and above 7 is basic; pure water at 25 degrees C is exactly 7."
+        }
+      ]
+    },
+    {
+      "id": "gsa-4",
+      "title": "Biology & Environment",
+      "subtitle": "The human body, nutrition, climate",
+      "questions": [
+        {
+          "id": "gsa-4-1",
+          "prompt": "Which vitamin is synthesised in the skin on exposure to sunlight?",
+          "choices": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "answer": 3,
+          "explanation": "Ultraviolet-B light converts a skin compound into vitamin D, which is needed for calcium absorption."
+        },
+        {
+          "id": "gsa-4-2",
+          "prompt": "Which organelle is known as the powerhouse of the cell?",
+          "choices": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondrion",
+            "Golgi body"
+          ],
+          "answer": 2,
+          "explanation": "Mitochondria carry out respiration and produce most of the cell's ATP."
+        },
+        {
+          "id": "gsa-4-3",
+          "prompt": "Which blood group is called the universal donor?",
+          "choices": [
+            "A positive",
+            "AB positive",
+            "O negative",
+            "B negative"
+          ],
+          "answer": 2,
+          "explanation": "O negative red cells carry neither A/B antigens nor the Rh D antigen, so they can be given to almost anyone."
+        },
+        {
+          "id": "gsa-4-4",
+          "prompt": "Deficiency of iodine in the diet causes:",
+          "choices": [
+            "Rickets",
+            "Goitre",
+            "Scurvy",
+            "Night blindness"
+          ],
+          "answer": 1,
+          "explanation": "Iodine is required for thyroid hormones; a shortage enlarges the thyroid gland, producing goitre."
+        },
+        {
+          "id": "gsa-4-5",
+          "prompt": "Which gas released by human activity contributes most to the greenhouse effect?",
+          "choices": [
+            "Carbon dioxide",
+            "Nitrogen",
+            "Argon",
+            "Helium"
+          ],
+          "answer": 0,
+          "explanation": "Carbon dioxide from burning fossil fuels is the largest human-driven contributor to warming."
+        },
+        {
+          "id": "gsa-4-6",
+          "prompt": "In green plants, photosynthesis takes place mainly in the:",
+          "choices": [
+            "Mitochondria",
+            "Chloroplasts",
+            "Vacuole",
+            "Cell wall"
+          ],
+          "answer": 1,
+          "explanation": "Chloroplasts hold chlorophyll, which captures light energy to make glucose from carbon dioxide and water."
+        },
+        {
+          "id": "gsa-4-7",
+          "prompt": "The largest organ of the human body is the:",
+          "choices": [
+            "Liver",
+            "Brain",
+            "Skin",
+            "Lungs"
+          ],
+          "answer": 2,
+          "explanation": "The skin is the largest organ by surface area and weight; the liver is the largest internal organ."
+        }
+      ]
+    },
+    {
+      "id": "pak-1",
+      "title": "Freedom Movement",
+      "subtitle": "1857 to independence",
+      "questions": [
+        {
+          "id": "pak-1-1",
+          "prompt": "The All India Muslim League was founded in 1906 at:",
+          "choices": [
+            "Lucknow",
+            "Dhaka",
+            "Aligarh",
+            "Lahore"
+          ],
+          "answer": 1,
+          "explanation": "It was founded on 30 December 1906 at Dhaka during the All India Muhammadan Educational Conference."
+        },
+        {
+          "id": "pak-1-2",
+          "prompt": "The Lahore Resolution was passed on:",
+          "choices": [
+            "14 August 1947",
+            "23 March 1940",
+            "25 December 1939",
+            "3 June 1947"
+          ],
+          "answer": 1,
+          "explanation": "Passed at Minto Park, Lahore on 23 March 1940; the day is now observed as Pakistan Day."
+        },
+        {
+          "id": "pak-1-3",
+          "prompt": "Quaid-e-Azam presented his Fourteen Points in:",
+          "choices": [
+            "1927",
+            "1929",
+            "1930",
+            "1933"
+          ],
+          "answer": 1,
+          "explanation": "They were presented in March 1929 in response to the Nehru Report of 1928."
+        },
+        {
+          "id": "pak-1-4",
+          "prompt": "Who was the first Governor-General of Pakistan?",
+          "choices": [
+            "Liaquat Ali Khan",
+            "Muhammad Ali Jinnah",
+            "Khawaja Nazimuddin",
+            "Ghulam Muhammad"
+          ],
+          "answer": 1,
+          "explanation": "Quaid-e-Azam Muhammad Ali Jinnah took oath as Governor-General on 15 August 1947."
+        },
+        {
+          "id": "pak-1-5",
+          "prompt": "Who was the first Prime Minister of Pakistan?",
+          "choices": [
+            "Liaquat Ali Khan",
+            "Khawaja Nazimuddin",
+            "Muhammad Ali Bogra",
+            "Chaudhry Muhammad Ali"
+          ],
+          "answer": 0,
+          "explanation": "Nawabzada Liaquat Ali Khan, titled Quaid-e-Millat, served from 1947 until his assassination in 1951."
+        },
+        {
+          "id": "pak-1-6",
+          "prompt": "The Objectives Resolution was passed by the Constituent Assembly in:",
+          "choices": [
+            "1947",
+            "1949",
+            "1954",
+            "1956"
+          ],
+          "answer": 1,
+          "explanation": "Moved by Liaquat Ali Khan and passed in March 1949; it later became a substantive part of the Constitution."
+        },
+        {
+          "id": "pak-1-7",
+          "prompt": "The boundary between India and Pakistan at partition was drawn by a commission headed by:",
+          "choices": [
+            "Lord Mountbatten",
+            "Cyril Radcliffe",
+            "Stafford Cripps",
+            "Clement Attlee"
+          ],
+          "answer": 1,
+          "explanation": "Sir Cyril Radcliffe chaired the Boundary Commission; the Radcliffe Award was made public on 17 August 1947."
+        }
+      ]
+    },
+    {
+      "id": "pak-2",
+      "title": "Constitution & Government",
+      "subtitle": "Constitutional development and institutions",
+      "questions": [
+        {
+          "id": "pak-2-1",
+          "prompt": "How many constitutions has Pakistan had since independence?",
+          "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "answer": 1,
+          "explanation": "The constitutions of 1956, 1962 and 1973; the 1973 Constitution remains in force."
+        },
+        {
+          "id": "pak-2-2",
+          "prompt": "The Constitution of 1973 came into force on:",
+          "choices": [
+            "23 March 1973",
+            "14 August 1973",
+            "1 July 1973",
+            "25 December 1973"
+          ],
+          "answer": 1,
+          "explanation": "It was passed in April 1973 and enforced on 14 August 1973 under Prime Minister Zulfikar Ali Bhutto."
+        },
+        {
+          "id": "pak-2-3",
+          "prompt": "The Parliament (Majlis-e-Shoora) of Pakistan consists of:",
+          "choices": [
+            "The National Assembly only",
+            "The National Assembly and the Senate",
+            "The Senate and the Provincial Assemblies",
+            "The President and the National Assembly"
+          ],
+          "answer": 1,
+          "explanation": "A bicameral legislature: the National Assembly (lower house) and the Senate (upper house)."
+        },
+        {
+          "id": "pak-2-4",
+          "prompt": "Under the Constitution, the head of state of Pakistan is the:",
+          "choices": [
+            "Prime Minister",
+            "President",
+            "Chief Justice",
+            "Chairman Senate"
+          ],
+          "answer": 1,
+          "explanation": "The President is head of state; executive authority rests with the Prime Minister and the Cabinet."
+        },
+        {
+          "id": "pak-2-5",
+          "prompt": "The 18th Amendment (2010) is best known for:",
+          "choices": [
+            "Creating the office of Prime Minister",
+            "Devolving powers to the provinces and abolishing the Concurrent List",
+            "Introducing the presidential system",
+            "Establishing the Federal Shariat Court"
+          ],
+          "answer": 1,
+          "explanation": "It abolished the Concurrent Legislative List, strengthened provincial autonomy and trimmed presidential powers."
+        },
+        {
+          "id": "pak-2-6",
+          "prompt": "How many general seats does the National Assembly have (after the merger of FATA)?",
+          "choices": [
+            "272",
+            "266",
+            "342",
+            "336"
+          ],
+          "answer": 1,
+          "explanation": "266 general seats, plus reserved seats for women and non-Muslims, giving a total house of 336."
+        },
+        {
+          "id": "pak-2-7",
+          "prompt": "The total membership of the Senate of Pakistan is:",
+          "choices": [
+            "87",
+            "96",
+            "100",
+            "104"
+          ],
+          "answer": 1,
+          "explanation": "The Senate has 96 members following the merger of FATA into Khyber Pakhtunkhwa in 2018 (previously 104)."
+        }
+      ]
+    },
+    {
+      "id": "pak-3",
+      "title": "Geography & Economy",
+      "subtitle": "Rivers, mountains, provinces, resources",
+      "questions": [
+        {
+          "id": "pak-3-1",
+          "prompt": "The highest mountain peak in Pakistan is:",
+          "choices": [
+            "Nanga Parbat",
+            "K2",
+            "Rakaposhi",
+            "Tirich Mir"
+          ],
+          "answer": 1,
+          "explanation": "K2 (8,611 m) in the Karakoram is the highest in Pakistan and the second highest in the world."
+        },
+        {
+          "id": "pak-3-2",
+          "prompt": "The longest river of Pakistan is the:",
+          "choices": [
+            "Jhelum",
+            "Chenab",
+            "Indus",
+            "Ravi"
+          ],
+          "answer": 2,
+          "explanation": "The Indus runs roughly 3,180 km from Tibet through Pakistan to the Arabian Sea."
+        },
+        {
+          "id": "pak-3-3",
+          "prompt": "The Khunjerab Pass connects Pakistan with:",
+          "choices": [
+            "Afghanistan",
+            "India",
+            "China",
+            "Iran"
+          ],
+          "answer": 2,
+          "explanation": "It carries the Karakoram Highway into China's Xinjiang region at about 4,693 m."
+        },
+        {
+          "id": "pak-3-4",
+          "prompt": "Tarbela Dam is built on which river?",
+          "choices": [
+            "Jhelum",
+            "Indus",
+            "Kabul",
+            "Chenab"
+          ],
+          "answer": 1,
+          "explanation": "Tarbela is on the Indus in Khyber Pakhtunkhwa; Mangla Dam is on the Jhelum."
+        },
+        {
+          "id": "pak-3-5",
+          "prompt": "The largest province of Pakistan by area is:",
+          "choices": [
+            "Punjab",
+            "Sindh",
+            "Balochistan",
+            "Khyber Pakhtunkhwa"
+          ],
+          "answer": 2,
+          "explanation": "Balochistan covers about 44% of Pakistan's land area, though it has the smallest population."
+        },
+        {
+          "id": "pak-3-6",
+          "prompt": "The Durand Line is the border between Pakistan and:",
+          "choices": [
+            "India",
+            "Iran",
+            "China",
+            "Afghanistan"
+          ],
+          "answer": 3,
+          "explanation": "Demarcated in 1893 between British India and Afghanistan, it runs about 2,600 km."
+        },
+        {
+          "id": "pak-3-7",
+          "prompt": "Gwadar deep-sea port is located in which province?",
+          "choices": [
+            "Sindh",
+            "Balochistan",
+            "Punjab",
+            "Khyber Pakhtunkhwa"
+          ],
+          "answer": 1,
+          "explanation": "Gwadar lies on the Balochistan coast and is the maritime terminus of CPEC."
+        }
+      ]
+    },
+    {
+      "id": "ca-1",
+      "title": "Pakistan & the World",
+      "subtitle": "Diplomacy, membership, agreements",
+      "questions": [
+        {
+          "id": "ca-1-1",
+          "prompt": "Pakistan is serving as a non-permanent member of the UN Security Council for the term:",
+          "choices": [
+            "2023-24",
+            "2024-25",
+            "2025-26",
+            "2026-27"
+          ],
+          "answer": 2,
+          "explanation": "Pakistan was elected in June 2024 for the 2025-26 term - its eighth term on the Council.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-1-2",
+          "prompt": "CPEC is a flagship project of which wider initiative?",
+          "choices": [
+            "Belt and Road Initiative",
+            "Indo-Pacific Strategy",
+            "Asian Development Programme",
+            "Central Asia Regional Economic Cooperation"
+          ],
+          "answer": 0,
+          "explanation": "The China-Pakistan Economic Corridor is the flagship corridor of China's Belt and Road Initiative, launched in 2013.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-1-3",
+          "prompt": "Pakistan was removed from the FATF grey list in:",
+          "choices": [
+            "June 2021",
+            "February 2022",
+            "October 2022",
+            "March 2023"
+          ],
+          "answer": 2,
+          "explanation": "The Financial Action Task Force removed Pakistan from its list of jurisdictions under increased monitoring in October 2022.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-1-4",
+          "prompt": "Pakistan became a full member of the Shanghai Cooperation Organisation in:",
+          "choices": [
+            "2005",
+            "2015",
+            "2017",
+            "2020"
+          ],
+          "answer": 2,
+          "explanation": "Pakistan and India were both admitted as full members at the Astana summit in June 2017.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-1-5",
+          "prompt": "The headquarters of the Organisation of Islamic Cooperation (OIC) is in:",
+          "choices": [
+            "Jeddah",
+            "Riyadh",
+            "Istanbul",
+            "Cairo"
+          ],
+          "answer": 0,
+          "explanation": "The OIC General Secretariat is in Jeddah, Saudi Arabia. It is the second largest inter-governmental organisation after the UN.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-1-6",
+          "prompt": "The headquarters of SAARC is located in:",
+          "choices": [
+            "Islamabad",
+            "Dhaka",
+            "Kathmandu",
+            "Colombo"
+          ],
+          "answer": 2,
+          "explanation": "The SAARC Secretariat has been in Kathmandu, Nepal since 1987.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-1-7",
+          "prompt": "Pakistan hosted the SCO Council of Heads of Government meeting in October 2024 in:",
+          "choices": [
+            "Karachi",
+            "Lahore",
+            "Islamabad",
+            "Gwadar"
+          ],
+          "answer": 2,
+          "explanation": "Islamabad hosted the 23rd SCO Heads of Government meeting on 15-16 October 2024.",
+          "asOf": "2026-08"
+        }
+      ]
+    },
+    {
+      "id": "ca-2",
+      "title": "Global Institutions",
+      "subtitle": "Organisations, summits and agreements",
+      "questions": [
+        {
+          "id": "ca-2-1",
+          "prompt": "Who has served as Secretary-General of the United Nations since 2017?",
+          "choices": [
+            "Ban Ki-moon",
+            "Antonio Guterres",
+            "Kofi Annan",
+            "Amina Mohammed"
+          ],
+          "answer": 1,
+          "explanation": "Antonio Guterres of Portugal took office in January 2017; his second five-year term runs to the end of 2026.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-2-2",
+          "prompt": "COP28 of the UN Framework Convention on Climate Change was held in:",
+          "choices": [
+            "Glasgow",
+            "Sharm el-Sheikh",
+            "Dubai",
+            "Baku"
+          ],
+          "answer": 2,
+          "explanation": "Dubai, UAE hosted COP28 in late 2023, which produced the first global stocktake and a loss-and-damage fund.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-2-3",
+          "prompt": "The International Monetary Fund is headquartered in:",
+          "choices": [
+            "New York",
+            "Geneva",
+            "Washington D.C.",
+            "Paris"
+          ],
+          "answer": 2,
+          "explanation": "Both the IMF and the World Bank have their headquarters in Washington D.C.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-2-4",
+          "prompt": "The original five BRICS members are:",
+          "choices": [
+            "Brazil, Russia, India, China, South Africa",
+            "Britain, Russia, Iran, Canada, Spain",
+            "Brazil, Romania, Indonesia, Chile, Serbia",
+            "Belgium, Russia, India, Cuba, Sweden"
+          ],
+          "answer": 0,
+          "explanation": "BRIC was coined in 2001 for Brazil, Russia, India and China; South Africa joined in 2010, making BRICS.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-2-5",
+          "prompt": "The Paris Agreement (2015) seeks to limit the rise in global average temperature to:",
+          "choices": [
+            "Well below 2 degrees C, pursuing 1.5 degrees C",
+            "Exactly 3 degrees C",
+            "Below 5 degrees C",
+            "No numeric target"
+          ],
+          "answer": 0,
+          "explanation": "Article 2 sets a ceiling well below 2 degrees C above pre-industrial levels, with efforts to limit it to 1.5 degrees C.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-2-6",
+          "prompt": "The World Trade Organization has its headquarters in:",
+          "choices": [
+            "Geneva",
+            "Vienna",
+            "Brussels",
+            "The Hague"
+          ],
+          "answer": 0,
+          "explanation": "The WTO is based in Geneva, Switzerland and was established in 1995 as successor to GATT.",
+          "asOf": "2026-08"
+        },
+        {
+          "id": "ca-2-7",
+          "prompt": "Which country hosted the G20 Leaders' Summit in 2023?",
+          "choices": [
+            "Indonesia",
+            "India",
+            "Brazil",
+            "Italy"
+          ],
+          "answer": 1,
+          "explanation": "India hosted the summit in New Delhi in September 2023, where the African Union was admitted as a permanent member.",
+          "asOf": "2026-08"
+        }
+      ]
+    },
+    {
+      "id": "gk-1",
+      "title": "World Geography",
+      "subtitle": "Capitals, landmarks and physical features",
+      "questions": [
+        {
+          "id": "gk-1-1",
+          "prompt": "The capital of Australia is:",
+          "choices": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+          ],
+          "answer": 2,
+          "explanation": "Canberra was purpose-built as the capital in a compromise between Sydney and Melbourne."
+        },
+        {
+          "id": "gk-1-2",
+          "prompt": "The largest ocean on Earth is the:",
+          "choices": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+          ],
+          "answer": 2,
+          "explanation": "The Pacific covers about a third of the Earth's surface - larger than all land area combined."
+        },
+        {
+          "id": "gk-1-3",
+          "prompt": "The largest hot desert in the world is the:",
+          "choices": [
+            "Gobi",
+            "Sahara",
+            "Thar",
+            "Kalahari"
+          ],
+          "answer": 1,
+          "explanation": "The Sahara spans roughly 9.2 million square km across North Africa."
+        },
+        {
+          "id": "gk-1-4",
+          "prompt": "The Great Barrier Reef lies off the coast of:",
+          "choices": [
+            "Brazil",
+            "Australia",
+            "Indonesia",
+            "South Africa"
+          ],
+          "answer": 1,
+          "explanation": "It stretches about 2,300 km along the coast of Queensland, Australia."
+        },
+        {
+          "id": "gk-1-5",
+          "prompt": "Mount Everest lies on the border of Nepal and:",
+          "choices": [
+            "India",
+            "Bhutan",
+            "China",
+            "Pakistan"
+          ],
+          "answer": 2,
+          "explanation": "The summit sits on the Nepal-China (Tibet) boundary at 8,849 m."
+        },
+        {
+          "id": "gk-1-6",
+          "prompt": "The Suez Canal connects the Mediterranean Sea with the:",
+          "choices": [
+            "Black Sea",
+            "Red Sea",
+            "Caspian Sea",
+            "Arabian Sea"
+          ],
+          "answer": 1,
+          "explanation": "Opened in 1869, it links the Mediterranean to the Red Sea, shortening the Europe-Asia sea route."
+        },
+        {
+          "id": "gk-1-7",
+          "prompt": "Which country is known as the Land of the Rising Sun?",
+          "choices": [
+            "China",
+            "Japan",
+            "South Korea",
+            "Thailand"
+          ],
+          "answer": 1,
+          "explanation": "Japan - the name Nippon/Nihon itself means 'origin of the sun'."
+        }
+      ]
+    },
+    {
+      "id": "gk-2",
+      "title": "Organisations & Discoveries",
+      "subtitle": "Institutions, seats and famous firsts",
+      "questions": [
+        {
+          "id": "gk-2-1",
+          "prompt": "The headquarters of the United Nations is in:",
+          "choices": [
+            "Geneva",
+            "New York",
+            "Vienna",
+            "Paris"
+          ],
+          "answer": 1,
+          "explanation": "The UN Secretariat is in New York; Geneva, Vienna and Nairobi host other major UN offices."
+        },
+        {
+          "id": "gk-2-2",
+          "prompt": "The World Health Organization is headquartered in:",
+          "choices": [
+            "Geneva",
+            "Rome",
+            "London",
+            "Brussels"
+          ],
+          "answer": 0,
+          "explanation": "The WHO, established in 1948, is based in Geneva, Switzerland."
+        },
+        {
+          "id": "gk-2-3",
+          "prompt": "Penicillin was discovered by:",
+          "choices": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Robert Koch",
+            "Edward Jenner"
+          ],
+          "answer": 1,
+          "explanation": "Alexander Fleming discovered penicillin in 1928 and shared the 1945 Nobel Prize for it."
+        },
+        {
+          "id": "gk-2-4",
+          "prompt": "The theory of relativity was proposed by:",
+          "choices": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Niels Bohr",
+            "Galileo Galilei"
+          ],
+          "answer": 1,
+          "explanation": "Einstein published special relativity in 1905 and general relativity in 1915."
+        },
+        {
+          "id": "gk-2-5",
+          "prompt": "The International Court of Justice sits in:",
+          "choices": [
+            "Geneva",
+            "The Hague",
+            "Vienna",
+            "Strasbourg"
+          ],
+          "answer": 1,
+          "explanation": "The ICJ, the principal judicial organ of the UN, sits in the Peace Palace at The Hague."
+        },
+        {
+          "id": "gk-2-6",
+          "prompt": "The Nobel Peace Prize is awarded in which city?",
+          "choices": [
+            "Stockholm",
+            "Oslo",
+            "Copenhagen",
+            "Helsinki"
+          ],
+          "answer": 1,
+          "explanation": "Alone among the Nobel Prizes, the Peace Prize is awarded in Oslo, Norway; the rest are awarded in Stockholm."
+        },
+        {
+          "id": "gk-2-7",
+          "prompt": "UNESCO stands for the United Nations Educational, ______ and Cultural Organization.",
+          "choices": [
+            "Social",
+            "Scientific",
+            "Statistical",
+            "Strategic"
+          ],
+          "answer": 1,
+          "explanation": "United Nations Educational, Scientific and Cultural Organization, headquartered in Paris."
+        }
+      ]
+    }
+  ]
+}

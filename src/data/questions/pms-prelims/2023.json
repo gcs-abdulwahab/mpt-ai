@@ -1,0 +1,679 @@
+{
+  "unit": "pms-2023",
+  "kind": "past-paper",
+  "source": "PPSC PMS General 2023, as published by testpointpk.com (answers and explanations are theirs).",
+  "lessons": [
+    {
+      "id": "pms-2023-1",
+      "title": "PPSC PMS General 2023 · Set 1",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2023",
+      "questions": [
+        {
+          "id": "pms2023-1",
+          "prompt": "Who is the Current Secretary of State of the United States?",
+          "choices": [
+            "Daniel Bennett Smith",
+            "Marco Rubio",
+            "Mike Pompeo",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Current Position: 72nd U. S. Secretary of StateAssumed Office: 21 January 2025President: Donald TrumpPreceded by: Antony BlinkenNationality: AmericanLast verified on 15-07-2026Click here for reference",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-2",
+          "prompt": "The Tashkent declaration between Pakistan and India was signed on?",
+          "choices": [
+            "10 January 1966",
+            "1 January 1965",
+            "15 January 1964",
+            "1 February 1966"
+          ],
+          "answer": 0,
+          "explanation": "Date Signed: 10 January 1966Place: Tashkent, Soviet Union (now Uzbekistan) It was a peace treaty between India and Pakistan following the 1965 warSignatories: Ayub Khan – President of PakistanLal Bahadur Shastri – Prime Minister of IndiaAlexei Kosygin – Premier of USSR (mediator)Last verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-3",
+          "prompt": "World Trade Organization (WTO) was established in ______?",
+          "choices": [
+            "1992",
+            "1993",
+            "1994",
+            "1995"
+          ],
+          "answer": 3,
+          "explanation": "WTO (World Trade Organization) was established on 1 January 1995. It succeeded GATT. Pakistan joined WTO on 1 January 1995. Additional information: Members: 164Headquarters: Geneva, SwitzerlandOfficial Languages: English, French, SpanishObjectives: Protect Intellectual Property RightsPromote Free TradeRemove Trade Quot",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-4",
+          "prompt": "Who is known as the father of computer?",
+          "choices": [
+            "Barbara Liskov",
+            "Tim Berners-Lee",
+            "Charles Babbage",
+            "John von Neumann"
+          ],
+          "answer": 2,
+          "explanation": "Charles Babbage is known as the Father of the Computer. He designed the more advanced Analytical Engine, which featured a \"Mill\" (CPU) and a \"Store\" (memory). Additional information: He was an English polymath. Born: 26 December 1791 London, EnglandDied: 18 October 1871 (aged 79) London, EnglandLast updated on 09-03-20",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-5",
+          "prompt": "BCC stands for _____?",
+          "choices": [
+            "Basic Carbon Copy",
+            "Blind Carbon Copy",
+            "Business Carbon Copy",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "BCC stands for: Blind Carbon CopyUsed in: Email communicationPurpose: Hides recipient email addresses from other recipientsAdditional information: CC (Carbon Copy): Recipients are visible to allBCC: Recipients are hidden from everyone except the senderLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-6",
+          "prompt": "Who discover Penicillin?",
+          "choices": [
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Edward Jenner",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Discoverer: Alexander FlemingYear of discovery: 1928Place: St. Mary's Hospital, LondonFirst patient treated with penicillin: Albert AlexanderDate of first treatment: 12 February 1941Last verified on 01-07-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-7",
+          "prompt": "Who was the second Governor-General of Pakistan?",
+          "choices": [
+            "Muhammad Ali Jinnah",
+            "Sir Khawaja Nazimuddin",
+            "Sir Ghulam Muhammad",
+            "Iskander Mirza"
+          ],
+          "answer": 1,
+          "explanation": "Second Governor-General: Sir Khawaja Nazimuddin. From 14 September 1948 to 16 October 1951. Party: CML (1962–1964)ML (1947–1958)AIML (1922–1947)Additional information: Muhammad Ali Jinnah (1947–1948) – Founder of Pakistan, first Governor-General. Sir Khawaja Nazimuddin (1948–1951) – Second Governor-General. Sir Ghulam ",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-8",
+          "prompt": "RCD (Regional Cooperation for Development) was established on _____?",
+          "choices": [
+            "21 July, 1964",
+            "21 May, 1964",
+            "21 August, 1964",
+            "21 June, 1964"
+          ],
+          "answer": 0,
+          "explanation": "Established On: 21 July 1964Founding Members: Pakistan, Iran, Turkey (3 countries)Successor Organization: ECO (1985)Purpose: Economic, technical, and cultural cooperationHeadquarters (later ECO): Tehran, IranLast verified on 17-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-9",
+          "prompt": "Human Rights Day is observed on which date?",
+          "choices": [
+            "10 December",
+            "20 December",
+            "15 December",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Date: 10 DecemberDate and Year of UDHR adoption: 10 December 1948Adopted by: United Nations General AssemblyDocument: Universal Declaration of Human Rights (UDHR)Purpose: Protection and promotion of human rights2025 Slogan: \"Human Rights, Our Everyday Essentials\". Last verified on 06-04-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-10",
+          "prompt": "Who was the first Governor of state bank Pakistan?",
+          "choices": [
+            "Abdul Haleem",
+            "Abdul Qadir",
+            "Sikandar Mirza",
+            "Zahid Hussain"
+          ],
+          "answer": 3,
+          "explanation": "First Governor: Zahid HusainTerm: June 1948 – July 1953Additional information: First Female Governor: Dr. Shamshad AkhtarYear of Female Governor Appointment: 2006Headquarters: Karachi, PakistanLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2023-2",
+      "title": "PPSC PMS General 2023 · Set 2",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2023",
+      "questions": [
+        {
+          "id": "pms2023-11",
+          "prompt": "Who was the first Pakistani Prime Minister/Leader who visited China?",
+          "choices": [
+            "Nawabzada Liaqat Ali",
+            "Khwaja Nazimudin",
+            "Hussain Shaheed Suhrawardy",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Leader: Hussain Shaheed SuhrawardyVisit Year: 1956Chinese Counterpart: Premier Zhou EnlaiEvent: Signing of Treaty of Friendship Between China and Pakistan in BeijingSignificance: Laid the foundation for long-term Pakistan-China relationsLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-12",
+          "prompt": "What is the length of border between Pakistan and China?",
+          "choices": [
+            "595 km",
+            "900 km",
+            "599 km (596)",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "The Pakistan-China border (Northeast) is 599 km (596) long. Additional information: Pakistan’s borders with neighbors: India: 2,100 km (East)Afghanistan: 2,611 km (West/Northwest)Iran: 909 km (West)Other borders: Arabian Sea coast: 1,058 km (South)Total land border: 6,219 kmLand + Sea border: 7,277 kmLand + Sea + LOC &",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-13",
+          "prompt": "What is gutter margin in MS Word?",
+          "choices": [
+            "Margin that is added to the Left margin when printing",
+            "Margin that is added to the binding side of page when printing",
+            "Margin that is added to the right margin when printing",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Definition: Margin added to the binding side of the documentPurpose: Prevents text from being hidden in the bindingLocation: Can be added to left or top depending on binding typeAdjustable in: Layout > Margins > Custom Margins > GutterLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-14",
+          "prompt": "Which Continent has no desert?",
+          "choices": [
+            "Europe",
+            "Australia",
+            "N.America",
+            "S.America"
+          ],
+          "answer": 0,
+          "explanation": "Europe is the only continent without a desert. It has a temperate climate with sufficient rainfall. Additional information: Divided by the Ural MountainsSecond-smallest continentCovers 2% of Earth’s surfaceArea: 10.18 million km²Last verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-15",
+          "prompt": "Who is the Current President of Brazil?",
+          "choices": [
+            "Michel Temer",
+            "Jair Bolsonaro",
+            "Lula da Silva",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Current President: Lula da SilvaReplaced: Jair BolsonaroPresidential Number: 39thTerm Started: 1 January 2023Political Party: Workers’ PartyPrevious Presidency: 35th President (2003–2011) Click here for reference Last verified on 08-05-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-16",
+          "prompt": "How many countries share border with Pakistan?",
+          "choices": [
+            "4",
+            "2",
+            "5",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Pakistan shares land borders with four neighboring countriesIndia (East): 2,100 km (East)Afghanistan (Northwest): 2,611 km (West/Northwest)Iran (Southwest): 909 km (West)China (Northeast): 599 km (Northeast)Other borders: Arabian Sea coast: 1,058 km (South)Total land border: 6,219 kmLand + Sea border: 7,277 kmLand + Se",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-17",
+          "prompt": "National Flag of Pakistan was designed/made by _____?",
+          "choices": [
+            "Hafeez Jalandhri",
+            "Ahmed Ghulam Ali Chaghla",
+            "Amir Uddin Kidwai",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Designer: Amir Uddin Kidwai Adoption Date: 11 August 1947 (officially adopted) Additional information: Green field – represents Muslims of Pakistan White stripe – represents minorities and religious minorities’ rights Crescent and star – symbol of progress and light Proportion of flag: 2:3 (height:width)Last verified o",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-18",
+          "prompt": "The electron was first identified by?",
+          "choices": [
+            "J. J. Thompson",
+            "D. Rutherford",
+            "J. Kepler",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Electron: Discovered by J. J. Thomson, 1897Additional information: Proton: Discovered by Ernest Rutherford, 1919Neutron: Discovered by James Chadwick, 1932Atomic Model Proposed: Plum Pudding ModelSignificance: First subatomic particle discoveredLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-19",
+          "prompt": "Who discover the Vaccine?",
+          "choices": [
+            "Edward Jenner",
+            "Alexander Fleming",
+            "J. J. Thomson",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Scientist: Edward JennerDiscovery Year: 1796Vaccine Type: SmallpoxSignificance: First ever successful preventive vaccineExtra Fact: Smallpox was declared eradicated in 1980 by WHOAdditional information: Edward Jenner is often called the “Father of Immunology.”Last verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-20",
+          "prompt": "When is National Constitution Day celebrated?",
+          "choices": [
+            "April 10",
+            "April 12",
+            "April 14",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Date: 10 AprilYear of Constitution Approval: 1973, April 10Golden Jubilee Declaration: 2023, April 10Significance: Commemorates the country’s supreme law and democratic frameworkLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2023-3",
+      "title": "PPSC PMS General 2023 · Set 3",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2023",
+      "questions": [
+        {
+          "id": "pms2023-21",
+          "prompt": "Who was the Prime Minister of UK before Rishi Sunak?",
+          "choices": [
+            "Theresa May",
+            "Boris Johnson",
+            "Liz Truss",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Prime Minister Before Rishi Sunak: Liz TrussTerm Start: 6 September 2022Term End: 25 October 2022Duration: 50 daysPolitical Party: Conservative PartyAdditional information: Liz Truss succeeded Boris Johnson. She was followed by Rishi Sunak. She was the third female Prime Minister of the UK after Margaret Thatcher and T",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-22",
+          "prompt": "Which Mughal Emperor is buried in Pakistan?",
+          "choices": [
+            "Babur",
+            "Humayun",
+            "Jahangir",
+            "Akbar"
+          ],
+          "answer": 2,
+          "explanation": "Emperor: JahangirReign: 1605–1627Tomb Location: Shahdara Bagh, Lahore, PakistanConstruction of Tomb: Completed in 1637Famous For: Justice, cultural contributions, and expansion of Mughal architectureLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-23",
+          "prompt": "World Ozone Day is observed on _______?",
+          "choices": [
+            "April 4",
+            "June 5",
+            "September 16",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Date: 16 SeptemberUN Proclamation Year: 1994Ozone Layer Discovery: 1985 (Montreal Protocol signed in 1987)Additional information: Theme 2024: Montreal Protocol: Advancing Climate ActionTheme 2025: From Science to Global ActionLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-24",
+          "prompt": "Dr. Abdul Qadeer Khan passed away on which date?",
+          "choices": [
+            "9 October 2021",
+            "11 October 2021",
+            "13 October 2021",
+            "10 October 2021"
+          ],
+          "answer": 3,
+          "explanation": "Death: 10 October 2021 (85 years) due to lungs problemFuneral Prayer Leader: Prof. Dr. Ahmad Al-GhazaliAdditional information: Birth: 1 April 1936, Bhopal, India. Title: Mohsin-e-Pakistan and Father of Pakistan’s Nuclear ProgramLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-25",
+          "prompt": "Queen Elizabeth II of the great Britain passed away on which date?",
+          "choices": [
+            "3 September 2022",
+            "1 September 2022",
+            "8 September 2022",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Died: 8 September 2022, ScotlandAdditional information: Born: 21 April 1926, Mayfair, LondonBecame Queen: 6 February 1952 (after King George VI)Age at Accession: 25 yearsReign: 1952 – 2022 (70 years, 214 days, longest in British history)Significance: First female monarch with the longest reignLast verified on 16-01-202",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-26",
+          "prompt": "Name of US official who visited Taiwan in August 2022?",
+          "choices": [
+            "Merrick Garland",
+            "Joe Biden",
+            "Nancy Pelosi",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "US Official: Nancy PelosiLanded in Taiwan: 2 August 2022Became Speaker: January 2019Historic Fact: Only female in U. S. history to serve as Speaker of the HouseLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-27",
+          "prompt": "When was NATO founded?",
+          "choices": [
+            "1948",
+            "1951",
+            "1946",
+            "1949"
+          ],
+          "answer": 3,
+          "explanation": "NATO stands for North Atlantic Treaty OrganizationFounded: 4 April 1949 (Washington, USA)Headquarters: Brussels, BelgiumType: Military AllianceOfficial Languages: English & FrenchFounding Members: 12Total Members: 32European: 30North American: 2Latest Member: Sweden (joined 7 March 2024)Muslim Member Country: TürkiyePa",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-28",
+          "prompt": "Amnesty International is an organization for ____?",
+          "choices": [
+            "Solving issues between two states",
+            "Prevention of crimes",
+            "Providing loans to countries",
+            "Protection of Human Rights"
+          ],
+          "answer": 3,
+          "explanation": "Purpose of AI: Protection of Human RightsFounded: 1961Founder: Peter BenensonHeadquarters: London, United KingdomType: Non-governmental organization (NGO)Nobel Peace Prize 1977: \"for worldwide respect for human rights.\"Last verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-29",
+          "prompt": "Who is the current Prime Minister of Saudi Arabia?",
+          "choices": [
+            "King Abdul Aziz",
+            "Muhammad bin Salman",
+            "Sheikh Khalid bin Khalifa",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Prime Minister: Muhammad bin SalmanAppointment Date: 27 September 2022Also Known As: MBSOther Position: Crown Prince of Saudi ArabiaLast verified on 16-03-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-30",
+          "prompt": "India detonated its nuclear device in which year?",
+          "choices": [
+            "1973",
+            "1974",
+            "1975",
+            "1978"
+          ],
+          "answer": 1,
+          "explanation": "Year of nuclear test: 1974Test name: Smiling BuddhaDate: 18 May 1974Test site: Pokhran, RajasthanCountry: IndiaLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pms-2023-4",
+      "title": "PPSC PMS General 2023 · Set 4",
+      "subtitle": "PPSC general ability paper",
+      "paper": "PPSC PMS General 2023",
+      "questions": [
+        {
+          "id": "pms2023-31",
+          "prompt": "Who won Nobel Prize in Literature 2021?",
+          "choices": [
+            "Louise Gluck",
+            "Annie Ernaux",
+            "Abdulrazak Gurnah",
+            "Peter Handke"
+          ],
+          "answer": 2,
+          "explanation": "Winner: Abdulrazak GurnahAward: Nobel Prize in Literature 2021Presented by: The Swedish AcademyRecognition: For “uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee.”Last verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-32",
+          "prompt": "____ was the first state which joined Pakistan on 1947?",
+          "choices": [
+            "Azad Kashmir",
+            "Hyderabad",
+            "Bahawalpur",
+            "Makran"
+          ],
+          "answer": 2,
+          "explanation": "State: BahawalpurFounded: 1748 by Nawab Bahawal Khan IAccession to Pakistan: Signed on 5 October 1947, accepted on 9 OctoberLocation: Punjab, PakistanGeography: Mostly consists of desertsLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-33",
+          "prompt": "Book 'The Sole Spokesman' is authored by _____?",
+          "choices": [
+            "Mubarak Ali",
+            "Stanley Wolpert",
+            "Anatol Lieven",
+            "Ayesha Jalal"
+          ],
+          "answer": 3,
+          "explanation": "Author: Ayesha JalalPublication Date: 18 April 1985Topic: Muslim League, Pakistan movement, and leadership politicsLanguage: EnglishLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-34",
+          "prompt": "The foundation stone of Quaid-e-Azam Mohammed Ali Jinnah’s Mausoleum was laid by whom?",
+          "choices": [
+            "Zulfiqar Ali Bhutto",
+            "Zia ul Haq",
+            "Sikandar Ali Mirza",
+            "Ayoub Khan"
+          ],
+          "answer": 3,
+          "explanation": "Leader who laid foundation: Field Marshal Ayub KhanDate: 31 July 1960Location: KarachiPurpose: Tomb of Quaid-e-Azam Muhammad Ali JinnahArchitecture: Modernist style with white marbleLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-35",
+          "prompt": "Famous social website Facebook was founded by ____?",
+          "choices": [
+            "Elon Musk",
+            "Steve Jobs",
+            "Bill Gates",
+            "Mark Zekerburg"
+          ],
+          "answer": 3,
+          "explanation": "Founder: Mark ZuckerbergFounded in: February 4, 2004Headquarters: Menlo Park, California, USAUsers (2023): Over 3 billion monthly active usersParent Company: Meta Platforms Inc. Last verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-36",
+          "prompt": "Which country is not a member of ASEAN? Brunei, Indonesia, Philippines, Bangladesh",
+          "choices": [
+            "Brunei",
+            "Indonesia",
+            "Philippines",
+            "Bangladesh"
+          ],
+          "answer": 3,
+          "explanation": "Bangladesh is not a member of ASEAN. ASEAN (Association of Southeast Asian Nations) members: Brunei Cambodia Indonesia Laos Malaysia Myanmar Philippines Singapore Thailand VietnamTimor LesteAdditional information: Founded: 8 August 1967Headquarters: Jakarta, IndonesiaOfficial language: No single official language (Engl",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-37",
+          "prompt": "Which of the following is not a member of SAARC? Afghanistan, Bangladesh, Bhutan, Myanmar (Burma)",
+          "choices": [
+            "Afghanistan",
+            "Bangladesh",
+            "Bhutan",
+            "Myanmar (Burma)"
+          ],
+          "answer": 3,
+          "explanation": "Myanmar (Burma) is not a member of SAARC. SAARC members: AfghanistanBangladeshBhutanIndiaNepalMaldivesPakistanSri LankaAdditional information: Purpose: Promote economic, cultural, and regional integration among South Asian nations. Founded: 8 December 1985Headquarters: Kathmandu, NepalOfficial language: EnglishLast upd",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-38",
+          "prompt": "Which country won the third cricket world cup in 1983?",
+          "choices": [
+            "West Indies",
+            "Australia",
+            "India",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Winner: IndiaRunner-up: West IndiesFinal Score: India 183/8 (54.4 overs) vs West Indies 140 (52 overs)Captain: Kapil DevVenue: Lord’s Cricket Ground, LondonAdditional information: West Indies had won the first two World Cups (1975 & 1979)Last verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-39",
+          "prompt": "What is the rank of Pakistan in World Happiness Index 2023?",
+          "choices": [
+            "107",
+            "109",
+            "104",
+            "108"
+          ],
+          "answer": 3,
+          "explanation": "World Happiness Index 2023Pakistan: 108Topper: FinlandBottom: AfghanistanAdditional information: Pakistan 2024/2025: 109Last verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pms2023-40",
+          "prompt": "Heer Ranjha was written by whom?",
+          "choices": [
+            "Waris Shah",
+            "Sultan Bahu",
+            "Bullay Shah",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Author: Waris ShahWritten in: 1766Language: PunjabiGenre: Epic poetry / RomanceSignificance: Considered the definitive version of the Heer Ranjha storyLast verified on 16-01-2026",
+          "source": {
+            "paper": "PPSC PMS General 2023",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    }
+  ]
+}

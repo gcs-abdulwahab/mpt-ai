@@ -1,0 +1,624 @@
+{
+  "unit": "islamic-studies",
+  "kind": "past-paper",
+  "source": "FPSC MCQ-based Preliminary Test past papers, as published by cssaspirants.pk. Answers are the keys marked in those papers.",
+  "lessons": [
+    {
+      "id": "islamic-studies-2023-1",
+      "title": "MPT 2023 (Special) · Set 1",
+      "subtitle": "Questions 1-10 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-1",
+          "prompt": "Prophet Muhammad (PBUH) belongs to the tribe:",
+          "choices": [
+            "Quresh",
+            "Khazraj",
+            "Makki",
+            "Ummavi"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 1
+          }
+        },
+        {
+          "id": "mpt2023-2",
+          "prompt": "Which Prophet has the title of Khateeb-ul-Anbiya?",
+          "choices": [
+            "Hazrat Dawood (A.S)",
+            "Hazrat Nooh (A.S)",
+            "Hazrat Yaqoob (A.S)",
+            "Hazrat Shoaib (A.S)"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 2
+          }
+        },
+        {
+          "id": "mpt2023-3",
+          "prompt": "Al-Hudaibiyah treaty was scribed by:",
+          "choices": [
+            "Hazrat Abu Bakr (RA)",
+            "Hazrat Umar (RA)",
+            "Hazrat Usman (RA)",
+            "Hazrat Ali Al-Murtaza (RA)"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 3
+          }
+        },
+        {
+          "id": "mpt2023-4",
+          "prompt": "The battle of Yarmuk was fought between the Muslims and:",
+          "choices": [
+            "Romans",
+            "Jews",
+            "Persians",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 4
+          }
+        },
+        {
+          "id": "mpt2023-5",
+          "prompt": "Who compiled the first work of Hadith \"Sahifa-e-Sadiqa\"?",
+          "choices": [
+            "Hazrat Abu Bakar (RA)",
+            "Hazrat Abdullah bin Amr (RA)",
+            "Hazrat Abu Hunain (RA)",
+            "Imam Bukhari (RA)"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 5
+          }
+        },
+        {
+          "id": "mpt2023-6",
+          "prompt": "Who advised Hazrat Abu Bakar (RA) to compile the Holy Quran?",
+          "choices": [
+            "Hazrat Umar (RA)",
+            "Hazrat Usman (RA)",
+            "Hazrat Ali (RA)",
+            "Hazrat Zaid bin Sabit (RA)"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 6
+          }
+        },
+        {
+          "id": "mpt2023-7",
+          "prompt": "The phrase \"Muhammad is the Messenger of Allah\" is stated in which Surah of the Holy Quran?",
+          "choices": [
+            "Surah Yaseen",
+            "Surah Muhammad",
+            "Surah Rehman",
+            "Surah Fatiha"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 7
+          }
+        },
+        {
+          "id": "mpt2023-8",
+          "prompt": "In what year did \"Bait-e-Rizwan\" take place?",
+          "choices": [
+            "5 AH",
+            "6 AH",
+            "7 AH",
+            "8 AH"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 8
+          }
+        },
+        {
+          "id": "mpt2023-9",
+          "prompt": "Which night has been regarded as better than one-thousand nights in the Holy Quran?",
+          "choices": [
+            "Night of Miraj",
+            "Night of Eid-ul-Fitar",
+            "Night of Qadar",
+            "Night of Barat"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 9
+          }
+        },
+        {
+          "id": "mpt2023-10",
+          "prompt": "The Ottoman Empire lasted for ______ centuries.",
+          "choices": [
+            "Six",
+            "Seven",
+            "Eight",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "islamic-studies-2023-2",
+      "title": "MPT 2023 (Special) · Set 2",
+      "subtitle": "Questions 11-19 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-11",
+          "prompt": "Prophet Muhammad (SAW) stayed at Hazrat Ayub Ansari's house for ______ months.",
+          "choices": [
+            "7",
+            "8",
+            "9",
+            "12"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 11
+          }
+        },
+        {
+          "id": "mpt2023-12",
+          "prompt": "Hazrat Haleema (RA) looked after the Holy Prophet (SAW) for ______ years.",
+          "choices": [
+            "1",
+            "2",
+            "3",
+            "6"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 12
+          }
+        },
+        {
+          "id": "mpt2023-13",
+          "prompt": "Maliki Fiqh was introduced in Spain in the reign of:",
+          "choices": [
+            "Hashim",
+            "Abdul Rehman",
+            "Ibn-e-Ishaq",
+            "Yazid"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 13
+          }
+        },
+        {
+          "id": "mpt2023-14",
+          "prompt": "At the time of his last Hajj, the Prophet Muhammad (PBUH) addressed ______ Muslims at Arafat.",
+          "choices": [
+            "200,000",
+            "140,000",
+            "150,000",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 14
+          }
+        },
+        {
+          "id": "mpt2023-15",
+          "prompt": "Jizya was imposed in the Islamic State by the Prophet of Islam in ______ A.H.",
+          "choices": [
+            "9",
+            "7",
+            "11",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 15
+          }
+        },
+        {
+          "id": "mpt2023-16",
+          "prompt": "According to the Quran there are ______ heads where Zakat can be spent.",
+          "choices": [
+            "6",
+            "7",
+            "8",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 16
+          }
+        },
+        {
+          "id": "mpt2023-17",
+          "prompt": "Lady Haleema (RA), the foster mother of the Prophet (PBUH), belonged to:",
+          "choices": [
+            "Banu Saad",
+            "Banu Adi",
+            "Banu Taym",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 17
+          }
+        },
+        {
+          "id": "mpt2023-18",
+          "prompt": "In the beginning of Madinan life, the Prophet Muhammad (PBUH) stayed in the settlement of:",
+          "choices": [
+            "Banu Saad",
+            "Banu Aws",
+            "Banu Nuzair",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 18
+          }
+        },
+        {
+          "id": "mpt2023-19",
+          "prompt": "At the time of the conquest of Makkah, the Prophet Muhammad (PBUH) was accompanied by ______ companions.",
+          "choices": [
+            "10,000",
+            "15,000",
+            "20,000",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "islamic-studies-2026-1",
+      "title": "MPT 2026 · Set 1",
+      "subtitle": "Questions 1-10 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-1",
+          "prompt": "In which Surah are the rules of distribution of Mall-e-Ghaneemat (war booty) mentioned?",
+          "choices": [
+            "Sura Anfal",
+            "Sura Toba",
+            "Surah Nisa",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 1
+          }
+        },
+        {
+          "id": "mpt2026-2",
+          "prompt": "In which Surah is the murder of children prohibited in fear of hunger/starvation?",
+          "choices": [
+            "Surah An'am",
+            "Surah Mominoon",
+            "Surah Hujrat",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 2
+          }
+        },
+        {
+          "id": "mpt2026-3",
+          "prompt": "In how many Surahs are Haroof-e-Muqatiyat found?",
+          "choices": [
+            "20",
+            "25",
+            "29",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 3
+          }
+        },
+        {
+          "id": "mpt2026-4",
+          "prompt": "How many times is the name 'Muhammad (SAW)' narrated in the Holy Quran?",
+          "choices": [
+            "4",
+            "5",
+            "6",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 4
+          }
+        },
+        {
+          "id": "mpt2026-5",
+          "prompt": "Which book of Seerat-e-Rasool (SAW) in Urdu is written without points/dots?",
+          "choices": [
+            "Rasool Alam",
+            "Hadi Alam",
+            "Sarwar Alam",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 5
+          }
+        },
+        {
+          "id": "mpt2026-6",
+          "prompt": "For which Sura did Rasool Ullah (SAW) say that \"it made me older\"?",
+          "choices": [
+            "Surah Hood",
+            "Sura Samood",
+            "Sura Aad",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 6
+          }
+        },
+        {
+          "id": "mpt2026-7",
+          "prompt": "Who is the author of the book \"Sunnat Khair Ul Anam\"?",
+          "choices": [
+            "Qazi Salman Mansoorpuri",
+            "Peer Muhammad Karam Shah",
+            "Mufti Muhammad Shafi",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 7
+          }
+        },
+        {
+          "id": "mpt2026-8",
+          "prompt": "The Hadith which extended up to the Prophet (SAW) is called:",
+          "choices": [
+            "Maroof",
+            "Moqoof",
+            "Qudsi",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 8
+          }
+        },
+        {
+          "id": "mpt2026-9",
+          "prompt": "Who is called more honorable than the Kaabah by the Holy Prophet (SAW)?",
+          "choices": [
+            "Safa Marwa",
+            "Jable Noor",
+            "Momin",
+            "Shaheed"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 9
+          }
+        },
+        {
+          "id": "mpt2026-10",
+          "prompt": "Which was the last Ghazwa of the Holy Prophet (SAW)?",
+          "choices": [
+            "Khyber",
+            "Tabook",
+            "Hunain",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "islamic-studies-2026-2",
+      "title": "MPT 2026 · Set 2",
+      "subtitle": "Questions 11-20 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-11",
+          "prompt": "What was the real name of the Holy Prophet's (SAW) uncle \"Abu Talib RA\"?",
+          "choices": [
+            "Abdullah",
+            "Abd Munaf",
+            "Abd Kaaba",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 11
+          }
+        },
+        {
+          "id": "mpt2026-12",
+          "prompt": "The Ghazwa of Hunain was fought against ______ tribe.",
+          "choices": [
+            "Oass",
+            "Khazraj",
+            "Hawazin",
+            "Knana"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 12
+          }
+        },
+        {
+          "id": "mpt2026-13",
+          "prompt": "What is the name of the Muslim scientist who presented the concept of blood pressure?",
+          "choices": [
+            "Ibn un Nafees",
+            "Ibn al-Hashim",
+            "Ibn Baitar",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 13
+          }
+        },
+        {
+          "id": "mpt2026-14",
+          "prompt": "Battle field \"Badar\" is situated near the city of:",
+          "choices": [
+            "Makkah",
+            "Jeddah",
+            "Taaiff",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 14
+          }
+        },
+        {
+          "id": "mpt2026-15",
+          "prompt": "Where was the election of Caliph Abu Bakar (RA) held?",
+          "choices": [
+            "House of Abu Bakar RA",
+            "Masjid-e-Nabvi",
+            "Masjid-e-Haram",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 15
+          }
+        },
+        {
+          "id": "mpt2026-16",
+          "prompt": "Which commander was appointed by the Holy Prophet (SAW) and was not removed by Hazrat Abu Bakar (RA)?",
+          "choices": [
+            "Usama b. Zaid",
+            "Khalid b. Waleed",
+            "Tariq b. Ziyad",
+            "Maaz b. Jabal"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 16
+          }
+        },
+        {
+          "id": "mpt2026-17",
+          "prompt": "In the books of Islamic Jurisprudence, the Law of Inheritance is called:",
+          "choices": [
+            "Ilm Ul Fiqah",
+            "Ilm Ul Arooz",
+            "Ilm Ul Faraiz",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 17
+          }
+        },
+        {
+          "id": "mpt2026-18",
+          "prompt": "Which Sahabi is declared as \"Imam-ul-Fuqha\"?",
+          "choices": [
+            "Hazrat Ali RA",
+            "Abdullah Bin Abbas RA",
+            "Maaz Bin Jabal RA",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 18
+          }
+        },
+        {
+          "id": "mpt2026-19",
+          "prompt": "When someone declares his wife just as the relation of \"maharmaat\", that act is called:",
+          "choices": [
+            "Khula",
+            "Eela",
+            "Zihar",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 19
+          }
+        },
+        {
+          "id": "mpt2026-20",
+          "prompt": "What is the name of consensus of a community adopted by scholars of another community?",
+          "choices": [
+            "Ijma Sukuti",
+            "Ijma Qolli",
+            "Ijma Faili",
+            "Ijma Taqriri"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 20
+          }
+        }
+      ]
+    }
+  ]
+}

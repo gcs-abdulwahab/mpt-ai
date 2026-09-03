@@ -1,0 +1,1557 @@
+{
+  "unit": "general-abilities",
+  "kind": "past-paper",
+  "source": "FPSC MCQ-based Preliminary Test past papers, as published by cssaspirants.pk. Answers are the keys marked in those papers.",
+  "lessons": [
+    {
+      "id": "general-abilities-2023-1",
+      "title": "MPT 2023 (Special) · Set 1",
+      "subtitle": "Questions 60-69 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-60",
+          "prompt": "The thickness of one sheet of paper is 5 x 10^-2 mm. What is the thickness of a book having 400 sheets of paper?",
+          "choices": [
+            "2 cm",
+            "20 cm",
+            "200 mm",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 60
+          }
+        },
+        {
+          "id": "mpt2023-61",
+          "prompt": "Saba and Nida do their assignment together. The ratio of time taken by Saba to Nida is 6:5. If Saba takes 90 minutes to complete the assignment, how much time does Nida require?",
+          "choices": [
+            "75 minutes",
+            "96 minutes",
+            "108 minutes",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 61
+          }
+        },
+        {
+          "id": "mpt2023-62",
+          "prompt": "How many combinations of two-digit numbers having 6 can be formed from the following numbers: 6, 7, 5, 1, 3, 8?",
+          "choices": [
+            "6",
+            "10",
+            "11",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 62
+          }
+        },
+        {
+          "id": "mpt2023-63",
+          "prompt": "Find the number which does not fit in the series: 10, 25, 45, 54, 60, 75, 85",
+          "choices": [
+            "45",
+            "54",
+            "75",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 63
+          }
+        },
+        {
+          "id": "mpt2023-64",
+          "prompt": "A new number is added to the series 3, 4, 4, 5, 6, 8 such that the average of the series does not change. What is the new number?",
+          "choices": [
+            "5",
+            "6",
+            "7",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 64
+          }
+        },
+        {
+          "id": "mpt2023-65",
+          "prompt": "Writing 0.0000738 in standard form we get:",
+          "choices": [
+            "7.38 x 10^7",
+            "7.38 x 10^-5",
+            "7.38 x 10^5",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 65
+          }
+        },
+        {
+          "id": "mpt2023-66",
+          "prompt": "The perimeter of an equilateral triangle is 24 cm. What is the length of one side of the triangle?",
+          "choices": [
+            "12 cm",
+            "6 cm",
+            "80 mm",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 66
+          }
+        },
+        {
+          "id": "mpt2023-67",
+          "prompt": "The exterior angle of a triangle is 80 degrees and the interior opposite angles are in the ratio 1:3. The interior angles measure:",
+          "choices": [
+            "30 and 90 degrees",
+            "25 and 75 degrees",
+            "20 and 60 degrees",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 67
+          }
+        },
+        {
+          "id": "mpt2023-68",
+          "prompt": "A watchmaker sold 40 percent of his watches and still has 420 watches left. How many did he have to begin with?",
+          "choices": [
+            "672",
+            "700",
+            "1050",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 68
+          }
+        },
+        {
+          "id": "mpt2023-69",
+          "prompt": "Six years ago, the ratio of the ages of Ali and Babar was 6:5. Four years from now, the ratio of their ages will be 11:10. What is Babar's age at present?",
+          "choices": [
+            "16 years",
+            "18 years",
+            "20 years",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 69
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-abilities-2023-2",
+      "title": "MPT 2023 (Special) · Set 2",
+      "subtitle": "Questions 70-81 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-70",
+          "prompt": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+          "choices": [
+            "641",
+            "698",
+            "737",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 70
+          }
+        },
+        {
+          "id": "mpt2023-71",
+          "prompt": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number?",
+          "choices": [
+            "33",
+            "17",
+            "8",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 71
+          }
+        },
+        {
+          "id": "mpt2023-72",
+          "prompt": "The number 8 is to 44 as 5 is to:",
+          "choices": [
+            "105",
+            "28",
+            "41",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 72
+          }
+        },
+        {
+          "id": "mpt2023-73",
+          "prompt": "Saleem walks 5 m towards west, takes a right turn and walks 5 m again. He then takes another right turn and walks 20 m. He then takes a final right turn and walks 5 m before stopping. How far is he from the starting point?",
+          "choices": [
+            "20 m",
+            "15 m",
+            "25 m",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 73
+          }
+        },
+        {
+          "id": "mpt2023-74",
+          "prompt": "A, B, C, D and E each have different amounts of money. C has more money than only E; B has more money than D but less than A. Who has the highest amount of money?",
+          "choices": [
+            "A",
+            "B",
+            "D",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 74
+          }
+        },
+        {
+          "id": "mpt2023-75",
+          "prompt": "A, P, R, X, S and Z are sitting in a row. S and Z are in the centre; A and P are at the ends. R is sitting to the left of A. Who is to the right of P?",
+          "choices": [
+            "A",
+            "X",
+            "S",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 75
+          }
+        },
+        {
+          "id": "mpt2023-76",
+          "prompt": "Select the pair that has a different relationship when compared to the rest of the pairs:",
+          "choices": [
+            "Blue : Red",
+            "Left : Right",
+            "Cold : Hot",
+            "Up : Down"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 76
+          }
+        },
+        {
+          "id": "mpt2023-77",
+          "prompt": "The difference of two integers is 36. The smaller integer is 60% smaller than the larger integer. What is the sum of the two?",
+          "choices": [
+            "54",
+            "60",
+            "21",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 77
+          }
+        },
+        {
+          "id": "mpt2023-78",
+          "prompt": "The average age of 5 children born at intervals of 2 years is 18 years. What is the age of the youngest child?",
+          "choices": [
+            "12",
+            "13",
+            "14",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 78
+          }
+        },
+        {
+          "id": "mpt2023-79",
+          "prompt": "A jug contains 2 litres of a mixture of apple juice and orange juice in the ratio 3:5. We take out 400 ml of juice from the jug. How much more apple juice needs to be added so that the ratio becomes 7:5?",
+          "choices": [
+            "800 ml",
+            "1000 ml",
+            "2000 ml",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 79
+          }
+        },
+        {
+          "id": "mpt2023-80",
+          "prompt": "A family consists of a man and his wife, their two daughters, and three sons with their wives. Each son has three sons and one daughter. How many female members are there in the family?",
+          "choices": [
+            "8",
+            "7",
+            "9",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 80
+          }
+        },
+        {
+          "id": "mpt2023-81",
+          "prompt": "If BAT is coded as 283, CAT is coded as 383 and ARE is coded as 801, then the code for BETTER is:",
+          "choices": [
+            "213303",
+            "213310",
+            "123301",
+            "012331"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 81
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-abilities-2026-1",
+      "title": "MPT 2026 · Set 1",
+      "subtitle": "Questions 91-100 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-91",
+          "prompt": "Evaluate: 4^(1/2) x 4^2 - 4^0.",
+          "choices": [
+            "24",
+            "28",
+            "31",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 91
+          }
+        },
+        {
+          "id": "mpt2026-92",
+          "prompt": "What is k, given that 27^k = 9?",
+          "choices": [
+            "1/3",
+            "2/3",
+            "4/3",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 92
+          }
+        },
+        {
+          "id": "mpt2026-93",
+          "prompt": "Several number of cows on a farm consume the food in 150 days. If we reduce the number of cows by 10, then the food lasts for 160 days. How many cows were there on the farm in the beginning?",
+          "choices": [
+            "150",
+            "160",
+            "100",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 93
+          }
+        },
+        {
+          "id": "mpt2026-94",
+          "prompt": "A train of length 99m takes 11 seconds to pass completely through a station of length 231m. What is the speed of the train in km/h?",
+          "choices": [
+            "108",
+            "75.6",
+            "30",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 94
+          }
+        },
+        {
+          "id": "mpt2026-95",
+          "prompt": "A, B and C share $112. B receives $12 less than A and C gets twice as much as B. How much does C get?",
+          "choices": [
+            "34",
+            "44",
+            "50",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 95
+          }
+        },
+        {
+          "id": "mpt2026-96",
+          "prompt": "Find an integer such that four times the number subtracted from two times the square of the number gives 15.",
+          "choices": [
+            "3",
+            "-3",
+            "-5/3",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 96
+          }
+        },
+        {
+          "id": "mpt2026-97",
+          "prompt": "Zaid is six times as old as his daughter Zoya. How old was Zaid when Zoya was born if the sum of their ages will be 49 in 7 years?",
+          "choices": [
+            "25",
+            "35",
+            "42",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 97
+          }
+        },
+        {
+          "id": "mpt2026-98",
+          "prompt": "Find two consecutive positive numbers such that the sum of their squares is 7 less than 120.",
+          "choices": [
+            "7, 8",
+            "8, 9",
+            "7, 9",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 98
+          }
+        },
+        {
+          "id": "mpt2026-99",
+          "prompt": "A light shop sells lights; they sold 25 percent of the lights and still had 1500 lights left. How many lights were there in the beginning?",
+          "choices": [
+            "2500",
+            "2250",
+            "2000",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 99
+          }
+        },
+        {
+          "id": "mpt2026-100",
+          "prompt": "Given x^2 - 11x + 10 = 0, then x is:",
+          "choices": [
+            "-1, -10",
+            "-1, +10",
+            "+1, -10",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 100
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-abilities-2026-2",
+      "title": "MPT 2026 · Set 2",
+      "subtitle": "Questions 101-110 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-101",
+          "prompt": "Total cost of 5 markers and 1 pencil is Rs. 245 and total cost of 3 markers and 3 pencils is Rs. 327. What is the cost of one marker?",
+          "choices": [
+            "Rs. 32",
+            "Rs. 34",
+            "Rs. 74",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 101
+          }
+        },
+        {
+          "id": "mpt2026-102",
+          "prompt": "The first term in a sequence is 1 and the second term is 5. From the third term onwards, each term is the average (arithmetic mean) of all preceding terms. What is the 27th term in the sequence?",
+          "choices": [
+            "2.5",
+            "3",
+            "5.5",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 102
+          }
+        },
+        {
+          "id": "mpt2026-103",
+          "prompt": "A baker sells different types of cakes in his shop. Every small cake costs $x and every large cake costs $(2x + 3). The cost of 3 small lemon cakes and 2 large lemon cakes is $16.36. What is the cost of one small lemon cake?",
+          "choices": [
+            "$1.91",
+            "$1.48",
+            "$2.34",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 103
+          }
+        },
+        {
+          "id": "mpt2026-104",
+          "prompt": "If one angle of an isosceles triangle is 68 degrees, then possible values of the second angle are:",
+          "choices": [
+            "Any value between 68 and 180 degrees",
+            "Any value between 68 and 112 degrees",
+            "Any value between 1 and 112 degrees",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 104
+          }
+        },
+        {
+          "id": "mpt2026-105",
+          "prompt": "The total perimeter of a semicircle is 20.6 cm. What is the approximate radius of the semi-circle?",
+          "choices": [
+            "4 cm",
+            "5 cm",
+            "6.6 cm",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 105
+          }
+        },
+        {
+          "id": "mpt2026-106",
+          "prompt": "A water tank in the shape of a cuboid has length 1.5 metres and width 1.0 metre. How many litres of water are in the tank if the water is 60 centimetres deep?",
+          "choices": [
+            "9000 litres",
+            "900 litres",
+            "90 litres",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 106
+          }
+        },
+        {
+          "id": "mpt2026-107",
+          "prompt": "The inner circumference of a circular race track is 440m. If the width of the track is 14m, what is the radius of the outer circle?",
+          "choices": [
+            "70m",
+            "77m",
+            "84m",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 107
+          }
+        },
+        {
+          "id": "mpt2026-108",
+          "prompt": "In a group of 200 people, 90 like tennis, while 108 like cricket and 46 people like both tennis and cricket. How many people like neither tennis nor cricket?",
+          "choices": [
+            "44",
+            "48",
+            "62",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 108
+          }
+        },
+        {
+          "id": "mpt2026-109",
+          "prompt": "450 visitors visit a museum on each Monday, while only 120 visit on each of the remaining six days of the week. How many visitors are there on a daily average basis in a month of 30 days beginning on a Monday?",
+          "choices": [
+            "164",
+            "160",
+            "175",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 109
+          }
+        },
+        {
+          "id": "mpt2026-110",
+          "prompt": "A is B's daughter, C is B's mother, D is B's sister and E is D's son. Then how is A related to E?",
+          "choices": [
+            "Uncle",
+            "Grand daughter",
+            "Cousin",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 110
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-abilities-2026-3",
+      "title": "MPT 2026 · Set 3",
+      "subtitle": "Questions 111-120 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-111",
+          "prompt": "Pointing to a photograph, a man said, \"I have no brother, and that girl's father is my father's son.\" Whose photograph was it?",
+          "choices": [
+            "His father",
+            "His own",
+            "His daughter",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 111
+          }
+        },
+        {
+          "id": "mpt2026-112",
+          "prompt": "A bus for Islamabad leaves after every fifty two minutes from a bus stand. An enquiry officer told a passenger that the bus had already left sixteen minutes ago and the next bus will leave at 08:15 pm. At what time did the enquiry officer give the information to the passenger?",
+          "choices": [
+            "07:23 pm",
+            "07:39 pm",
+            "07:49 pm",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 112
+          }
+        },
+        {
+          "id": "mpt2026-113",
+          "prompt": "Pearl Tower is taller than Sky Tower but shorter than Ocean Tower. Ocean Tower and MCB Tower are of same height. Pearl Tower is shorter than Bahria Tower. Which one is the second shortest among all the buildings?",
+          "choices": [
+            "Pearl Tower",
+            "Sky Tower",
+            "Ocean Tower",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 113
+          }
+        },
+        {
+          "id": "mpt2026-114",
+          "prompt": "Peter is in the East of Tom and Tom is in the North of John. Mike is in the South of John, then in which direction of Peter is Mike?",
+          "choices": [
+            "South-East",
+            "South-West",
+            "South",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 114
+          }
+        },
+        {
+          "id": "mpt2026-115",
+          "prompt": "On a particular school day, a student will take classes of six subjects - Geography, History, Jurisprudence, Kinetics, Literature, and Mechanics. Each class will be taken only once on that day and their order is subject to the following conditions: (A) Geography has to be immediately after History. (B) Kinetics has to be earlier than Geography. (C) Mechanics has to be earlier than Literature. (D) Mechanics has to be either immediately before or immediately after Jurisprudence. If Literature is earlier than Kinetics, then History must be in the following position:",
+          "choices": [
+            "First",
+            "Third",
+            "Fifth",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 115
+          }
+        },
+        {
+          "id": "mpt2026-116",
+          "prompt": "Six girls are sitting in a circle facing towards the centre of the circle. R is between N and S. P is next to the left of V. R is 4th to the right of P. What is the position of T?",
+          "choices": [
+            "To the immediate right of V",
+            "Second to the left of P",
+            "Second to the right of R",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 116
+          }
+        },
+        {
+          "id": "mpt2026-117",
+          "prompt": "Roni and Willy had a 100m race. Roni covered the distance in 45 secs and Willy covered the distance in 36 secs. Willy beats Roni by how much distance?",
+          "choices": [
+            "20m",
+            "22.5m",
+            "25m",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 117
+          }
+        },
+        {
+          "id": "mpt2026-118",
+          "prompt": "What is a and b in the given sequence: a, 13, 9, 3, -5, -15, b?",
+          "choices": [
+            "15, -25",
+            "15, -27",
+            "16, -28",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 118
+          }
+        },
+        {
+          "id": "mpt2026-119",
+          "prompt": "What is the sum of prime numbers less than 21?",
+          "choices": [
+            "58",
+            "64",
+            "77",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 119
+          }
+        },
+        {
+          "id": "mpt2026-120",
+          "prompt": "Old generation people were born between 1965 and 1981. They can do most tasks independently. Some people call them the Entrepreneurial generation. The conclusion which follows logically from the above statements is:",
+          "choices": [
+            "They have a natural tendency of being self-employed",
+            "They work harder than any recent generation",
+            "They require some assistance to do tasks",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 120
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-abilities-2026-4",
+      "title": "MPT 2026 · Set 4",
+      "subtitle": "Questions 121-130 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-121",
+          "prompt": "The expression 3(-4 x 5 - 6) would be equal to:",
+          "choices": [
+            "12",
+            "-78",
+            "-15",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 121
+          }
+        },
+        {
+          "id": "mpt2026-122",
+          "prompt": "Arrange in order of size, smallest to largest: (i) 0.5^2 (ii) 0.5 (iii) 0.5^3 (iv) cube root of 0.5",
+          "choices": [
+            "iv, ii, i, iii",
+            "iii, i, ii, iv",
+            "ii, i, iii, iv",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 122
+          }
+        },
+        {
+          "id": "mpt2026-123",
+          "prompt": "The forest workers plant 200 trees in one month (30 days). When 20 workers were sent away, 200 trees were planted in 40 days by this second group. How many workers were there in the first group?",
+          "choices": [
+            "60",
+            "70",
+            "80",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 123
+          }
+        },
+        {
+          "id": "mpt2026-124",
+          "prompt": "The temperature measured in Murree at noon was 16.6 degrees C. At midnight temperature was 20.4 degrees C lower. What was the temperature at midnight?",
+          "choices": [
+            "-4.8 degrees C",
+            "-4.2 degrees C",
+            "-3.8 degrees C",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 124
+          }
+        },
+        {
+          "id": "mpt2026-125",
+          "prompt": "Roni has 25 sweets and Tony has 55 sweets. How many sweets should Roni give to Tony so that Tony has four times as many sweets as Roni?",
+          "choices": [
+            "5",
+            "7",
+            "9",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 125
+          }
+        },
+        {
+          "id": "mpt2026-126",
+          "prompt": "How can the number 45 be divided into two parts such that four times one part is 9 less than 5 times the other?",
+          "choices": [
+            "20, 25",
+            "21, 24",
+            "19, 26",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 126
+          }
+        },
+        {
+          "id": "mpt2026-127",
+          "prompt": "A man is 5 times as old as his son now. Four years ago, the product of their ages was 52. What are their present ages?",
+          "choices": [
+            "8 and 40",
+            "7 and 35",
+            "6 and 30",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 127
+          }
+        },
+        {
+          "id": "mpt2026-128",
+          "prompt": "John is 4 years older than David and Joe is 2 years younger than David. If the sum of their ages is 44, how old will John be in 8 years' time?",
+          "choices": [
+            "24",
+            "25",
+            "17",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 128
+          }
+        },
+        {
+          "id": "mpt2026-129",
+          "prompt": "What integer values can n have, given the inequality -7 < 4n <= 8?",
+          "choices": [
+            "-1, 0, 1, 2",
+            "-2, -1, 0, 1, 2",
+            "-6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 129
+          }
+        },
+        {
+          "id": "mpt2026-130",
+          "prompt": "A student spends 15% of his scholarship grant on food and 45% on tuition. After spending 50% of the remaining grant on his hostel fee, he is left with Rs 8,000 only. How much is his scholarship grant?",
+          "choices": [
+            "32,000",
+            "40,000",
+            "45,000",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 130
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-abilities-2026-5",
+      "title": "MPT 2026 · Set 5",
+      "subtitle": "Questions 131-140 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-131",
+          "prompt": "Find the value of a^2 + b^2, when a + b = 5 and ab = 6.",
+          "choices": [
+            "37",
+            "25",
+            "13",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 131
+          }
+        },
+        {
+          "id": "mpt2026-132",
+          "prompt": "When the equation y = x^2 + 8x - 5 is written in the form (x + a)^2 + b, then a is:",
+          "choices": [
+            "8",
+            "5",
+            "4",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 132
+          }
+        },
+        {
+          "id": "mpt2026-133",
+          "prompt": "Find the value of x, where A = (2pi + y)x^2, where A = 36 and y = 2.77.",
+          "choices": [
+            "3",
+            "4",
+            "2",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 133
+          }
+        },
+        {
+          "id": "mpt2026-134",
+          "prompt": "At a football match, the price of child ticket is Rs. 240 less than the adult ticket. There are 18,500 adults and 2500 children attending the match. Total amount paid for tickets is Rs. 41,400,000. What is the price of one adult ticket?",
+          "choices": [
+            "Rs. 2460",
+            "Rs. 1940",
+            "Rs. 2000",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 134
+          }
+        },
+        {
+          "id": "mpt2026-135",
+          "prompt": "Name the regular polygon that has an exterior angle of 36 degrees.",
+          "choices": [
+            "Pentagon",
+            "Hexagon",
+            "Decagon",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 135
+          }
+        },
+        {
+          "id": "mpt2026-136",
+          "prompt": "What is the perimeter of a semi-circle lake having a radius of 700m?",
+          "choices": [
+            "127.4 km",
+            "3.6 km",
+            "2.9 km",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 136
+          }
+        },
+        {
+          "id": "mpt2026-137",
+          "prompt": "What is the total surface area of a cylinder having a radius of 3.5 cm and height 5.5 cm?",
+          "choices": [
+            "211.5 sq cm",
+            "198 sq cm",
+            "121 sq cm",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 137
+          }
+        },
+        {
+          "id": "mpt2026-138",
+          "prompt": "The lights and brakes of 30 bicycles were tested. 27 bicycles passed the lights and 21 passed the brakes test. The lights and brakes both failed on one bicycle. How many bicycles passed both tests?",
+          "choices": [
+            "19",
+            "21",
+            "20",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 138
+          }
+        },
+        {
+          "id": "mpt2026-139",
+          "prompt": "A box contains 8 red, 6 green and 7 blue toys. One of the toys is randomly picked; what is the probability that the toy picked is neither red nor green?",
+          "choices": [
+            "7/21",
+            "14/21",
+            "7/14",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 139
+          }
+        },
+        {
+          "id": "mpt2026-140",
+          "prompt": "P is the brother of Q and R. S is mother of R, and T is father of P. Which of the following statements is not exactly true?",
+          "choices": [
+            "T is Q's father",
+            "P is S's son",
+            "S is P's mother",
+            "Q is T's son"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 140
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-abilities-2026-6",
+      "title": "MPT 2026 · Set 6",
+      "subtitle": "Questions 141-150 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-141",
+          "prompt": "Arrange the given words in the order that they occur in dictionary: 1. Apparent 2. Apostate 3. Appoint 4. Apparel",
+          "choices": [
+            "2, 1, 4, 3",
+            "2, 3, 4, 1",
+            "1, 4, 3, 2",
+            "2, 4, 1, 3"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 141
+          }
+        },
+        {
+          "id": "mpt2026-142",
+          "prompt": "Adil, Badar, Saima, Dawood and Mehak each have different amount of money. Saima has more money than only Mehak; Badar has more money than Dawood but less than Adil. Who among them has the highest amount of money?",
+          "choices": [
+            "Badar",
+            "Dawood",
+            "Adil",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 142
+          }
+        },
+        {
+          "id": "mpt2026-143",
+          "prompt": "A got more points than B but less than C. D got less points than C but more than A. If C gets less than D, then who gets the highest points?",
+          "choices": [
+            "D",
+            "E",
+            "C",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 143
+          }
+        },
+        {
+          "id": "mpt2026-144",
+          "prompt": "Given: PQS, QRT, RSU, STV... What should follow?",
+          "choices": [
+            "TUW",
+            "SUV",
+            "STU",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 144
+          }
+        },
+        {
+          "id": "mpt2026-145",
+          "prompt": "A clock is placed on a table such that at 6:00 pm the hour hand points to North-East. In which direction will the minute hand point at 9:15 pm?",
+          "choices": [
+            "South-East",
+            "North-West",
+            "South-West",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 145
+          }
+        },
+        {
+          "id": "mpt2026-146",
+          "prompt": "The weights of 4 boxes are 20 kg, 30 kg, 50 kg and 70 kg. If a combination of boxes is made using each box only once then the total weight of the combination cannot be:",
+          "choices": [
+            "170 kg",
+            "160 kg",
+            "150 kg",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 146
+          }
+        },
+        {
+          "id": "mpt2026-147",
+          "prompt": "The positions of the first and sixth digits in the number 5109238674 are interchanged. Similarly, the positions of second and seventh digits are interchanged and so on. Which one of the following will be the third digit from the right end after the rearrangement?",
+          "choices": [
+            "9",
+            "0",
+            "6",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 147
+          }
+        },
+        {
+          "id": "mpt2026-148",
+          "prompt": "16 men and 12 women can complete a work in 20 days. 18 women can complete the same work in 40 days. In how many days will 12 men and 27 women complete the same work?",
+          "choices": [
+            "16",
+            "18",
+            "21",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 148
+          }
+        },
+        {
+          "id": "mpt2026-149",
+          "prompt": "Statement: \"Research reports that though Vitamin C present in fresh fruits and vegetables is beneficial for human body, capsule Vitamin C does not have the same effect on human body\". Which of the following sentence would logically come next? (i) The sale of capsule Vitamin C should be banned. (ii) People should be encouraged to take fresh fruits and vegetables to meet the body's requirement of Vitamin C.",
+          "choices": [
+            "Only (i) follows",
+            "Only (ii) follows",
+            "Neither (i) nor (ii) follows",
+            "Both (i) and (ii) follow"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 149
+          }
+        },
+        {
+          "id": "mpt2026-150",
+          "prompt": "What is the next term in the series: 11, 20, 38, 56, 83?",
+          "choices": [
+            "108",
+            "116",
+            "122",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 150
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-abilities-2026-7",
+      "title": "MPT 2026 · Set 7",
+      "subtitle": "Questions 151-160 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-151",
+          "prompt": "If output voltage is greater than input voltage, then transformer is:",
+          "choices": [
+            "Step up",
+            "Step down",
+            "Faulty",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 151
+          }
+        },
+        {
+          "id": "mpt2026-152",
+          "prompt": "The voltage signal which is generated by microphone is called:",
+          "choices": [
+            "Digital",
+            "Analogue",
+            "Hybrid",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 152
+          }
+        },
+        {
+          "id": "mpt2026-153",
+          "prompt": "Third most common gas that is found in the air we breathe is called:",
+          "choices": [
+            "Hydrogen",
+            "Neon",
+            "Argon",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 153
+          }
+        },
+        {
+          "id": "mpt2026-154",
+          "prompt": "Electromagnetic radiation with maximum wavelength is:",
+          "choices": [
+            "Ultraviolet",
+            "Radio waves",
+            "Infrared",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 154
+          }
+        },
+        {
+          "id": "mpt2026-155",
+          "prompt": "The most dangerous type of radiation is:",
+          "choices": [
+            "Alpha radiation",
+            "Beta radiation",
+            "Gamma radiation",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 155
+          }
+        },
+        {
+          "id": "mpt2026-156",
+          "prompt": "The solar energy is radiated in the form of:",
+          "choices": [
+            "Electromagnetic waves",
+            "Transverse waves",
+            "Infrared waves",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 156
+          }
+        },
+        {
+          "id": "mpt2026-157",
+          "prompt": "The study of human body cells is called:",
+          "choices": [
+            "Physiology",
+            "Cytology",
+            "Mycology",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 157
+          }
+        },
+        {
+          "id": "mpt2026-158",
+          "prompt": "Excessive bleeding during an injury is a deficiency of:",
+          "choices": [
+            "Vitamin B",
+            "Vitamin K",
+            "Vitamin E",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 158
+          }
+        },
+        {
+          "id": "mpt2026-159",
+          "prompt": "Which fuel is used in gas welding?",
+          "choices": [
+            "Acetylene",
+            "Methane",
+            "Ethylene",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 159
+          }
+        },
+        {
+          "id": "mpt2026-160",
+          "prompt": "Drum printers belong to which of the following category?",
+          "choices": [
+            "Ink jet printer",
+            "Laser printer",
+            "Line printer",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 160
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-abilities-2026-8",
+      "title": "MPT 2026 · Set 8",
+      "subtitle": "Questions 161-166 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-161",
+          "prompt": "Machine learning is sub area of:",
+          "choices": [
+            "Hardware Engineering",
+            "Artificial intelligence",
+            "Cyber forensics",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 161
+          }
+        },
+        {
+          "id": "mpt2026-162",
+          "prompt": "Which of the following can be classified as renewable energy source?",
+          "choices": [
+            "Geothermal energy",
+            "Tidal energy",
+            "Biomass energy",
+            "All of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 162
+          }
+        },
+        {
+          "id": "mpt2026-163",
+          "prompt": "How do scientists know that the Earth's core is made up of metal?",
+          "choices": [
+            "The density of the surface layer of Earth is much less than its average density.",
+            "The Earth's rotation speed indicates its core structure.",
+            "The density of surface layer of Earth is greater than its total density.",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 163
+          }
+        },
+        {
+          "id": "mpt2026-164",
+          "prompt": "Maintenance of soil fertility without addition of extra nutrition is due to:",
+          "choices": [
+            "Floods",
+            "Crop residue",
+            "Microbial activity",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 164
+          }
+        },
+        {
+          "id": "mpt2026-165",
+          "prompt": "Nanocomposite materials are useful in food industry as they prevent packaged food from damage due to:",
+          "choices": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Moisture",
+            "All of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 165
+          }
+        },
+        {
+          "id": "mpt2026-166",
+          "prompt": "Which of the following statement is true?",
+          "choices": [
+            "Water-soluble vitamins cannot be stored in the body",
+            "Fat-soluble vitamins can be stored in the body",
+            "Body can absorb more of fat-soluble vitamins than required",
+            "All of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 166
+          }
+        }
+      ]
+    }
+  ]
+}

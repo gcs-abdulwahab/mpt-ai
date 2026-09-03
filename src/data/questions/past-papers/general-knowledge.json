@@ -1,0 +1,1226 @@
+{
+  "unit": "general-knowledge",
+  "kind": "past-paper",
+  "source": "FPSC MCQ-based Preliminary Test past papers, as published by cssaspirants.pk. Answers are the keys marked in those papers.",
+  "lessons": [
+    {
+      "id": "general-knowledge-2023-1",
+      "title": "MPT 2023 (Special) · Set 1",
+      "subtitle": "Questions 83-92 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-83",
+          "prompt": "Why does the sky appear blue?",
+          "choices": [
+            "Due to scattering of light in the atmosphere",
+            "Due to the colour of gases in the atmosphere",
+            "Due to reflection from the Earth's surface",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 83
+          }
+        },
+        {
+          "id": "mpt2023-84",
+          "prompt": "The extraction of metal from its ore is done by \"smelting\", which involves:",
+          "choices": [
+            "Heating and chemical reduction",
+            "Heating and oxidation",
+            "Heating and electrolysis",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 84
+          }
+        },
+        {
+          "id": "mpt2023-85",
+          "prompt": "The hardness of a hammer made of aluminium is due to the presence of:",
+          "choices": [
+            "Ionic bond",
+            "Covalent bond",
+            "Metallic bond",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 85
+          }
+        },
+        {
+          "id": "mpt2023-86",
+          "prompt": "In which layer of the atmosphere are most of the clouds formed?",
+          "choices": [
+            "Mesosphere",
+            "Troposphere",
+            "Stratosphere",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 86
+          }
+        },
+        {
+          "id": "mpt2023-87",
+          "prompt": "Biosphere is defined as:",
+          "choices": [
+            "Part of the earth, water and atmosphere inhabited by living organisms",
+            "Part of soil inhabited by animals and plants",
+            "Atmosphere in which life exists",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 87
+          }
+        },
+        {
+          "id": "mpt2023-88",
+          "prompt": "Malaria, polio, dengue fever and influenza are examples of:",
+          "choices": [
+            "Deficiency diseases",
+            "Infectious diseases",
+            "Physiological diseases",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 88
+          }
+        },
+        {
+          "id": "mpt2023-89",
+          "prompt": "The protocol which assigns IP addresses to clients connected to the internet is:",
+          "choices": [
+            "Transmission Control Protocol",
+            "Dynamic Host Configuration Protocol",
+            "User Datagram Protocol",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 89
+          }
+        },
+        {
+          "id": "mpt2023-90",
+          "prompt": "In terms of Wi-Fi data throughput, the fastest transfer speeds are offered by which Wi-Fi standard?",
+          "choices": [
+            "802.11a",
+            "802.22g",
+            "802.11n",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 90
+          }
+        },
+        {
+          "id": "mpt2023-91",
+          "prompt": "What information about an earthquake defines its size?",
+          "choices": [
+            "Magnitude",
+            "Depth of the epicenter",
+            "Energy released",
+            "All of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 91
+          }
+        },
+        {
+          "id": "mpt2023-92",
+          "prompt": "The fluid part of blood is known as:",
+          "choices": [
+            "Blood cells",
+            "Platelets",
+            "Plasma",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 92
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-2023-2",
+      "title": "MPT 2023 (Special) · Set 2",
+      "subtitle": "Questions 93-102 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-93",
+          "prompt": "World Religion Day 2021 was celebrated on ______ January.",
+          "choices": [
+            "13",
+            "14",
+            "15",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 93
+          }
+        },
+        {
+          "id": "mpt2023-94",
+          "prompt": "The South Sudan independence referendum was held in:",
+          "choices": [
+            "2011",
+            "2012",
+            "2013",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 94
+          }
+        },
+        {
+          "id": "mpt2023-95",
+          "prompt": "There are ______ members in NATO.",
+          "choices": [
+            "26",
+            "27",
+            "28",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 95
+          }
+        },
+        {
+          "id": "mpt2023-96",
+          "prompt": "The former Secretary-General of the UN, Mr. Kofi Annan, belonged to:",
+          "choices": [
+            "Ghana",
+            "Kenya",
+            "Nigeria",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 96
+          }
+        },
+        {
+          "id": "mpt2023-97",
+          "prompt": "______ doesn't support any aquatic life:",
+          "choices": [
+            "Red Sea",
+            "Caspian Sea",
+            "Dead Sea",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 97
+          }
+        },
+        {
+          "id": "mpt2023-98",
+          "prompt": "______ is the Afghan Foreign Minister:",
+          "choices": [
+            "Abdul Ghani",
+            "Mullah Yaqoob",
+            "Amir Khan Muttaqi",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 98
+          }
+        },
+        {
+          "id": "mpt2023-99",
+          "prompt": "World Environment Day is celebrated each year on ______ June.",
+          "choices": [
+            "5",
+            "6",
+            "7",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 99
+          }
+        },
+        {
+          "id": "mpt2023-100",
+          "prompt": "The Falkland Islands are located near:",
+          "choices": [
+            "Australia",
+            "Argentina",
+            "UK",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 100
+          }
+        },
+        {
+          "id": "mpt2023-101",
+          "prompt": "The Iran-Pakistan gas pipeline is called the:",
+          "choices": [
+            "Peace Pipeline",
+            "Friendship Pipeline",
+            "Great Pipeline",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 101
+          }
+        },
+        {
+          "id": "mpt2023-102",
+          "prompt": "The Lapis Lazuli Corridor links Afghanistan to:",
+          "choices": [
+            "Iran",
+            "Turkey",
+            "Russia",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 102
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-2023-3",
+      "title": "MPT 2023 (Special) · Set 3",
+      "subtitle": "Questions 103-112 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-103",
+          "prompt": "The 2023 Special Olympics were held in:",
+          "choices": [
+            "Germany",
+            "Belgium",
+            "Portugal",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 103
+          }
+        },
+        {
+          "id": "mpt2023-104",
+          "prompt": "NAFTA stands for:",
+          "choices": [
+            "North African Free Trade Agreement",
+            "North Atlantic Free Trade Agreement",
+            "North American Free Trade Agreement",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 104
+          }
+        },
+        {
+          "id": "mpt2023-105",
+          "prompt": "The ______ is the world's largest inland body of water.",
+          "choices": [
+            "Caspian Sea",
+            "California Sea",
+            "Bering Sea",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 105
+          }
+        },
+        {
+          "id": "mpt2023-106",
+          "prompt": "The UN Sustainable Development Goals are intended to be achieved by:",
+          "choices": [
+            "2030",
+            "2035",
+            "2040",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 106
+          }
+        },
+        {
+          "id": "mpt2023-107",
+          "prompt": "Russia annexed Crimea from Ukraine in:",
+          "choices": [
+            "2012",
+            "2013",
+            "2014",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 107
+          }
+        },
+        {
+          "id": "mpt2023-108",
+          "prompt": "Pakistan became a permanent member of the Shanghai Cooperation Organization in:",
+          "choices": [
+            "2016",
+            "2017",
+            "2018",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 108
+          }
+        },
+        {
+          "id": "mpt2023-109",
+          "prompt": "The State of Swat was integrated into Pakistan in:",
+          "choices": [
+            "1968",
+            "1969",
+            "1970",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 109
+          }
+        },
+        {
+          "id": "mpt2023-110",
+          "prompt": "Pakistan has been a member of the World Trade Organization since:",
+          "choices": [
+            "1995",
+            "1996",
+            "1997",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 110
+          }
+        },
+        {
+          "id": "mpt2023-111",
+          "prompt": "Pakistan released Afghan Taliban leader ______ in 2018.",
+          "choices": [
+            "Mullah Haibatullah",
+            "Mullah Baradar",
+            "Mullah Mansoor",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 111
+          }
+        },
+        {
+          "id": "mpt2023-112",
+          "prompt": "Pervez Musharraf gave a ______-point formula for the solution of Kashmir.",
+          "choices": [
+            "Three",
+            "Four",
+            "Five",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 112
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-2023-4",
+      "title": "MPT 2023 (Special) · Set 4",
+      "subtitle": "Questions 113-125 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-113",
+          "prompt": "Constitutionally, Gilgit-Baltistan has a ______ status.",
+          "choices": [
+            "Provincial",
+            "Semi-provincial",
+            "State",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 113
+          }
+        },
+        {
+          "id": "mpt2023-114",
+          "prompt": "NESCOM of Pakistan stands for:",
+          "choices": [
+            "National Engineering and Scientific Commission",
+            "National Engineering and Statistical Commission",
+            "National Engineering and Space Commission",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 114
+          }
+        },
+        {
+          "id": "mpt2023-115",
+          "prompt": "Pakistan has been a member of the ASEAN Regional Forum (ARF) since:",
+          "choices": [
+            "2002",
+            "2003",
+            "2004",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 115
+          }
+        },
+        {
+          "id": "mpt2023-116",
+          "prompt": "Pakistan started Operation Radd-ul-Fasaad in ______ 2017.",
+          "choices": [
+            "February",
+            "March",
+            "April",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 116
+          }
+        },
+        {
+          "id": "mpt2023-117",
+          "prompt": "The ______ constitutional amendment created military courts in Pakistan.",
+          "choices": [
+            "21st",
+            "22nd",
+            "23rd",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 117
+          }
+        },
+        {
+          "id": "mpt2023-118",
+          "prompt": "The Afghanistan-Pakistan Transit Trade Agreement (APTTA) was signed in:",
+          "choices": [
+            "2008",
+            "2009",
+            "2010",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 118
+          }
+        },
+        {
+          "id": "mpt2023-119",
+          "prompt": "The founding editor of the \"Zamindar\" newspaper was:",
+          "choices": [
+            "Maulana Muhammad Ali Johar",
+            "Maulana Sikandar Ali",
+            "Maulana Zafar Ali Khan",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 119
+          }
+        },
+        {
+          "id": "mpt2023-120",
+          "prompt": "Pakistan has been a signatory of the Nuclear Non-Proliferation Treaty (NPT) since:",
+          "choices": [
+            "1977",
+            "1978",
+            "1979",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 120
+          }
+        },
+        {
+          "id": "mpt2023-121",
+          "prompt": "The West Pakistan Land Reforms Regulation was passed in:",
+          "choices": [
+            "1959",
+            "1960",
+            "1961",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 121
+          }
+        },
+        {
+          "id": "mpt2023-122",
+          "prompt": "The Pak-Afghan border agreement (\"Durand Line\") was signed in:",
+          "choices": [
+            "1893",
+            "1894",
+            "1895",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 122
+          }
+        },
+        {
+          "id": "mpt2023-123",
+          "prompt": "Pakistan won ______ gold medals at the 2022 Commonwealth Games.",
+          "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 123
+          }
+        },
+        {
+          "id": "mpt2023-124",
+          "prompt": "ECOWAS is a union of states in:",
+          "choices": [
+            "Latin America",
+            "Africa",
+            "East Asia",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 124
+          }
+        },
+        {
+          "id": "mpt2023-125",
+          "prompt": "The Indus Waters Treaty between Pakistan and India was mediated by the:",
+          "choices": [
+            "IMF",
+            "World Bank",
+            "United States",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 125
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-2026-1",
+      "title": "MPT 2026 · Set 1",
+      "subtitle": "Questions 167-176 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-167",
+          "prompt": "What global agreement, signed in 2015, aimed to limit global warming to well below 2 degrees Celsius above pre-industrial levels?",
+          "choices": [
+            "Kyoto Protocol",
+            "Paris Agreement",
+            "Copenhagen Accord",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 167
+          }
+        },
+        {
+          "id": "mpt2026-168",
+          "prompt": "Which international organization or group is responsible for the implementation of the B3W Initiative?",
+          "choices": [
+            "United Nations (UN)",
+            "Group of Seven (G7)",
+            "NATO",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 168
+          }
+        },
+        {
+          "id": "mpt2026-169",
+          "prompt": "China gave a Peace Plan for the Ukraine war in 2023. How many points were included in China's peace plan?",
+          "choices": [
+            "6",
+            "10",
+            "12",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 169
+          }
+        },
+        {
+          "id": "mpt2026-170",
+          "prompt": "What term describes the use of information warfare, disinformation, and other means to manipulate and undermine the influence of other countries?",
+          "choices": [
+            "Soft power",
+            "Sharp power",
+            "Smart power",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 170
+          }
+        },
+        {
+          "id": "mpt2026-171",
+          "prompt": "The Regional Comprehensive and Economic Partnership (RCEP) is a free trade agreement among the nations of:",
+          "choices": [
+            "North America",
+            "Europe",
+            "Asia-Pacific",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 171
+          }
+        },
+        {
+          "id": "mpt2026-172",
+          "prompt": "The AIIB (Asian Infrastructure Investment Bank) was established by:",
+          "choices": [
+            "Asian Development Bank",
+            "ASEAN",
+            "Group of Seven (G7) countries",
+            "China and some other Asian countries"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 172
+          }
+        },
+        {
+          "id": "mpt2026-173",
+          "prompt": "What does the \"I2-U2\" alliance stand for?",
+          "choices": [
+            "India-Israel-Ukraine-US",
+            "India-Israel-US-UAE",
+            "Italy-Israel-Ukraine-UK",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 173
+          }
+        },
+        {
+          "id": "mpt2026-174",
+          "prompt": "\"G-2 or Group of Two\" is an informal diplomacy between:",
+          "choices": [
+            "Germany and Greece",
+            "US and China",
+            "Germany and Ghana",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 174
+          }
+        },
+        {
+          "id": "mpt2026-175",
+          "prompt": "Which country hosted the regular meeting of the SCO Foreign Ministers Council in 2023?",
+          "choices": [
+            "China",
+            "India",
+            "Uzbekistan",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 175
+          }
+        },
+        {
+          "id": "mpt2026-176",
+          "prompt": "The Belt and Road Initiative (BRI) consists of two main components: the Silk Road Economic Belt and:",
+          "choices": [
+            "The Desert Oasis Corridor",
+            "The Himalayan Trade Route",
+            "The 21st Century Maritime Silk Road",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 176
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-2026-2",
+      "title": "MPT 2026 · Set 2",
+      "subtitle": "Questions 177-186 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-177",
+          "prompt": "When was the \"Made in China 2025\" strategic plan initiated?",
+          "choices": [
+            "2010",
+            "2015",
+            "2020",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 177
+          }
+        },
+        {
+          "id": "mpt2026-178",
+          "prompt": "Djibouti is strategically located at the mouth of which sea?",
+          "choices": [
+            "Mediterranean Sea",
+            "South China Sea",
+            "Red Sea",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 178
+          }
+        },
+        {
+          "id": "mpt2026-179",
+          "prompt": "The Horn of Africa (HoA) is located in which part of the African continent?",
+          "choices": [
+            "Eastern Africa",
+            "Western Africa",
+            "Northern Africa",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 179
+          }
+        },
+        {
+          "id": "mpt2026-180",
+          "prompt": "The Southeast Asia Treaty Organization (SEATO) formally came to an end in:",
+          "choices": [
+            "1977",
+            "1988",
+            "1991",
+            "None of These"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 180
+          }
+        },
+        {
+          "id": "mpt2026-181",
+          "prompt": "What does \"CARICOM\" stand for?",
+          "choices": [
+            "Canada, Austria, Romania, India-Community",
+            "Caribbean Community",
+            "Canada, Argentina, Russia, Italy-Community",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 181
+          }
+        },
+        {
+          "id": "mpt2026-182",
+          "prompt": "What does BECA stand for?",
+          "choices": [
+            "Basic Exchange and Cooperation Agreement",
+            "Bilateral Exchange and Cooperation Accord",
+            "Basic Economic and Cultural Agreement",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 182
+          }
+        },
+        {
+          "id": "mpt2026-183",
+          "prompt": "Which nation holds the distinction of being the top investor in Africa by 2023?",
+          "choices": [
+            "United States",
+            "China",
+            "Russia",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 183
+          }
+        },
+        {
+          "id": "mpt2026-184",
+          "prompt": "Which important shipping lane, connecting the Arabian Sea to the Persian Gulf, passes through Pakistani waters and is vital for international trade?",
+          "choices": [
+            "Strait of Hormuz",
+            "Gulf of Aden",
+            "The Bab-el-Mandeb",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 184
+          }
+        },
+        {
+          "id": "mpt2026-185",
+          "prompt": "Which U.S. military operation in 2011 resulted in the death of Osama bin Laden in Pakistan?",
+          "choices": [
+            "Operation Enduring Freedom",
+            "Operation Eradicating Terrorism",
+            "Operation Neptune Spear",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 185
+          }
+        },
+        {
+          "id": "mpt2026-186",
+          "prompt": "The world's highest battlefield, the Siachen Glacier, is located in which mountain range?",
+          "choices": [
+            "Himalayas",
+            "Karakoram",
+            "Hindu Kush",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 186
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-2026-3",
+      "title": "MPT 2026 · Set 3",
+      "subtitle": "Questions 187-196 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-187",
+          "prompt": "In 2017, Pakistan became a full member of the Shanghai Cooperation Organization (SCO). What is the primary purpose of the SCO?",
+          "choices": [
+            "To facilitate trade amongst member countries",
+            "To establish a common currency for member states",
+            "To promote regional cooperation and stability in Eurasia",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 187
+          }
+        },
+        {
+          "id": "mpt2026-188",
+          "prompt": "Which Pakistani diplomat served as the President of the United Nations (UN) General Assembly?",
+          "choices": [
+            "Feroz Khan Noon",
+            "Zulfikar Ali Bhutto",
+            "Muhammad Zafrulla Khan",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 188
+          }
+        },
+        {
+          "id": "mpt2026-189",
+          "prompt": "What is the length of the Batura Glacier, making it one of the largest and longest glaciers outside the polar regions?",
+          "choices": [
+            "57 kilometers",
+            "61 kilometers",
+            "64 kilometers",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 189
+          }
+        },
+        {
+          "id": "mpt2026-190",
+          "prompt": "Which island is known as Pakistan's largest island and is sometimes referred to as \"Jazira Haft Talar,\" meaning the island of seven mountains?",
+          "choices": [
+            "Manora Island",
+            "Astola Island",
+            "Churna Island",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 190
+          }
+        },
+        {
+          "id": "mpt2026-191",
+          "prompt": "How many members of the National Assembly must sign the notice of no confidence for it to be valid?",
+          "choices": [
+            "At least five percent (5%)",
+            "At least ten percent (10%)",
+            "At least twenty percent (20%)",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 191
+          }
+        },
+        {
+          "id": "mpt2026-192",
+          "prompt": "Pakistan's position on the Fissile Material Cut-off Treaty (FMCT) is that:",
+          "choices": [
+            "Pre-existing stockpiles should be included in the draft of the FMCT before negotiations",
+            "Ban on nuclear testing be lifted before signing of the draft",
+            "A criteria-based approach be applied to the NSG before finalizing the FMCT",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 192
+          }
+        },
+        {
+          "id": "mpt2026-193",
+          "prompt": "As of 2023, Pakistan is included in the roster of FATF.",
+          "choices": [
+            "Black",
+            "Grey",
+            "White",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 193
+          }
+        },
+        {
+          "id": "mpt2026-194",
+          "prompt": "The Muslim League observed \"Direct Action Day\" on August 16, 1946, which led to communal violence in:",
+          "choices": [
+            "Delhi",
+            "Lahore",
+            "Kolkata",
+            "Mumbai"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 194
+          }
+        },
+        {
+          "id": "mpt2026-195",
+          "prompt": "Who wrote the book \"Train to Pakistan\", which is set during the Partition of India in 1947?",
+          "choices": [
+            "Bapsi Sidhwa",
+            "Amrita Pritam",
+            "Khushwant Singh",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 195
+          }
+        },
+        {
+          "id": "mpt2026-196",
+          "prompt": "In the Bogra formula, the proposed lower house of parliament was named as:",
+          "choices": [
+            "The House of Commons",
+            "The House of People",
+            "National Assembly",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 196
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-2026-4",
+      "title": "MPT 2026 · Set 4",
+      "subtitle": "Questions 197-200 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-197",
+          "prompt": "Lenin prize was awarded to:",
+          "choices": [
+            "Habib Jalib",
+            "Ahmed Faraz",
+            "Faiz Ahmed Faiz",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 197
+          }
+        },
+        {
+          "id": "mpt2026-198",
+          "prompt": "After India's Independence, Moulana Abdul Kalam Azad was appointed as:",
+          "choices": [
+            "Minister of Education",
+            "Speaker of the Lok Sabha",
+            "Minister of Finance",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 198
+          }
+        },
+        {
+          "id": "mpt2026-199",
+          "prompt": "Mujeeb-ur-Rehman presented his six points in:",
+          "choices": [
+            "1966",
+            "1959",
+            "1968",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 199
+          }
+        },
+        {
+          "id": "mpt2026-200",
+          "prompt": "The Chief Justice of Supreme Court of Pakistan is appointed by the:",
+          "choices": [
+            "President",
+            "Prime Minister",
+            "Majority vote in the Parliament",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 200
+          }
+        }
+      ]
+    }
+  ]
+}

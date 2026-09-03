@@ -1,0 +1,124 @@
+:root {
+  --green: #58cc02;
+  --green-dark: #46a302;
+  --red: #ff4b4b;
+  --red-dark: #d33a3a;
+  --blue: #1cb0f6;
+  --gold: #ffc800;
+
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-2: #f7f9fb;
+  --border: #e5e7eb;
+  --border-strong: #d3d8de;
+  --text: #2b2f38;
+  --muted: #7c8798;
+
+  --radius: 16px;
+  --shadow-press: 4px;
+
+  font-family: 'Nunito', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  line-height: 1.55;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #10141c;
+    --surface: #171d28;
+    --surface-2: #1d2532;
+    --border: #2a3342;
+    --border-strong: #3a4557;
+    --text: #eef2f8;
+    --muted: #94a1b5;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-tap-highlight-color: transparent;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+/* Nastaliq-style stack for the Urdu unit; falls back to whatever Arabic-script
+   face the platform ships. Urdu text is also marked dir="rtl" in the markup. */
+.urdu {
+  font-family: 'Noto Nastaliq Urdu', 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Segoe UI',
+    serif;
+  line-height: 2.1;
+}
+
+.btn {
+  font: inherit;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  border-radius: var(--radius);
+  color: #fff;
+  background: var(--green);
+  box-shadow: 0 var(--shadow-press) 0 var(--green-dark);
+  cursor: pointer;
+  transition: transform 0.06s ease, filter 0.15s ease;
+}
+
+.btn:hover:not(:disabled) {
+  filter: brightness(1.05);
+}
+
+.btn:active:not(:disabled) {
+  transform: translateY(var(--shadow-press));
+  box-shadow: none;
+}
+
+.btn:disabled {
+  background: var(--border);
+  color: var(--muted);
+  box-shadow: 0 var(--shadow-press) 0 var(--border-strong);
+  cursor: not-allowed;
+}
+
+.btn--wide {
+  width: 100%;
+  max-width: 22rem;
+}
+
+.btn--small {
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+  --shadow-press: 3px;
+}
+
+.btn--ghost {
+  background: transparent;
+  color: var(--muted);
+  box-shadow: none;
+  border: 2px solid var(--border);
+}
+
+.btn--ghost:disabled {
+  background: transparent;
+  box-shadow: none;
+}
+
+:where(a) {
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 3px;
+}

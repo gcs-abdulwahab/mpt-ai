@@ -1,0 +1,27 @@
+.app {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Top of the viewport: the lesson footer is sticky at the bottom and its
+   Check/Continue button must never be covered. */
+.toast {
+  position: fixed;
+  inset: 1rem 1rem auto auto;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0;
+  max-width: min(26rem, calc(100vw - 2rem));
+  padding: 0.9rem 1.1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: 0 14px 32px rgb(0 0 0 / 18%);
+}

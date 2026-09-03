@@ -1,0 +1,946 @@
+{
+  "unit": "english",
+  "kind": "past-paper",
+  "source": "FPSC MCQ-based Preliminary Test past papers, as published by cssaspirants.pk. Answers are the keys marked in those papers.",
+  "lessons": [
+    {
+      "id": "english-2023-1",
+      "title": "MPT 2023 (Special) · Set 1",
+      "subtitle": "Questions 20-30 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-20",
+          "prompt": "______ woman that we saw turned out to be our CEO.",
+          "choices": [
+            "A",
+            "The",
+            "That",
+            "An"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 20
+          }
+        },
+        {
+          "id": "mpt2023-21",
+          "prompt": "When the meeting had finished, they went ______ the plan once again.",
+          "choices": [
+            "Down",
+            "On",
+            "Up",
+            "Over"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 21
+          }
+        },
+        {
+          "id": "mpt2023-22",
+          "prompt": "We have been able to obtain no information ______ his whereabouts.",
+          "choices": [
+            "That of",
+            "According to",
+            "In which",
+            "As to"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 22
+          }
+        },
+        {
+          "id": "mpt2023-23",
+          "prompt": "I didn't know whether you had to have one of these or not; if you ______ one, however, I would have given it to you freely.",
+          "choices": [
+            "Had to have",
+            "Had had to have",
+            "Had to had",
+            "Have to had"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 23
+          }
+        },
+        {
+          "id": "mpt2023-25",
+          "prompt": "Do you ______ go to sleep early, or is it insomnia?",
+          "choices": [
+            "Ever",
+            "Sometime",
+            "Never",
+            "Every time"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 25
+          }
+        },
+        {
+          "id": "mpt2023-26",
+          "prompt": "Synonym of Obdurate:",
+          "choices": [
+            "Trustable",
+            "Malleable",
+            "Amenable",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 26
+          }
+        },
+        {
+          "id": "mpt2023-27",
+          "prompt": "Synonym of Pejorative:",
+          "choices": [
+            "Laudatory",
+            "Complementary",
+            "Approbatory",
+            "Depreciatory"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 27
+          }
+        },
+        {
+          "id": "mpt2023-28",
+          "prompt": "She showed a blatant disregard for the rules. (Synonym of underlined word)",
+          "choices": [
+            "Obvious",
+            "Hidden",
+            "Last-minute",
+            "Rebellious"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 28
+          }
+        },
+        {
+          "id": "mpt2023-29",
+          "prompt": "As soon as details of the election were released to the media, the newspaper was inundated with calls - far too many to be handled effectively. (Synonym of underlined word)",
+          "choices": [
+            "Provided",
+            "Bothered",
+            "Reminded",
+            "Flooded"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 29
+          }
+        },
+        {
+          "id": "mpt2023-30",
+          "prompt": "Antonym of Cajole:",
+          "choices": [
+            "Wheedle",
+            "Coax",
+            "Badger",
+            "Dissuade"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "english-2023-2",
+      "title": "MPT 2023 (Special) · Set 2",
+      "subtitle": "Questions 31-40 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-31",
+          "prompt": "Antonym of Ephemeral:",
+          "choices": [
+            "Fleeting",
+            "Permanent",
+            "Transitory",
+            "Momentary"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 31
+          }
+        },
+        {
+          "id": "mpt2023-32",
+          "prompt": "Antonym of Flagrant:",
+          "choices": [
+            "Overt",
+            "Trifling",
+            "Evident",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 32
+          }
+        },
+        {
+          "id": "mpt2023-33",
+          "prompt": "Antonym of Quixotic:",
+          "choices": [
+            "Impulsive",
+            "Prosthetic",
+            "Dreamy",
+            "Practical"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 33
+          }
+        },
+        {
+          "id": "mpt2023-34",
+          "prompt": "Dependable : Capricious ::",
+          "choices": [
+            "Fallible : Cantankerous",
+            "Capable : Inept",
+            "Malleable : Inept",
+            "Incorrigible : Guilty"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 34
+          }
+        },
+        {
+          "id": "mpt2023-35",
+          "prompt": "True health and true success go together, for they are inseparably ______ in the realm of thought.",
+          "choices": [
+            "Intertwined",
+            "Bound up",
+            "Tied up",
+            "Inter-related"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 35
+          }
+        },
+        {
+          "id": "mpt2023-36",
+          "prompt": "His moral decadence was marked by his ______ from the ways of integrity and honesty.",
+          "choices": [
+            "Obsession",
+            "Declivity",
+            "Opprobrium",
+            "Departure"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 36
+          }
+        },
+        {
+          "id": "mpt2023-37",
+          "prompt": "The ______ arguments put forth for not disclosing the facts did not impress anybody.",
+          "choices": [
+            "Convincing",
+            "Specious",
+            "Spurious",
+            "Intemperate"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 37
+          }
+        },
+        {
+          "id": "mpt2023-38",
+          "prompt": "The children were ______ by the seemingly nonsensical clues until Kinan pointed out that the messages were in code.",
+          "choices": [
+            "Censured",
+            "Pondered",
+            "Feigned",
+            "Perplexed"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 38
+          }
+        },
+        {
+          "id": "mpt2023-39",
+          "prompt": "For a ______ fee, it is possible to upgrade from regular gasoline to premium.",
+          "choices": [
+            "Nominal",
+            "Substantive",
+            "Exorbitant",
+            "Bountiful"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 39
+          }
+        },
+        {
+          "id": "mpt2023-40",
+          "prompt": "It is difficult to believe that charging 20% on an outstanding credit card balance isn't ______.",
+          "choices": [
+            "Bankruptcy",
+            "Usury",
+            "Expensive",
+            "Taxation"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "english-2023-3",
+      "title": "MPT 2023 (Special) · Set 3",
+      "subtitle": "Questions 41-50 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-41",
+          "prompt": "Which of the following sentences is grammatically correct?",
+          "choices": [
+            "I and my friends went to the movie.",
+            "My friends and I went to the movie.",
+            "Me and my friends went to the movie.",
+            "My friends and me went to the movie."
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 41
+          }
+        },
+        {
+          "id": "mpt2023-42",
+          "prompt": "Which of the following is an example of a subordinate clause?",
+          "choices": [
+            "I like pizza",
+            "Because I like pizza",
+            "Pizza is my favorite food",
+            "I ate pizza for dinner"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 42
+          }
+        },
+        {
+          "id": "mpt2023-43",
+          "prompt": "Which sentence uses the subjunctive mood correctly?",
+          "choices": [
+            "If I was you, I would study more.",
+            "If I were you, I would study more.",
+            "If he was here, he would help us.",
+            "If he were here, he would help us."
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 43
+          }
+        },
+        {
+          "id": "mpt2023-44",
+          "prompt": "Which sentence uses the correct tense?",
+          "choices": [
+            "I have been reading this book since two hours",
+            "I had read that book last week",
+            "I will have finished my homework by 7 pm",
+            "I was reading the book when the phone rang."
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 44
+          }
+        },
+        {
+          "id": "mpt2023-45",
+          "prompt": "Which sentence uses the correct adjective form?",
+          "choices": [
+            "The movie was more scarier than I expected",
+            "The movie was scarier than I expected",
+            "The movie was scare than I expected",
+            "The movie was scary than I expected"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 45
+          }
+        },
+        {
+          "id": "mpt2023-46",
+          "prompt": "The presence of armed guards at the building entrance ______ us from doing anything disruptive.",
+          "choices": [
+            "Defeated",
+            "Excited",
+            "Prevented",
+            "Prohibited"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 46
+          }
+        },
+        {
+          "id": "mpt2023-47",
+          "prompt": "'Argus-eyed' means:",
+          "choices": [
+            "Watchful",
+            "Devoted",
+            "Lethargic",
+            "Clumsy"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 47
+          }
+        },
+        {
+          "id": "mpt2023-48",
+          "prompt": "Perfect or highly accomplished means:",
+          "choices": [
+            "Impropriety",
+            "Sinister",
+            "Slovenly",
+            "None of these"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 48
+          }
+        },
+        {
+          "id": "mpt2023-49",
+          "prompt": "Dearth means:",
+          "choices": [
+            "Scarcity",
+            "To punish or criticize severely",
+            "To cause, produce, or stir up",
+            "Habitually fond of associating in a company or herd"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 49
+          }
+        },
+        {
+          "id": "mpt2023-50",
+          "prompt": "Fastidious means:",
+          "choices": [
+            "A person hard to please",
+            "A person hard to convince",
+            "A person hard to get angry",
+            "A person hard to get essential"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 50
+          }
+        }
+      ]
+    },
+    {
+      "id": "english-2023-4",
+      "title": "MPT 2023 (Special) · Set 4",
+      "subtitle": "Questions 51-59 of the original paper",
+      "paper": "MPT 2023 (Special)",
+      "questions": [
+        {
+          "id": "mpt2023-51",
+          "prompt": "Choose the correct sentence:",
+          "choices": [
+            "All that is glitters is not gold",
+            "All that is glittering is not gold",
+            "All that glitters is not gold",
+            "All which glitters is not gold"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 51
+          }
+        },
+        {
+          "id": "mpt2023-54",
+          "prompt": "\"Although they are 250 miles apart, they keep in constant contact on the internet.\" This is a:",
+          "choices": [
+            "Simple sentence",
+            "Compound sentence",
+            "Complex sentence",
+            "Compound-complex sentence"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 54
+          }
+        },
+        {
+          "id": "mpt2023-55",
+          "prompt": "I know both of them are short ______ money because of their extravagant nature.",
+          "choices": [
+            "On",
+            "Of",
+            "In",
+            "With"
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 55
+          }
+        },
+        {
+          "id": "mpt2023-56",
+          "prompt": "He writes ______ red ink.",
+          "choices": [
+            "With",
+            "In",
+            "Of",
+            "By"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 56
+          }
+        },
+        {
+          "id": "mpt2023-57",
+          "prompt": "He was accused ______ theft.",
+          "choices": [
+            "Of",
+            "In",
+            "With",
+            "None of these"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 57
+          }
+        },
+        {
+          "id": "mpt2023-58",
+          "prompt": "Do not jeer ______ sacred things.",
+          "choices": [
+            "With",
+            "Upon",
+            "At",
+            "None of these"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 58
+          }
+        },
+        {
+          "id": "mpt2023-59",
+          "prompt": "He is so dull that he is insensible ______ the beauties of nature.",
+          "choices": [
+            "For",
+            "To",
+            "Of",
+            "With"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2023 (Special)",
+            "number": 59
+          }
+        }
+      ]
+    },
+    {
+      "id": "english-2026-1",
+      "title": "MPT 2026 · Set 1",
+      "subtitle": "Questions 41-50 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-41",
+          "directive": "Identify the SYNONYM for the given word.",
+          "prompt": "Scraggly:",
+          "choices": [
+            "Gaunt",
+            "Underweight",
+            "Slender",
+            "Spindly"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 41
+          }
+        },
+        {
+          "id": "mpt2026-42",
+          "directive": "Identify the SYNONYM for the given word.",
+          "prompt": "Catacomb:",
+          "choices": [
+            "Oasis",
+            "Haven",
+            "Crypt",
+            "Shrine"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 42
+          }
+        },
+        {
+          "id": "mpt2026-43",
+          "directive": "Identify the SYNONYM for the given word.",
+          "prompt": "Sobriquet:",
+          "choices": [
+            "Nickname",
+            "Formal name",
+            "Byname",
+            "Pseudonym"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 43
+          }
+        },
+        {
+          "id": "mpt2026-44",
+          "directive": "Identify the SYNONYM for the given word.",
+          "prompt": "Metanoia:",
+          "choices": [
+            "Repentance",
+            "Conversion",
+            "Prostrate",
+            "Submission"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 44
+          }
+        },
+        {
+          "id": "mpt2026-45",
+          "directive": "Identify the SYNONYM for the given word.",
+          "prompt": "Verisimilitude:",
+          "choices": [
+            "Realism",
+            "Artifice",
+            "Conceit",
+            "Actuality"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 45
+          }
+        },
+        {
+          "id": "mpt2026-46",
+          "directive": "Identify the ANTONYM for the given word.",
+          "prompt": "Bastion:",
+          "choices": [
+            "Defenseless",
+            "Deformed",
+            "Destroyed",
+            "Demolished"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 46
+          }
+        },
+        {
+          "id": "mpt2026-47",
+          "directive": "Identify the ANTONYM for the given word.",
+          "prompt": "Egregious:",
+          "choices": [
+            "Flagrant",
+            "Inconspicuous",
+            "Audacious",
+            "Blunt"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 47
+          }
+        },
+        {
+          "id": "mpt2026-48",
+          "directive": "Identify the ANTONYM for the given word.",
+          "prompt": "Melange:",
+          "choices": [
+            "Harmonious",
+            "Homogeneous",
+            "Amorphous",
+            "Anomalous"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 48
+          }
+        },
+        {
+          "id": "mpt2026-49",
+          "directive": "Identify the ANTONYM for the given word.",
+          "prompt": "Solipsist:",
+          "choices": [
+            "Self-Centered",
+            "Self-Absorbed",
+            "Selfless",
+            "Self-Stylist"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 49
+          }
+        },
+        {
+          "id": "mpt2026-50",
+          "directive": "Identify the ANTONYM for the given word.",
+          "prompt": "Lionize:",
+          "choices": [
+            "Mistreat",
+            "Vilify",
+            "Lampoon",
+            "Ridicule"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 50
+          }
+        }
+      ]
+    },
+    {
+      "id": "english-2026-2",
+      "title": "MPT 2026 · Set 2",
+      "subtitle": "Questions 73-89 of the original paper",
+      "paper": "MPT 2026",
+      "questions": [
+        {
+          "id": "mpt2026-73",
+          "directive": "Fill in the blanks with appropriate prepositions.",
+          "prompt": "The emperor advocated the expostulation ______ calamities and reanimate officeholders to point out the officials' faults used for reference for the frequency of natural disasters ______ Yuan Dynasty.",
+          "choices": [
+            "on, in",
+            "about, in",
+            "at, at",
+            "over, inside"
+          ],
+          "answer": 0,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 73
+          }
+        },
+        {
+          "id": "mpt2026-74",
+          "directive": "Fill in the blanks with appropriate prepositions.",
+          "prompt": "The museum is situated both ______ the square and ______ the library.",
+          "choices": [
+            "on, beneath",
+            "on, under",
+            "at, underneath",
+            "around, above"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 74
+          }
+        },
+        {
+          "id": "mpt2026-75",
+          "directive": "Fill in the blanks with appropriate prepositions.",
+          "prompt": "The pusillanimous politician's lack of courage and conviction reeked ______ opportunism and cowardice, causing his supporters ______ lose faith in his ability to lead.",
+          "choices": [
+            "off, of",
+            "of, to",
+            "in, in",
+            "away, to"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 75
+          }
+        },
+        {
+          "id": "mpt2026-76",
+          "directive": "Select the correct idiom from the options provided.",
+          "prompt": "Emit smoke from seven orifices means:",
+          "choices": [
+            "To be very happy",
+            "To be extremely angry",
+            "To be very sad",
+            "None of these"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 76
+          }
+        },
+        {
+          "id": "mpt2026-77",
+          "directive": "Select the correct idiom from the options provided.",
+          "prompt": "To sell wolf tickets means:",
+          "choices": [
+            "To be honest and authentic",
+            "To talk tough but not back it up",
+            "To be weak and timid",
+            "To be intelligent and wise"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 77
+          }
+        },
+        {
+          "id": "mpt2026-78",
+          "directive": "Select the correct idiom from the options provided.",
+          "prompt": "The carrots are cooked means:",
+          "choices": [
+            "The situation is under control",
+            "The situation is hopeless",
+            "The situation is changing",
+            "The situation is improving"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 78
+          }
+        },
+        {
+          "id": "mpt2026-79",
+          "directive": "Select the correct idiom from the options provided.",
+          "prompt": "Forty winks mean:",
+          "choices": [
+            "A long, deep sleep",
+            "A short nap or brief period of sleep",
+            "A period of wakefulness",
+            "A dream or vision"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 79
+          }
+        },
+        {
+          "id": "mpt2026-80",
+          "directive": "Select the correct idiom from the options provided.",
+          "prompt": "As clear as a dumpling broth means:",
+          "choices": [
+            "Something that is very clear and easy to understand",
+            "Something that is completely unclear or confusing",
+            "Something that is moderately clear",
+            "Something that is partially clear"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 80
+          }
+        },
+        {
+          "id": "mpt2026-83",
+          "directive": "make the stillness more oppressive. The dim roar of London was like the bourdon note of a ...... organ.",
+          "prompt": "What is the effect of the \"momentary Japanese effect\" created by the shadows of birds in flight?",
+          "choices": [
+            "It adds to the sense of stillness and calm",
+            "It creates a sense of movement and energy",
+            "It emphasizes the beauty of nature",
+            "It highlights the artificiality of the scene"
+          ],
+          "answer": 1,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 83
+          }
+        },
+        {
+          "id": "mpt2026-86",
+          "directive": "to clean up after myself. Throwing away that plate of food was the most enjoyable part of dining at Dilly's.",
+          "prompt": "If you go to lunch at Dilly's Deli, you could expect to see:",
+          "choices": [
+            "Couples dining together",
+            "The fire marshal",
+            "A long line of customers",
+            "Homemade pie"
+          ],
+          "answer": 2,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 86
+          }
+        },
+        {
+          "id": "mpt2026-89",
+          "directive": "to clean up after myself. Throwing away that plate of food was the most enjoyable part of dining at Dilly's.",
+          "prompt": "The main purpose of the restaurant review is to:",
+          "choices": [
+            "Tell people about the presence of truck drivers at Dilly's Deli.",
+            "Make fun of couples who argue in public.",
+            "Recommend the hamburger steak special.",
+            "Warn people that Dilly's Deli tends to be crowded."
+          ],
+          "answer": 3,
+          "source": {
+            "paper": "MPT 2026",
+            "number": 89
+          }
+        }
+      ]
+    }
+  ]
+}

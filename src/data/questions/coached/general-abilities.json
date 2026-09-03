@@ -1,0 +1,188 @@
+{
+  "unit": "general-abilities",
+  "kind": "coached",
+  "lessons": [
+    {
+      "id": "gsa-1",
+      "title": "Mathematical Ability",
+      "subtitle": "Percentages, ratios, averages, interest",
+      "questions": [
+        {
+          "id": "gsa-1-1",
+          "prompt": "The price of a book rises from Rs. 400 to Rs. 460. What is the percentage increase?",
+          "choices": [
+            "12%",
+            "15%",
+            "18%",
+            "20%"
+          ],
+          "answer": 1,
+          "explanation": "Increase = 60. Percentage = 60/400 x 100 = 15%."
+        },
+        {
+          "id": "gsa-1-2",
+          "prompt": "The ratio of boys to girls in a class is 3:2. If there are 40 students, how many girls are there?",
+          "choices": [
+            "14",
+            "16",
+            "18",
+            "24"
+          ],
+          "answer": 1,
+          "explanation": "Total parts = 3 + 2 = 5, so one part = 8. Girls = 2 x 8 = 16."
+        },
+        {
+          "id": "gsa-1-3",
+          "prompt": "The average of 5 numbers is 24. If the number 30 is removed, what is the average of the remaining numbers?",
+          "choices": [
+            "21",
+            "22.5",
+            "23",
+            "24.5"
+          ],
+          "answer": 1,
+          "explanation": "Sum = 5 x 24 = 120. After removing 30, sum = 90 over 4 numbers, so the average is 22.5."
+        },
+        {
+          "id": "gsa-1-4",
+          "prompt": "A train covers 240 km in 3 hours. What is its average speed?",
+          "choices": [
+            "60 km/h",
+            "70 km/h",
+            "80 km/h",
+            "90 km/h"
+          ],
+          "answer": 2,
+          "explanation": "Speed = distance / time = 240 / 3 = 80 km/h."
+        },
+        {
+          "id": "gsa-1-5",
+          "prompt": "20% of a number is 45. What is the number?",
+          "choices": [
+            "90",
+            "180",
+            "225",
+            "250"
+          ],
+          "answer": 2,
+          "explanation": "If 0.20x = 45 then x = 45 / 0.20 = 225."
+        },
+        {
+          "id": "gsa-1-6",
+          "prompt": "Find the simple interest on Rs. 5,000 at 8% per annum for 3 years.",
+          "choices": [
+            "Rs. 800",
+            "Rs. 1,200",
+            "Rs. 1,400",
+            "Rs. 1,600"
+          ],
+          "answer": 1,
+          "explanation": "SI = PRT/100 = (5000 x 8 x 3)/100 = Rs. 1,200."
+        },
+        {
+          "id": "gsa-1-7",
+          "prompt": "If x + 5 = 12, what is the value of 3x?",
+          "choices": [
+            "7",
+            "15",
+            "21",
+            "36"
+          ],
+          "answer": 2,
+          "explanation": "x = 12 - 5 = 7, so 3x = 21."
+        }
+      ]
+    },
+    {
+      "id": "gsa-2",
+      "title": "Logical Reasoning",
+      "subtitle": "Series, coding, analogies, relations",
+      "questions": [
+        {
+          "id": "gsa-2-1",
+          "prompt": "Complete the series: 2, 6, 12, 20, 30, ______",
+          "choices": [
+            "36",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2,
+          "explanation": "The terms are n(n+1): 1x2, 2x3, 3x4, 4x5, 5x6, so the next is 6x7 = 42. The gaps grow 4, 6, 8, 10, 12."
+        },
+        {
+          "id": "gsa-2-2",
+          "prompt": "Complete the series: 3, 7, 15, 31, ______",
+          "choices": [
+            "47",
+            "55",
+            "63",
+            "67"
+          ],
+          "answer": 2,
+          "explanation": "Each term is double the previous plus one: 31 x 2 + 1 = 63."
+        },
+        {
+          "id": "gsa-2-3",
+          "prompt": "If FRIEND is coded as GSJFOE, how is CANDLE coded?",
+          "choices": [
+            "DBOEMF",
+            "DBPEMF",
+            "CBOEMF",
+            "DBOFMF"
+          ],
+          "answer": 0,
+          "explanation": "Each letter moves one place forward: C-A-N-D-L-E becomes D-B-O-E-M-F."
+        },
+        {
+          "id": "gsa-2-4",
+          "prompt": "Doctor : Hospital :: Teacher : ______",
+          "choices": [
+            "Book",
+            "School",
+            "Student",
+            "Lesson"
+          ],
+          "answer": 1,
+          "explanation": "The relation is worker to workplace: a doctor works in a hospital as a teacher works in a school."
+        },
+        {
+          "id": "gsa-2-5",
+          "prompt": "Which number does not belong: 121, 144, 169, 180?",
+          "choices": [
+            "121",
+            "144",
+            "169",
+            "180"
+          ],
+          "answer": 3,
+          "explanation": "121 = 11 squared, 144 = 12 squared, 169 = 13 squared. 180 is not a perfect square."
+        },
+        {
+          "id": "gsa-2-6",
+          "prompt": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+          "choices": [
+            "Sister",
+            "Mother",
+            "Aunt",
+            "Grandmother"
+          ],
+          "answer": 1,
+          "explanation": "The only daughter of her mother is the woman herself; so she is the man's mother."
+        },
+        {
+          "id": "gsa-2-7",
+          "prompt": "Complete the series: AZ, BY, CX, ______",
+          "choices": [
+            "DW",
+            "DV",
+            "EW",
+            "CW"
+          ],
+          "answer": 0,
+          "explanation": "The first letter moves forward (A, B, C, D) while the second moves backward (Z, Y, X, W)."
+        }
+      ]
+    }
+  ]
+}

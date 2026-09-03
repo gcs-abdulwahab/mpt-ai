@@ -1,0 +1,279 @@
+{
+  "unit": "islamic-studies",
+  "kind": "coached",
+  "lessons": [
+    {
+      "id": "isl-1",
+      "title": "Quran & Seerah",
+      "subtitle": "Revelation and the life of the Prophet (PBUH)",
+      "questions": [
+        {
+          "id": "isl-1-1",
+          "prompt": "Over what period was the Holy Quran revealed?",
+          "choices": [
+            "13 years",
+            "23 years",
+            "30 years",
+            "40 years"
+          ],
+          "answer": 1,
+          "explanation": "About 23 years - roughly 13 years in Makkah and 10 in Madinah."
+        },
+        {
+          "id": "isl-1-2",
+          "prompt": "The first revelation was received by the Prophet (PBUH) in the cave of:",
+          "choices": [
+            "Thawr",
+            "Hira",
+            "Uhud",
+            "Safa"
+          ],
+          "answer": 1,
+          "explanation": "In the cave of Hira on Jabal-al-Noor; the first verses were of Surah Al-Alaq."
+        },
+        {
+          "id": "isl-1-3",
+          "prompt": "How many Surahs are there in the Holy Quran?",
+          "choices": [
+            "110",
+            "112",
+            "114",
+            "116"
+          ],
+          "answer": 2,
+          "explanation": "114 Surahs, containing 30 Paras (Juz)."
+        },
+        {
+          "id": "isl-1-4",
+          "prompt": "Which is the longest Surah of the Holy Quran?",
+          "choices": [
+            "Al-Fatihah",
+            "Al-Baqarah",
+            "Al-Imran",
+            "An-Nisa"
+          ],
+          "answer": 1,
+          "explanation": "Surah Al-Baqarah, with 286 verses. The shortest is Surah Al-Kawthar."
+        },
+        {
+          "id": "isl-1-5",
+          "prompt": "The migration (Hijrah) to Madinah took place in:",
+          "choices": [
+            "610 CE",
+            "615 CE",
+            "622 CE",
+            "630 CE"
+          ],
+          "answer": 2,
+          "explanation": "622 CE, the year from which the Islamic Hijri calendar is counted."
+        },
+        {
+          "id": "isl-1-6",
+          "prompt": "The Battle of Badr was fought in:",
+          "choices": [
+            "1 AH",
+            "2 AH",
+            "3 AH",
+            "5 AH"
+          ],
+          "answer": 1,
+          "explanation": "2 AH (624 CE) - the first major battle, in which a small Muslim force defeated the Quraysh."
+        },
+        {
+          "id": "isl-1-7",
+          "prompt": "The Treaty of Hudaybiyyah was concluded in:",
+          "choices": [
+            "4 AH",
+            "5 AH",
+            "6 AH",
+            "8 AH"
+          ],
+          "answer": 2,
+          "explanation": "6 AH (628 CE); though its terms seemed unfavourable, the Quran called it a clear victory."
+        }
+      ]
+    },
+    {
+      "id": "isl-2",
+      "title": "Pillars & Hadith",
+      "subtitle": "Worship, obligations and the Hadith collections",
+      "questions": [
+        {
+          "id": "isl-2-1",
+          "prompt": "How many pillars of Islam are there?",
+          "choices": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+          ],
+          "answer": 2,
+          "explanation": "Shahadah, Salah, Zakat, Sawm and Hajj."
+        },
+        {
+          "id": "isl-2-2",
+          "prompt": "The standard rate of Zakat on accumulated wealth is:",
+          "choices": [
+            "1%",
+            "2.5%",
+            "5%",
+            "10%"
+          ],
+          "answer": 1,
+          "explanation": "2.5% of wealth above the nisab that has been held for a full lunar year. 'Ushr' on produce is 5% or 10%."
+        },
+        {
+          "id": "isl-2-3",
+          "prompt": "Fasting in the month of Ramadan was made obligatory in:",
+          "choices": [
+            "1 AH",
+            "2 AH",
+            "4 AH",
+            "6 AH"
+          ],
+          "answer": 1,
+          "explanation": "2 AH, in the same year as the change of Qibla and the Battle of Badr."
+        },
+        {
+          "id": "isl-2-4",
+          "prompt": "In Sunni tradition, the most authentic collection of Hadith is:",
+          "choices": [
+            "Sunan Abu Dawood",
+            "Sahih al-Bukhari",
+            "Sahih Muslim",
+            "Muwatta Imam Malik"
+          ],
+          "answer": 1,
+          "explanation": "Sahih al-Bukhari, compiled by Imam Muhammad ibn Ismail al-Bukhari, followed by Sahih Muslim."
+        },
+        {
+          "id": "isl-2-5",
+          "prompt": "The Qibla was changed from Bait-ul-Maqdis to the Kaaba in:",
+          "choices": [
+            "1 AH",
+            "2 AH",
+            "3 AH",
+            "5 AH"
+          ],
+          "answer": 1,
+          "explanation": "2 AH in Madinah, as recorded in Surah Al-Baqarah."
+        },
+        {
+          "id": "isl-2-6",
+          "prompt": "Hajj is obligatory on a Muslim who can afford it:",
+          "choices": [
+            "Once in a lifetime",
+            "Twice in a lifetime",
+            "Every five years",
+            "Every year"
+          ],
+          "answer": 0,
+          "explanation": "Once in a lifetime for those with the physical and financial means; further pilgrimages are voluntary."
+        },
+        {
+          "id": "isl-2-7",
+          "prompt": "How many obligatory (fard) prayers are prescribed each day?",
+          "choices": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+          ],
+          "answer": 2,
+          "explanation": "Fajr, Zuhr, Asr, Maghrib and Isha."
+        }
+      ]
+    },
+    {
+      "id": "isl-3",
+      "title": "Caliphate & History",
+      "subtitle": "The rightly guided caliphs and after",
+      "questions": [
+        {
+          "id": "isl-3-1",
+          "prompt": "The first Caliph of Islam was:",
+          "choices": [
+            "Hazrat Umar (RA)",
+            "Hazrat Abu Bakr (RA)",
+            "Hazrat Usman (RA)",
+            "Hazrat Ali (RA)"
+          ],
+          "answer": 1,
+          "explanation": "Hazrat Abu Bakr Siddique (RA), who led the Muslim community from 632 to 634 CE."
+        },
+        {
+          "id": "isl-3-2",
+          "prompt": "Standard copies of the Quran were prepared and distributed during the caliphate of:",
+          "choices": [
+            "Hazrat Abu Bakr (RA)",
+            "Hazrat Umar (RA)",
+            "Hazrat Usman (RA)",
+            "Hazrat Ali (RA)"
+          ],
+          "answer": 2,
+          "explanation": "Hazrat Usman (RA) had standard copies sent to the provinces, which is why he is titled Jami-ul-Quran."
+        },
+        {
+          "id": "isl-3-3",
+          "prompt": "Which caliph is known by the title 'Farooq'?",
+          "choices": [
+            "Hazrat Abu Bakr (RA)",
+            "Hazrat Umar (RA)",
+            "Hazrat Usman (RA)",
+            "Hazrat Ali (RA)"
+          ],
+          "answer": 1,
+          "explanation": "Hazrat Umar ibn al-Khattab (RA) - 'the one who distinguishes truth from falsehood'."
+        },
+        {
+          "id": "isl-3-4",
+          "prompt": "The Battle of Karbala took place in:",
+          "choices": [
+            "50 AH",
+            "61 AH",
+            "72 AH",
+            "80 AH"
+          ],
+          "answer": 1,
+          "explanation": "61 AH (680 CE), where Hazrat Imam Hussain (RA) and his companions were martyred."
+        },
+        {
+          "id": "isl-3-5",
+          "prompt": "The capital of the Umayyad Caliphate was:",
+          "choices": [
+            "Baghdad",
+            "Damascus",
+            "Cairo",
+            "Madinah"
+          ],
+          "answer": 1,
+          "explanation": "Damascus in Syria, from 661 CE until the Abbasid takeover in 750 CE."
+        },
+        {
+          "id": "isl-3-6",
+          "prompt": "The Abbasid Caliphate ruled from its capital at:",
+          "choices": [
+            "Damascus",
+            "Baghdad",
+            "Kufa",
+            "Cordoba"
+          ],
+          "answer": 1,
+          "explanation": "Baghdad, founded in 762 CE by Caliph Al-Mansur and a centre of learning for centuries."
+        },
+        {
+          "id": "isl-3-7",
+          "prompt": "Which companion was given the title 'Saif-ullah' (the Sword of Allah)?",
+          "choices": [
+            "Hazrat Khalid bin Waleed (RA)",
+            "Hazrat Bilal (RA)",
+            "Hazrat Salman Farsi (RA)",
+            "Hazrat Saad bin Abi Waqas (RA)"
+          ],
+          "answer": 0,
+          "explanation": "Hazrat Khalid bin Waleed (RA), commander in the Ridda wars and the conquests of Iraq and Syria."
+        }
+      ]
+    }
+  ]
+}

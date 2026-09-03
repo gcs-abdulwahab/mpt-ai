@@ -1,0 +1,79 @@
+{
+  "unit": "upsc-2025-gs1",
+  "kind": "past-paper",
+  "status": "staging — NOT wired into curriculum.js",
+  "source": "Civil Services (Preliminary) Examination 2025, General Studies Paper I, transcribed from the official UPSC scan (QP-CSP-25-GENERAL-STUDIES-PAPER-I-26052025.pdf).",
+  "note": "Answers are null on purpose. UPSC publishes prelims answer keys only after that cycle's final result, and its answer-key page currently lists none. Do not ship these until an official key can be attached, or until an unofficial key is accepted and flagged.",
+  "lessons": [
+    {
+      "id": "upsc-2025-gs1-1",
+      "title": "UPSC CSE Prelims 2025 · GS Paper I",
+      "subtitle": "Transcribed from the official paper — awaiting the official key",
+      "paper": "UPSC CSE Prelims 2025 (GS Paper I)",
+      "questions": [
+        {
+          "id": "upsc2025gs1-7",
+          "prompt": "Consider the following statements:",
+          "statements": [
+            "As regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.",
+            "Bondholders are lenders to a company whereas stockholders are its owners.",
+            "For repayment purpose, bondholders are prioritized over stockholders by a company."
+          ],
+          "closing": "Which one of the following is correct in respect of the above statements?",
+          "choices": [
+            "Both Statement II and Statement III are correct and both of them explain Statement I",
+            "Both Statement I and Statement II are correct and Statement I explains Statement II",
+            "Only one of the Statements II and III is correct and that explains Statement I",
+            "Neither Statement II nor Statement III is correct"
+          ],
+          "answer": null,
+          "source": { "paper": "UPSC CSE Prelims 2025 (GS Paper I)", "number": 7 }
+        },
+        {
+          "id": "upsc2025gs1-8",
+          "prompt": "Consider the following statements:",
+          "statements": [
+            "India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.",
+            "India's stock market has grown rapidly in the recent past even overtaking Hong Kong's at some point of time.",
+            "There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard."
+          ],
+          "closing": "Which of the statements given above are correct?",
+          "choices": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+          "answer": null,
+          "source": { "paper": "UPSC CSE Prelims 2025 (GS Paper I)", "number": 8 }
+        },
+        {
+          "id": "upsc2025gs1-9",
+          "prompt": "Consider the following statements:",
+          "statements": [
+            "Circular economy reduces the emissions of greenhouse gases.",
+            "Circular economy reduces the use of raw materials as inputs.",
+            "Circular economy reduces wastage in the production process."
+          ],
+          "closing": "Which one of the following is correct in respect of the above statements?",
+          "choices": [
+            "Both Statement II and Statement III are correct and both of them explain Statement I",
+            "Both Statement II and Statement III are correct but only one of them explains Statement I",
+            "Only one of the Statements II and III is correct and that explains Statement I",
+            "Neither Statement II nor Statement III is correct"
+          ],
+          "answer": null,
+          "source": { "paper": "UPSC CSE Prelims 2025 (GS Paper I)", "number": 9 }
+        },
+        {
+          "id": "upsc2025gs1-10",
+          "prompt": "Consider the following statements:",
+          "statements": [
+            "Capital receipts create a liability or cause a reduction in the assets of the Government.",
+            "Borrowings and disinvestment are capital receipts.",
+            "Interest received on loans creates a liability of the Government."
+          ],
+          "closing": "Which of the statements given above are correct?",
+          "choices": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+          "answer": null,
+          "source": { "paper": "UPSC CSE Prelims 2025 (GS Paper I)", "number": 10 }
+        }
+      ]
+    }
+  ]
+}

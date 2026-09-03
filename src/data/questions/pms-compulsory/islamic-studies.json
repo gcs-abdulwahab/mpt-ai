@@ -1,0 +1,343 @@
+{
+  "unit": "pms-compulsory-islamic-studies",
+  "title": "Islamic Studies",
+  "kind": "past-paper",
+  "lessons": [
+    {
+      "id": "pmsc-islamic-studies-1",
+      "title": "PPSC PMS Islamic Studies 2026 · Set 1",
+      "subtitle": "PMS compulsory paper · Part-I MCQs",
+      "paper": "PPSC PMS Islamic Studies 2026",
+      "questions": [
+        {
+          "id": "pmsc-islamic-studies-q1",
+          "prompt": "When did the Holy Prophet (PBUH) migrate to Madina after declaration of Prophethood?",
+          "choices": [
+            "12th Year",
+            "13th Year",
+            "10th Year",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "The Holy Prophet (PBUH) migrated from Mecca to Medina in 622 CE, It was in the 13th year of his Prophethood. This marks the beginning of the Islamic calendar. This event, known as the Hijra. Last updated by NA on 25- April-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q2",
+          "prompt": "Who is referred in the Quran as Rooh-ul-Ameen/Ar-Rooh/Rooh-al-Qudus?",
+          "choices": [
+            "Hazrat lzrael (AS)",
+            "Hazrat Israfeel (AS)",
+            "Hazra Jibrael (AS)",
+            "Hazrat Mekael (AS)"
+          ],
+          "answer": 2,
+          "explanation": "Rooh-ul-Qudus (The Holy Spirit) and Rooh-ul-Ameen (The Trustworthy Spirit) refer to Angel Jibreel (Gabriel). Chief angel of Allah, responsible for delivering revelations to the Prophets, especially Prophet Muhammad (PBUH). Mentioned by name only three times in the Holy Quran. Appears in verses like Surah Al-Qadr and Su",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q3",
+          "prompt": "Nisab of Zakat for Silver is?",
+          "choices": [
+            "40 Tolas",
+            "50 Tolas",
+            "50 ½ Tolas",
+            "52 ½ Tolas"
+          ],
+          "answer": 3,
+          "explanation": "Nisab of zakat for silver is 52 1/2 tola612.36 grams of silver is the Ratio of Zakat in grams of SilverThe ratio / Nisab of Zakat is 2.5%52.5 Tola silver7 tola GoldAdditional information: Zakat means Purification. When Zakat was made compulsory in 2 A. H. (properly implemented in 8 Hijri. The word Zakat occurs 32 times",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q4",
+          "prompt": "Which prophet of Allah is called Abu Al-Bashar?",
+          "choices": [
+            "Hazrat Muhammad ﷺ",
+            "Hazrat Ibrahim (AH)",
+            "Hazrat Nooh (AH)",
+            "Hazrat Adam (AH)"
+          ],
+          "answer": 3,
+          "explanation": "Title: Abu Al-Bashar (Father of Mankind)Prophet: Hazrat Adam (A. S)Wife: Hawwa (Eve)Status: First human being and first prophetReligion: Islam (submission to Allah)Last verified on 16-05-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q5",
+          "prompt": "The important part of Hajj is ?",
+          "choices": [
+            "Saee",
+            "Waqoof e Arafat",
+            "Tawaf",
+            "None of the above"
+          ],
+          "answer": 1,
+          "explanation": "The most important part of Hajj is the Day of 'ArafahThis takes place on the 9th day of Dhul-HijjahIt is often described as the heart of Hajj,Pilgrims travel from Mina to the plains of ArafatLast updated by NA on 25- April-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q6",
+          "prompt": "Talmood is a book of which religion",
+          "choices": [
+            "Muslim",
+            "Jews",
+            "Christian",
+            "None"
+          ],
+          "answer": 1,
+          "explanation": "The Talmud is the central text of Rabbinic JudaismIt is a primary source of Jewish law (Halakha)The Talmud is the \"Oral Law\" (Mishnah and Gemara)That explains, debates, and applies the Torah to daily life. Last updated by NA on 25- April-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q7",
+          "prompt": "Which is the third month of Islamic Calendar?",
+          "choices": [
+            "Rabi-ul-Awwal",
+            "Safar",
+            "Jamadi-ul-Awwal",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Rabi' al-Awwal is the third month of the Islamic (Hijri) calendarTranslates to \"The First Spring\" List of Islamic MonthsMuḥarram, محرم الحرامṢafar, صفر المظفرRabi al Awwal ربیع الاولRabi al Sani ربیع الثانیJumada al Awwal جمادی الاولJumada al Thani جمادی الثانیRajab, رجب المرجبShabanشعبان المعظمRamadan(fasting), رمضان ",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q8",
+          "prompt": "The last wife of Prophet Muhammad (SAAW)?",
+          "choices": [
+            "Sawada",
+            "Ayesh",
+            "Maria",
+            "Maimuna"
+          ],
+          "answer": 3,
+          "explanation": "Maymunah bint al-Harith al-Hilaliyyah was the eleventh of Muhammad. Her original name was Barrah Muhammad changed to Maymunah, meaning \"good tidings\", Born: 594 CE, Mecca, Hejaz, Arabia (present-day KSA)Died: Dhu al-Hijjah, 51 A. H. age was 80 or 81. Resting place: Sarif, HejazTitle: Ummul-Muʾmineen\"Hazrat Muhammad PBU",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q9",
+          "prompt": "What is the main message of Surah Hujurat?",
+          "choices": [
+            "Kind towards women",
+            "Ethic",
+            "Treatment with slaves",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Surah Al-Hujurat focuses on establishing the ethical guidelines for a healthy Muslim community Al-hujurat meaning: The Chambers49th chapter (surah) of the Quran Classification: MedinanPosition: Juzʼ 26No. of verses: 18No. of Rukus: 2No. of words: 353No. of letters 1533Last updated by NA on 25- April-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q10",
+          "prompt": "Abdullah bin Ubay (Head of Munafiqeen) died in?",
+          "choices": [
+            "8 AH",
+            "9 AH",
+            "10 AH",
+            "7 AH"
+          ],
+          "answer": 1,
+          "explanation": "Abdullah bin Ubayy passed away in the month of Dhul-Qada in the 9 AHLabelled him a munafiq or hypocrite and \"leader of the munafiqun.\"He was the chief of the Arab tribe Banu Khazraj Leading men of Medina Other name: Ibn SalulLast updated by NA on 25- April-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pmsc-islamic-studies-2",
+      "title": "PPSC PMS Islamic Studies 2026 · Set 2",
+      "subtitle": "PMS compulsory paper · Part-I MCQs",
+      "paper": "PPSC PMS Islamic Studies 2026",
+      "questions": [
+        {
+          "id": "pmsc-islamic-studies-q11",
+          "prompt": "The analysis of the text of Hadith is called in terminology?",
+          "choices": [
+            "Dirayat",
+            "Mustalahat",
+            "Asma al-Rijal",
+            "Ahwal-al-Rawi"
+          ],
+          "answer": 0,
+          "explanation": "Dirayat al-Hadith: This branch of Hadith science focuses on the analysis of the text (Matn). Ensures the meaning and context are correctly understoodAdditional informationMustalahat: This refers generally to the classification and terminology used in Hadith studiesAsma al-Rijal: This is the science of the biographies o",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q12",
+          "prompt": "For how many years Bani Israel wandered in Desert of Sinai?",
+          "choices": [
+            "60",
+            "50",
+            "30",
+            "40"
+          ],
+          "answer": 3,
+          "explanation": "Bani Israel wandered in the desert for 40 years. Due to the refusal to enter the Promised Land (Canaan) Bani Israel refers to the descendants of Hazrat Yaqoob (A. S)Last updated by NA on 25- April-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q13",
+          "prompt": "Marital relation resulting in another relation is called?",
+          "choices": [
+            "Musaharat",
+            "Hadanat",
+            "Qurabat",
+            "Silah Rehmi"
+          ],
+          "answer": 0,
+          "explanation": "Musaharat (Affinity): Relations established through marriage (e.g., mother-in-law, son-in-law, stepchildren). Hadanat (Custody): The right and duty to look after a child, especially after a divorce. Qurabat (Kinship): Relatives, generally by blood. Silah Rehmi (Kindness to Relatives): The Islamic duty of maintaining go",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q14",
+          "prompt": "First Hajj in Islam was performed in?",
+          "choices": [
+            "8 Hijri",
+            "9 Hijri",
+            "10 Hijri",
+            "11 Hijri"
+          ],
+          "answer": 1,
+          "explanation": "First Hajj offered in 9 A. H. Hajj means to intend. There are 3 types of Hajj. Hajj was made compulsory in 9 A. H",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q15",
+          "prompt": "Shah Abdul Qadir translated Quran in ______ language?",
+          "choices": [
+            "Urdu",
+            "Persian",
+            "English",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Shah Abdul Qadir translated the Quran into Urdu languageCompleted around 1790 (or published around 1828)He was the son of Shah Abdul Aziz Dehlawi The grandson of Shah Waliullah. Additional informationFirst time translated into Punjabi: Tauqir Amaan KhanFirst time translated into Sindhi: Aakhund AzzizullahFirst time tra",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q16",
+          "prompt": "The divorce in which the husband loses the right to “Ruju\"?",
+          "choices": [
+            "Raj’i",
+            "Ahsan",
+            "Ba’in",
+            "Bid’at"
+          ],
+          "answer": 2,
+          "explanation": "An irrevocable divorce (Talaq-e-Bain) is the divorce in which a husband loses the right to ruju (reconcile/take back) His wife during the iddah (waiting) periodAdditional informationRaj’i (Talaq-i-Rajaee): This is a revocable divorce, where the husband has the right to Ruju during the iddah period. Ahsan: This is the m",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q17",
+          "prompt": "Who is the author of the book Seerat-al-Mustafa?",
+          "choices": [
+            "Saif-ur-Rehman",
+            "Salman Nadvi",
+            "Idrees Kandhalvi",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "The author of the book “Seerat-al-Mustafa” is Idris KandhlawiLanguage: Urdu. Published in three volumesPublished: 1941 (As per the İslam Ansiklopedisi)Published in English: 2011Last updated by NA on 25- April-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q18",
+          "prompt": "Year of grief is?",
+          "choices": [
+            "8th Nabvi",
+            "9th Nabvi",
+            "10th Nabvi",
+            "11th Nabvi"
+          ],
+          "answer": 2,
+          "explanation": "The \"Year of Grief\" (Aam-ul-Huzn) is the 10th Nabvi It is known by Death of Hazrat Khadija (RA) and Abu TalibPeriod of extreme hardship following the boycott of Banu HashimLast updated by NA on 25- April-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q19",
+          "prompt": "What is meant by Nakhl?",
+          "choices": [
+            "Bee",
+            "Palm Tree",
+            "Kernel",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Nakhl refers to the Palm Tree The word comes from Arabic (نخل) It is mentioned frequently in the QuranLast updated by NA on 25- April-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        },
+        {
+          "id": "pmsc-islamic-studies-q20",
+          "prompt": "Which Prophet's story' is named as Ahsan-ul-Qasas in the Holy Quran?",
+          "choices": [
+            "Hazrat Yousuf (AS)",
+            "Hazrat Adam (A.S)",
+            "Hazrat Musa (A.S)",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "The story of Prophet Yusuf (Joseph) (AS) is described as Ahsan-ul-QasasAhsan-ul-Qasas means (the best of stories) in the Holy Quran. Surah Yusuf: 12th chapter of the Qur’anMain theme: Patience and trust in AllahNation: Bani IsraelLessons: Forgiveness, honesty, patienceLast verified on 25-04-2026",
+          "source": {
+            "paper": "PPSC PMS Islamic Studies 2026",
+            "keySource": "testpointpk.com"
+          }
+        }
+      ]
+    }
+  ]
+}

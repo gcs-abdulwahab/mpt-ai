@@ -1,0 +1,963 @@
+{
+  "unit": "css-compulsory-gsa",
+  "title": "General Science & Ability",
+  "kind": "past-paper",
+  "source": "Part-I MCQs of the CSS General Science & Ability papers (cssforum.net). No official key was published, so the answers here were worked out by MPT-AI.",
+  "lessons": [
+    {
+      "id": "general-knowledge-cssgsa2013-1",
+      "title": "CSS GSA 2013 · Set 1",
+      "subtitle": "CSS written-exam paper · answers worked out by MPT-AI",
+      "paper": "CSS GSA 2013",
+      "keyedBy": "mpt-ai",
+      "questions": [
+        {
+          "id": "cssgsa2013-1",
+          "prompt": "Who proposed the concept “All motion is relative” ?",
+          "choices": [
+            "Albert Einstein",
+            "John Kepler",
+            "Galileo Galilie",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Galilean relativity — Galileo argued that motion can only be described relative to another body. Einstein later generalised the idea.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 1,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-2",
+          "prompt": "The field of specialization of famous Muslim scientist Abu Usman Aljahiz was:",
+          "choices": [
+            "Botany",
+            "Zoology",
+            "Astronomy",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Abu Usman al-Jahiz wrote Kitab al-Hayawan (the Book of Animals), the founding work of Arabic zoology.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 2,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-3",
+          "prompt": "Albatros is:",
+          "choices": [
+            "A sea bird",
+            "A beetle",
+            "A fruit",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "The albatross is a large seabird with the longest wingspan of any living bird.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 3,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-5",
+          "prompt": "The biggest planet in our solar system is:",
+          "choices": [
+            "Venus",
+            "Pluto",
+            "Jupiter",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Jupiter is the largest planet in the solar system — about 11 times the diameter of Earth.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 5,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-6",
+          "prompt": "The biggest species of the cat family is:",
+          "choices": [
+            "Tiger",
+            "Lion",
+            "Leopard",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "The tiger is the largest member of the cat family; the Siberian tiger is the biggest of all.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 6,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-7",
+          "prompt": "Which group of animals has heterogametic females?",
+          "choices": [
+            "Domestic fowl",
+            "Earthworm",
+            "Rabbit",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Birds use the ZW system, so the female is ZW — heterogametic. In mammals the male (XY) is heterogametic.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 7,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-8",
+          "prompt": "The dominant phase of life cycle in these organisms is haploid:",
+          "choices": [
+            "Mosses",
+            "Bacteria",
+            "Protozoa",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "In mosses the dominant, visible plant is the haploid gametophyte; the sporophyte stays attached and dependent.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 8,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-9",
+          "prompt": "The atmosphere of moon consists of:",
+          "choices": [
+            "90% Hydrogen, 10% Nitrogen",
+            "80% Nitrogen, 20% Hydrogen",
+            "60% Nitrogen, 40% inert gases",
+            "None of these"
+          ],
+          "answer": 3,
+          "explanation": "The Moon has effectively no atmosphere — only a trace exosphere of helium, argon, neon and hydrogen. None of the listed mixtures is correct.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 9,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-10",
+          "prompt": "The chemical name of quartz is:",
+          "choices": [
+            "Silicon Dioxide",
+            "Stannous oxide",
+            "Aluminium Oxide",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Quartz is crystalline silicon dioxide, SiO2.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 10,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-11",
+          "prompt": "Which month of a calendar year can lack a new moon?",
+          "choices": [
+            "December",
+            "February",
+            "May",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "A lunar month is about 29.5 days, so only February — at 28 or 29 days — can pass without a new moon.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 11,
+            "keyedBy": "mpt-ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-cssgsa2013-2",
+      "title": "CSS GSA 2013 · Set 2",
+      "subtitle": "CSS written-exam paper · answers worked out by MPT-AI",
+      "paper": "CSS GSA 2013",
+      "keyedBy": "mpt-ai",
+      "questions": [
+        {
+          "id": "cssgsa2013-12",
+          "prompt": "Deuterium differs from hydrogen in having:",
+          "choices": [
+            "Different atomic number but same atomic weight",
+            "Different atomic number and different atomic weight",
+            "Same atomic number but different atomic weight",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Deuterium is an isotope of hydrogen: one proton (same atomic number) plus a neutron, so roughly double the mass.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 12,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-13",
+          "prompt": "One of the following is a water soluble vitamin:",
+          "choices": [
+            "Vitamin A",
+            "Vitamin K",
+            "Vitamin D",
+            "None of these"
+          ],
+          "answer": 3,
+          "explanation": "A, D and K are all fat-soluble. The water-soluble vitamins are C and the B group, so none of the options fits.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 13,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-14",
+          "prompt": "Coulomb is the scientific unit to measure:",
+          "choices": [
+            "Velocity",
+            "Temperature",
+            "Mass",
+            "None of these"
+          ],
+          "answer": 3,
+          "explanation": "The coulomb measures electric charge, not velocity, temperature or mass.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 14,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-15",
+          "prompt": "Equator passes through one of these countries:",
+          "choices": [
+            "Saudi Arabia",
+            "Italy",
+            "Japan",
+            "None of these"
+          ],
+          "answer": 3,
+          "explanation": "The equator crosses countries such as Ecuador, Kenya and Indonesia — not Saudi Arabia, Italy or Japan.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 15,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-16",
+          "prompt": "Anti Diuretic hormone is secreted by one of the following glands:",
+          "choices": [
+            "Pituitary",
+            "Pancreas",
+            "Thyroid",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "ADH (vasopressin) is made in the hypothalamus and released into the blood by the posterior pituitary.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 16,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-17",
+          "prompt": "Basha Dam is to be constructed on:",
+          "choices": [
+            "River Sutlaj",
+            "River Jhelum",
+            "River Chenab",
+            "None of these"
+          ],
+          "answer": 3,
+          "explanation": "Diamer-Bhasha Dam is being built on the River Indus, not the Sutlej, Jhelum or Chenab.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 17,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-18",
+          "prompt": "UV light falls in the category of:",
+          "choices": [
+            "Ionizing Radiations",
+            "Non-Ionizing Radiations",
+            "Visible Light",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "UV is conventionally classed as non-ionizing radiation, though the shortest UV-C wavelengths begin to ionize.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 18,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2013-19",
+          "prompt": "The earth’s ---------------------- is divided into 15 major plates of various sizes:",
+          "choices": [
+            "Mesosphere",
+            "Stratosphere",
+            "Lithosphere",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "The lithosphere - the crust plus the rigid upper mantle - is broken into roughly 15 major tectonic plates.",
+          "source": {
+            "paper": "CSS GSA 2013",
+            "number": 19,
+            "keyedBy": "mpt-ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-cssgsa2024-1",
+      "title": "CSS GSA 2024 · Set 1",
+      "subtitle": "CSS written-exam paper · answers worked out by MPT-AI",
+      "paper": "CSS GSA 2024",
+      "keyedBy": "mpt-ai",
+      "questions": [
+        {
+          "id": "cssgsa2024-1",
+          "prompt": "In fish liver oil there is:",
+          "choices": [
+            "Vitamin A only",
+            "Vitamin D only",
+            "Vitamin A and vitamin E",
+            "Vitamin A and Vitamin D"
+          ],
+          "answer": 3,
+          "explanation": "Fish liver oil is a rich source of both vitamin A and vitamin D.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 1,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-2",
+          "prompt": "When day and night are equal?",
+          "choices": [
+            "23rd February and 21st September",
+            "21st March and 23rd September",
+            "23rd March and 21st September",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "The equinoxes: about 21 March and 23 September, when the Sun is overhead at the equator.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 2,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-3",
+          "prompt": "What are total number of combinations of 09 things taken 03 at a time?",
+          "choices": [
+            "18",
+            "27",
+            "48",
+            "84"
+          ],
+          "answer": 3,
+          "explanation": "Combinations of 9 things taken 3 at a time = 9!/(3!x6!) = 84.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 3,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-4",
+          "prompt": "The chemical formula for alum is:",
+          "choices": [
+            "KAl(SO₄)₂·12H₂O",
+            "KSi(SO₄)₂·12H₂O",
+            "KAl(SO₄)₂·8H₂O",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Potash alum is KAl(SO4)2.12H2O — a double sulphate of potassium and aluminium with twelve waters of crystallisation.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 4,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-5",
+          "prompt": "If the radius of a circle is increased three times then its area is increased:",
+          "choices": [
+            "Three times",
+            "Six times",
+            "Nine times",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Area scales with the square of the radius, so tripling the radius multiplies the area by 9.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 5,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-6",
+          "prompt": "One degree of longitude on the equator is equal to a distance of:",
+          "choices": [
+            "49 miles",
+            "69 miles",
+            "39 miles",
+            "60 miles"
+          ],
+          "answer": 1,
+          "explanation": "The equator is about 24,900 miles round and 360 degrees, so one degree is roughly 69 miles (111 km).",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 6,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-7",
+          "prompt": "The protein molecule is made of:",
+          "choices": [
+            "Alkaloids",
+            "Nucleosides",
+            "Short range chain of amino acids",
+            "Long range chain of amino acids"
+          ],
+          "answer": 3,
+          "explanation": "Proteins are long chains of amino acids joined by peptide bonds; short chains are peptides.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 7,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-8",
+          "prompt": "The minimum amount of vitamin stored in the human body is of:",
+          "choices": [
+            "Vitamin D",
+            "Vitamin C",
+            "Vitamin E",
+            "Vitamin A"
+          ],
+          "answer": 1,
+          "explanation": "Vitamin C is water-soluble and excreted rather than stored, so the body holds the smallest reserve of it.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 8,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-10",
+          "prompt": "The pH of soil is raised using:",
+          "choices": [
+            "Lime stone",
+            "Gypsum",
+            "Urea",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Limestone (calcium carbonate) neutralises acidity, raising soil pH. Gypsum does not change pH appreciably.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 10,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-11",
+          "prompt": "Which of the following is used for measuring distance?",
+          "choices": [
+            "Coulomb",
+            "Light year",
+            "Farad",
+            "Curie"
+          ],
+          "answer": 1,
+          "explanation": "A light year is the distance light travels in a year. Coulomb measures charge, farad capacitance and curie radioactivity.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 11,
+            "keyedBy": "mpt-ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-cssgsa2024-2",
+      "title": "CSS GSA 2024 · Set 2",
+      "subtitle": "CSS written-exam paper · answers worked out by MPT-AI",
+      "paper": "CSS GSA 2024",
+      "keyedBy": "mpt-ai",
+      "questions": [
+        {
+          "id": "cssgsa2024-12",
+          "prompt": "Which of the following contains a greater number of carbon atoms in one mole of each compound?",
+          "choices": [
+            "Chloroform",
+            "Methanol",
+            "Water",
+            "Ethanol"
+          ],
+          "answer": 3,
+          "explanation": "Ethanol (C2H5OH) has two carbon atoms per molecule; chloroform and methanol have one and water none.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 12,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-13",
+          "prompt": "A pencil dipped in water appears bent due to:",
+          "choices": [
+            "Reflection",
+            "Diffraction",
+            "Refraction",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Light bends as it passes between water and air — refraction — so the submerged part appears displaced.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 13,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-14",
+          "prompt": "Fishes die outside the water due to:",
+          "choices": [
+            "Carbon monoxide",
+            "Oxygen",
+            "Sun light",
+            "Non-absorption of oxygen"
+          ],
+          "answer": 3,
+          "explanation": "Gills work only in water: out of it the filaments collapse and the fish cannot absorb dissolved oxygen.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 14,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-15",
+          "prompt": "In dementia a person:",
+          "choices": [
+            "Loses his weight",
+            "Loses thinking and writing",
+            "Loses thinking, remembering, and reasoning",
+            "All of these"
+          ],
+          "answer": 2,
+          "explanation": "Dementia is a progressive loss of thinking, memory and reasoning severe enough to disrupt daily life.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 15,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-16",
+          "prompt": "Earthquake is measured by the instrument:",
+          "choices": [
+            "Wave guide",
+            "Barometer",
+            "Seismograph",
+            "Hydrometer"
+          ],
+          "answer": 2,
+          "explanation": "A seismograph records the ground motion of an earthquake; the magnitude is then read off that record.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 16,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-17",
+          "prompt": "A cyclone is formed:",
+          "choices": [
+            "When the warm air rises upward over the ocean",
+            "When moist air rises upward over the ocean",
+            "When moist air pressed downward over the ocean",
+            "When warm, moist air rises upward over the ocean"
+          ],
+          "answer": 3,
+          "explanation": "A cyclone forms where warm, moist air rises over the ocean, leaving low pressure that draws in more air.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 17,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-18",
+          "prompt": "Why red light is used in traffic signal for danger?",
+          "choices": [
+            "Due to short wavelength",
+            "Due to high frequency",
+            "It has long wavelength and high frequency",
+            "It has long wavelength and short frequency"
+          ],
+          "answer": 3,
+          "explanation": "Red has the longest wavelength of visible light, and therefore the lowest frequency; it scatters least, so it stays visible farthest.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 18,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2024-19",
+          "prompt": "The heavy water is:",
+          "choices": [
+            "Denoted by D₂O and contains simple hydrogen",
+            "Denoted by H₂O and contains deuterium",
+            "Denoted by D₂O and contains deuterium",
+            "Denoted by H₂O and contains simple hydrogen"
+          ],
+          "answer": 2,
+          "explanation": "Heavy water is D2O — water in which both hydrogens are deuterium.",
+          "source": {
+            "paper": "CSS GSA 2024",
+            "number": 19,
+            "keyedBy": "mpt-ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-cssgsa2025-1",
+      "title": "CSS GSA 2025 · Set 1",
+      "subtitle": "CSS written-exam paper · answers worked out by MPT-AI",
+      "paper": "CSS GSA 2025",
+      "keyedBy": "mpt-ai",
+      "questions": [
+        {
+          "id": "cssgsa2025-2",
+          "prompt": "Most major Tsunamis are produced by earthquakes with hypocenters less than:",
+          "choices": [
+            "30 km",
+            "40 km",
+            "50 km",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Most tsunami-generating earthquakes are shallow-focus, with hypocentres in the top 30 km of the crust.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 2,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-3",
+          "prompt": "Which of the following source of energy is caused by uneven heating of earth’s surface?",
+          "choices": [
+            "Wind",
+            "Solar",
+            "Biomass",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Uneven heating of the surface sets up pressure differences, and air moving between them is wind.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 3,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-5",
+          "prompt": "Perinatal transmission is said to occur when a pathogen is transmitted from:",
+          "choices": [
+            "Non-human to human",
+            "Infected to uninfected",
+            "Mother to infant",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Perinatal transmission passes an infection from mother to infant around the time of birth.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 5,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-6",
+          "prompt": "Which of the plant group needs both land and water to complete their life cycle?",
+          "choices": [
+            "Bryophyta",
+            "Tracheophyta",
+            "Thallophyta",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Bryophytes (mosses and liverworts) live on land but need a film of water for their sperm to reach the egg.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 6,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-7",
+          "prompt": "Maximum amount of carbohydrates are obtained from:",
+          "choices": [
+            "Nuts",
+            "Plant oil",
+            "Whole grain food",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Whole grains are largely starch, the richest of the listed sources of carbohydrate; nuts and plant oils are mostly fat.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 7,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-8",
+          "prompt": "Which of the following class has the largest number of animals?",
+          "choices": [
+            "Fishes",
+            "Insects",
+            "Mammals",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Insects account for the majority of all described animal species — over a million of them.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 8,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-9",
+          "prompt": "The process of preserving meat by stewing in a covered earthenware jug is called:",
+          "choices": [
+            "Burial",
+            "Jugging",
+            "Curing",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Jugging is the old method of stewing meat slowly in a covered earthenware jug.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 9,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-10",
+          "prompt": "All operating systems get their total memory initialized from:",
+          "choices": [
+            "BIOS",
+            "RAM",
+            "ROM",
+            "CPU"
+          ],
+          "answer": 0,
+          "explanation": "At power-on the BIOS runs POST, initialises the memory and hands a usable memory map to the operating system.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 10,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-11",
+          "prompt": "The amount of data transmitted for a given amount of time is called:",
+          "choices": [
+            "Noise",
+            "Bandwidth",
+            "Frequency",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Bandwidth is the volume of data a channel can carry per unit of time.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 11,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-12",
+          "prompt": "Which of the following products can be prepared using raw guava?",
+          "choices": [
+            "Jam",
+            "Jelly",
+            "Both (A) and (B)",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Raw, under-ripe guava is high in pectin, so it sets well as both jam and jelly.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 12,
+            "keyedBy": "mpt-ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge-cssgsa2025-2",
+      "title": "CSS GSA 2025 · Set 2",
+      "subtitle": "CSS written-exam paper · answers worked out by MPT-AI",
+      "paper": "CSS GSA 2025",
+      "keyedBy": "mpt-ai",
+      "questions": [
+        {
+          "id": "cssgsa2025-13",
+          "prompt": "Which of the following is used as a stabilizer in ice cream?",
+          "choices": [
+            "Sugar",
+            "Milk",
+            "Gelatin",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Gelatin is a classic ice-cream stabiliser: it binds water and keeps ice crystals small.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 13,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-14",
+          "prompt": "In the structure of fiber, the light is guided through the core due to total internal:",
+          "choices": [
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "An optical fibre guides light by total internal reflection at the core-cladding boundary.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 14,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-15",
+          "prompt": "Who is known as the inventor of Artificial Intelligence?",
+          "choices": [
+            "Charles Babbage",
+            "John McCarthy",
+            "Alan Turing",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "John McCarthy coined the term \"artificial intelligence\" in 1955 and is called its father.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 15,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-17",
+          "prompt": "Cement factory labourer are prone to:",
+          "choices": [
+            "Leukemia",
+            "Cytosilicosis",
+            "Bone marrow",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Cement work exposes labourers to silica dust, causing silicosis (spelled \"cytosilicosis\" in the paper).",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 17,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-18",
+          "prompt": "The fastest enzyme is:",
+          "choices": [
+            "Pepsin",
+            "DNA polymerase",
+            "Carbonic anhydrase",
+            "None of these"
+          ],
+          "answer": 2,
+          "explanation": "Carbonic anhydrase is the fastest known enzyme, turning over up to a million molecules a second.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 18,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-19",
+          "prompt": "Process of adding vitamins to milk is known as:",
+          "choices": [
+            "Flavoring",
+            "Fortification",
+            "Fermentation",
+            "None of these"
+          ],
+          "answer": 1,
+          "explanation": "Adding vitamins or minerals that were not originally present is fortification.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 19,
+            "keyedBy": "mpt-ai"
+          }
+        },
+        {
+          "id": "cssgsa2025-20",
+          "prompt": "The waves which are used for line of sight (LOS) communication are called:",
+          "choices": [
+            "Space waves",
+            "Cable waves",
+            "Antenna waves",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "Space (direct) waves travel in a straight line from transmitter to receiver, which is what line-of-sight links use.",
+          "source": {
+            "paper": "CSS GSA 2025",
+            "number": 20,
+            "keyedBy": "mpt-ai"
+          }
+        }
+      ]
+    }
+  ]
+}
